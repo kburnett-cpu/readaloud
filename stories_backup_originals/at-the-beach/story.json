@@ -1,0 +1,430 @@
+{
+  "schemaVersion": 1,
+  "id": "at-the-beach",
+  "title": "At the Beach",
+  "author": "Hope Academy",
+  "cover": "cover.jpg",
+  "gradeLevel": "PreK",
+  "readingLevel": "Pre-A",
+  "lexile": "BR100L",
+  "wordCount": 62,
+  "highlightMode": "word",
+  "celebrationStyle": "confetti",
+  "display": {
+    "fontSize": 32,
+    "fontFamily": "Andika",
+    "lineHeight": 1.75,
+    "wordSpacing": "0.15em",
+    "letterSpacing": "0.03em"
+  },
+  "pages": [
+    {
+      "text": "We are at the beach!",
+      "image": "page-01.png",
+      "bg": "#E3F2FD",
+      "accent": "#42A5F5",
+      "audio": "page-01.mp3",
+      "timestamps": [
+        {
+          "word": "We",
+          "start": 0.0,
+          "end": 0.174
+        },
+        {
+          "word": "are",
+          "start": 0.221,
+          "end": 0.348
+        },
+        {
+          "word": "at",
+          "start": 0.383,
+          "end": 0.464
+        },
+        {
+          "word": "the",
+          "start": 0.511,
+          "end": 0.58
+        },
+        {
+          "word": "beach!",
+          "start": 0.627,
+          "end": 1.161
+        }
+      ]
+    },
+    {
+      "text": "I see the big blue water.",
+      "image": "page-02.png",
+      "bg": "#E3F2FD",
+      "accent": "#1E88E5",
+      "audio": "page-02.mp3",
+      "timestamps": [
+        {
+          "word": "I",
+          "start": 0.0,
+          "end": 0.081
+        },
+        {
+          "word": "see",
+          "start": 0.174,
+          "end": 0.337
+        },
+        {
+          "word": "the",
+          "start": 0.372,
+          "end": 0.441
+        },
+        {
+          "word": "big",
+          "start": 0.488,
+          "end": 0.639
+        },
+        {
+          "word": "blue",
+          "start": 0.685,
+          "end": 0.906
+        },
+        {
+          "word": "water.",
+          "start": 0.952,
+          "end": 1.393
+        }
+      ]
+    },
+    {
+      "text": "I see the yellow sand.",
+      "image": "page-03.png",
+      "bg": "#FFF9C4",
+      "accent": "#F9A825",
+      "audio": "page-03.mp3",
+      "timestamps": [
+        {
+          "word": "I",
+          "start": 0.0,
+          "end": 0.081
+        },
+        {
+          "word": "see",
+          "start": 0.197,
+          "end": 0.406
+        },
+        {
+          "word": "the",
+          "start": 0.453,
+          "end": 0.522
+        },
+        {
+          "word": "yellow",
+          "start": 0.58,
+          "end": 0.871
+        },
+        {
+          "word": "sand.",
+          "start": 0.952,
+          "end": 1.44
+        }
+      ]
+    },
+    {
+      "text": "I feel the warm sun.",
+      "image": "page-04.png",
+      "bg": "#FFF9C4",
+      "accent": "#FDD835",
+      "audio": "page-04.mp3",
+      "timestamps": [
+        {
+          "word": "I",
+          "start": 0.0,
+          "end": 0.081
+        },
+        {
+          "word": "feel",
+          "start": 0.232,
+          "end": 0.569
+        },
+        {
+          "word": "the",
+          "start": 0.65,
+          "end": 0.72
+        },
+        {
+          "word": "warm",
+          "start": 0.766,
+          "end": 1.057
+        },
+        {
+          "word": "sun.",
+          "start": 1.138,
+          "end": 1.486
+        }
+      ]
+    },
+    {
+      "text": "I feel the cool water.",
+      "image": "page-05.png",
+      "bg": "#E0F7FA",
+      "accent": "#26C6DA",
+      "audio": "page-05.mp3",
+      "timestamps": [
+        {
+          "word": "I",
+          "start": 0.0,
+          "end": 0.081
+        },
+        {
+          "word": "feel",
+          "start": 0.197,
+          "end": 0.43
+        },
+        {
+          "word": "the",
+          "start": 0.488,
+          "end": 0.557
+        },
+        {
+          "word": "cool",
+          "start": 0.615,
+          "end": 0.871
+        },
+        {
+          "word": "water.",
+          "start": 0.94,
+          "end": 1.393
+        }
+      ]
+    },
+    {
+      "text": "I hear the waves.",
+      "image": "page-06.png",
+      "bg": "#E3F2FD",
+      "accent": "#42A5F5",
+      "audio": "page-06.mp3",
+      "timestamps": [
+        {
+          "word": "I",
+          "start": 0.0,
+          "end": 0.07
+        },
+        {
+          "word": "hear",
+          "start": 0.186,
+          "end": 0.36
+        },
+        {
+          "word": "the",
+          "start": 0.406,
+          "end": 0.476
+        },
+        {
+          "word": "waves.",
+          "start": 0.534,
+          "end": 1.207
+        }
+      ]
+    },
+    {
+      "text": "I find a big shell.",
+      "image": "page-07.png",
+      "bg": "#FFF3E0",
+      "accent": "#FFA726",
+      "audio": "page-07.mp3",
+      "timestamps": [
+        {
+          "word": "I",
+          "start": 0.0,
+          "end": 0.081
+        },
+        {
+          "word": "find",
+          "start": 0.197,
+          "end": 0.406
+        },
+        {
+          "word": "a",
+          "start": 0.453,
+          "end": 0.488
+        },
+        {
+          "word": "big",
+          "start": 0.534,
+          "end": 0.697
+        },
+        {
+          "word": "shell.",
+          "start": 0.766,
+          "end": 1.207
+        }
+      ]
+    },
+    {
+      "text": "I build a sand castle.",
+      "image": "page-08.png",
+      "bg": "#FFF9C4",
+      "accent": "#F9A825",
+      "audio": "page-08.mp3",
+      "timestamps": [
+        {
+          "word": "I",
+          "start": 0.0,
+          "end": 0.081
+        },
+        {
+          "word": "build",
+          "start": 0.174,
+          "end": 0.383
+        },
+        {
+          "word": "a",
+          "start": 0.418,
+          "end": 0.453
+        },
+        {
+          "word": "sand",
+          "start": 0.488,
+          "end": 0.72
+        },
+        {
+          "word": "castle.",
+          "start": 0.778,
+          "end": 1.254
+        }
+      ]
+    },
+    {
+      "text": "I splash in the water.",
+      "image": "page-09.png",
+      "bg": "#E0F7FA",
+      "accent": "#00ACC1",
+      "audio": "page-09.mp3",
+      "timestamps": [
+        {
+          "word": "I",
+          "start": 0.0,
+          "end": 0.093
+        },
+        {
+          "word": "splash",
+          "start": 0.244,
+          "end": 0.697
+        },
+        {
+          "word": "in",
+          "start": 0.755,
+          "end": 0.824
+        },
+        {
+          "word": "the",
+          "start": 0.871,
+          "end": 0.94
+        },
+        {
+          "word": "water.",
+          "start": 0.998,
+          "end": 1.44
+        }
+      ]
+    },
+    {
+      "text": "I eat a cold snack.",
+      "image": "page-10.png",
+      "bg": "#FCE4EC",
+      "accent": "#F06292",
+      "audio": "page-10.mp3",
+      "timestamps": [
+        {
+          "word": "I",
+          "start": 0.0,
+          "end": 0.081
+        },
+        {
+          "word": "eat",
+          "start": 0.174,
+          "end": 0.302
+        },
+        {
+          "word": "a",
+          "start": 0.337,
+          "end": 0.372
+        },
+        {
+          "word": "cold",
+          "start": 0.406,
+          "end": 0.673
+        },
+        {
+          "word": "snack.",
+          "start": 0.731,
+          "end": 1.254
+        }
+      ]
+    },
+    {
+      "text": "I watch the sun go down.",
+      "image": "page-11.png",
+      "bg": "#FFF3E0",
+      "accent": "#FB8C00",
+      "audio": "page-11.mp3",
+      "timestamps": [
+        {
+          "word": "I",
+          "start": 0.0,
+          "end": 0.081
+        },
+        {
+          "word": "watch",
+          "start": 0.163,
+          "end": 0.372
+        },
+        {
+          "word": "the",
+          "start": 0.43,
+          "end": 0.499
+        },
+        {
+          "word": "sun",
+          "start": 0.546,
+          "end": 0.731
+        },
+        {
+          "word": "go",
+          "start": 0.789,
+          "end": 0.906
+        },
+        {
+          "word": "down.",
+          "start": 0.975,
+          "end": 1.3
+        }
+      ]
+    },
+    {
+      "text": "I love the beach!",
+      "image": "page-12.png",
+      "bg": "#E3F2FD",
+      "accent": "#42A5F5",
+      "audio": "page-12.mp3",
+      "timestamps": [
+        {
+          "word": "I",
+          "start": 0.0,
+          "end": 0.093
+        },
+        {
+          "word": "love",
+          "start": 0.337,
+          "end": 0.673
+        },
+        {
+          "word": "the",
+          "start": 0.72,
+          "end": 0.789
+        },
+        {
+          "word": "beach!",
+          "start": 0.848,
+          "end": 1.3
+        }
+      ]
+    }
+  ]
+}

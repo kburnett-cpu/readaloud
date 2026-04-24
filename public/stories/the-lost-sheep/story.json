@@ -1,0 +1,627 @@
+{
+  "schemaVersion": 1,
+  "id": "the-lost-sheep",
+  "title": "The Lost Sheep",
+  "author": "Hope Academy",
+  "narrator": "Kirk",
+  "cover": "cover.jpg",
+  "gradeLevel": "Grade2",
+  "readingLevel": "D",
+  "lexile": "510L",
+  "wordCount": 85,
+  "highlightMode": "word",
+  "celebrationStyle": "confetti",
+  "display": {
+    "fontSize": 28,
+    "fontFamily": "Andika",
+    "lineHeight": 1.75,
+    "wordSpacing": "0.15em",
+    "letterSpacing": "0.03em"
+  },
+  "pages": [
+    {
+      "text": "A shepherd had 100 sheep. He loved all of them.",
+      "image": "page-01.webp",
+      "bg": "#E3F2FD",
+      "accent": "#42A5F5",
+      "audio": "page-01.mp3",
+      "timestamps": [
+        {
+          "word": "A",
+          "start": 0.0,
+          "end": 0.081
+        },
+        {
+          "word": "shepherd",
+          "start": 0.174,
+          "end": 0.615
+        },
+        {
+          "word": "had",
+          "start": 0.673,
+          "end": 0.813
+        },
+        {
+          "word": "100",
+          "start": 0.882,
+          "end": 1.324
+        },
+        {
+          "word": "sheep.",
+          "start": 1.382,
+          "end": 1.707
+        },
+        {
+          "word": "He",
+          "start": 1.741,
+          "end": 1.834
+        },
+        {
+          "word": "loved",
+          "start": 1.916,
+          "end": 2.206
+        },
+        {
+          "word": "all",
+          "start": 2.264,
+          "end": 2.438
+        },
+        {
+          "word": "of",
+          "start": 2.496,
+          "end": 2.566
+        },
+        {
+          "word": "them.",
+          "start": 2.624,
+          "end": 2.879
+        }
+      ]
+    },
+    {
+      "text": "One day, he counted his sheep. One was missing!",
+      "image": "page-02.webp",
+      "bg": "#E8F5E9",
+      "accent": "#66BB6A",
+      "audio": "page-02.mp3",
+      "timestamps": [
+        {
+          "word": "One",
+          "start": 0.0,
+          "end": 0.186
+        },
+        {
+          "word": "day,",
+          "start": 0.232,
+          "end": 0.534
+        },
+        {
+          "word": "he",
+          "start": 0.58,
+          "end": 0.662
+        },
+        {
+          "word": "counted",
+          "start": 0.743,
+          "end": 1.091
+        },
+        {
+          "word": "his",
+          "start": 1.126,
+          "end": 1.231
+        },
+        {
+          "word": "sheep.",
+          "start": 1.265,
+          "end": 1.637
+        },
+        {
+          "word": "One",
+          "start": 1.788,
+          "end": 2.02
+        },
+        {
+          "word": "was",
+          "start": 2.067,
+          "end": 2.218
+        },
+        {
+          "word": "missing!",
+          "start": 2.299,
+          "end": 2.786
+        }
+      ]
+    },
+    {
+      "text": "He left the other 99 sheep in a safe place.",
+      "image": "page-03.webp",
+      "bg": "#FFF3E0",
+      "accent": "#FFA726",
+      "audio": "page-03.mp3",
+      "timestamps": [
+        {
+          "word": "He",
+          "start": 0.0,
+          "end": 0.128
+        },
+        {
+          "word": "left",
+          "start": 0.197,
+          "end": 0.418
+        },
+        {
+          "word": "the",
+          "start": 0.453,
+          "end": 0.522
+        },
+        {
+          "word": "other",
+          "start": 0.569,
+          "end": 0.743
+        },
+        {
+          "word": "99",
+          "start": 0.813,
+          "end": 1.219
+        },
+        {
+          "word": "sheep",
+          "start": 1.289,
+          "end": 1.521
+        },
+        {
+          "word": "in",
+          "start": 1.579,
+          "end": 1.649
+        },
+        {
+          "word": "a",
+          "start": 1.695,
+          "end": 1.73
+        },
+        {
+          "word": "safe",
+          "start": 1.788,
+          "end": 2.02
+        },
+        {
+          "word": "place.",
+          "start": 2.055,
+          "end": 2.461
+        }
+      ]
+    },
+    {
+      "text": "The shepherd went out to find the lost sheep.",
+      "image": "page-04.webp",
+      "bg": "#FCE4EC",
+      "accent": "#EC407A",
+      "audio": "page-04.mp3",
+      "timestamps": [
+        {
+          "word": "The",
+          "start": 0.0,
+          "end": 0.151
+        },
+        {
+          "word": "shepherd",
+          "start": 0.197,
+          "end": 0.522
+        },
+        {
+          "word": "went",
+          "start": 0.569,
+          "end": 0.72
+        },
+        {
+          "word": "out",
+          "start": 0.766,
+          "end": 0.952
+        },
+        {
+          "word": "to",
+          "start": 1.01,
+          "end": 1.091
+        },
+        {
+          "word": "find",
+          "start": 1.173,
+          "end": 1.521
+        },
+        {
+          "word": "the",
+          "start": 1.579,
+          "end": 1.649
+        },
+        {
+          "word": "lost",
+          "start": 1.707,
+          "end": 1.985
+        },
+        {
+          "word": "sheep.",
+          "start": 2.032,
+          "end": 2.368
+        }
+      ]
+    },
+    {
+      "text": "He walked and walked. He looked everywhere.",
+      "image": "page-05.webp",
+      "bg": "#F3E5F5",
+      "accent": "#AB47BC",
+      "audio": "page-05.mp3",
+      "timestamps": [
+        {
+          "word": "He",
+          "start": 0.0,
+          "end": 0.151
+        },
+        {
+          "word": "walked",
+          "start": 0.221,
+          "end": 0.58
+        },
+        {
+          "word": "and",
+          "start": 0.615,
+          "end": 0.697
+        },
+        {
+          "word": "walked.",
+          "start": 0.755,
+          "end": 1.103
+        },
+        {
+          "word": "He",
+          "start": 1.126,
+          "end": 1.184
+        },
+        {
+          "word": "looked",
+          "start": 1.242,
+          "end": 1.486
+        },
+        {
+          "word": "everywhere.",
+          "start": 1.533,
+          "end": 2.229
+        }
+      ]
+    },
+    {
+      "text": "He climbed up hills. He looked in valleys.",
+      "image": "page-06.webp",
+      "bg": "#E0F2F1",
+      "accent": "#26A69A",
+      "audio": "page-06.mp3",
+      "timestamps": [
+        {
+          "word": "He",
+          "start": 0.0,
+          "end": 0.139
+        },
+        {
+          "word": "climbed",
+          "start": 0.197,
+          "end": 0.569
+        },
+        {
+          "word": "up",
+          "start": 0.604,
+          "end": 0.697
+        },
+        {
+          "word": "hills.",
+          "start": 0.766,
+          "end": 1.219
+        },
+        {
+          "word": "He",
+          "start": 1.254,
+          "end": 1.324
+        },
+        {
+          "word": "looked",
+          "start": 1.382,
+          "end": 1.602
+        },
+        {
+          "word": "in",
+          "start": 1.637,
+          "end": 1.707
+        },
+        {
+          "word": "valleys.",
+          "start": 1.788,
+          "end": 2.415
+        }
+      ]
+    },
+    {
+      "text": "Finally, he found his sheep! It was safe but alone.",
+      "image": "page-07.webp",
+      "bg": "#F1F8E9",
+      "accent": "#9CCC65",
+      "audio": "page-07.mp3",
+      "timestamps": [
+        {
+          "word": "Finally,",
+          "start": 0.0,
+          "end": 0.592
+        },
+        {
+          "word": "he",
+          "start": 0.627,
+          "end": 0.72
+        },
+        {
+          "word": "found",
+          "start": 0.801,
+          "end": 1.045
+        },
+        {
+          "word": "his",
+          "start": 1.091,
+          "end": 1.184
+        },
+        {
+          "word": "sheep!",
+          "start": 1.231,
+          "end": 1.579
+        },
+        {
+          "word": "It",
+          "start": 1.614,
+          "end": 1.741
+        },
+        {
+          "word": "was",
+          "start": 1.776,
+          "end": 1.881
+        },
+        {
+          "word": "safe",
+          "start": 1.95,
+          "end": 2.241
+        },
+        {
+          "word": "but",
+          "start": 2.287,
+          "end": 2.426
+        },
+        {
+          "word": "alone.",
+          "start": 2.473,
+          "end": 2.926
+        }
+      ]
+    },
+    {
+      "text": "The shepherd was so happy! He picked up the sheep.",
+      "image": "page-08.webp",
+      "bg": "#EFF7FA",
+      "accent": "#29B6F6",
+      "audio": "page-08.mp3",
+      "timestamps": [
+        {
+          "word": "The",
+          "start": 0.0,
+          "end": 0.163
+        },
+        {
+          "word": "shepherd",
+          "start": 0.221,
+          "end": 0.604
+        },
+        {
+          "word": "was",
+          "start": 0.65,
+          "end": 0.766
+        },
+        {
+          "word": "so",
+          "start": 0.836,
+          "end": 1.068
+        },
+        {
+          "word": "happy!",
+          "start": 1.161,
+          "end": 1.625
+        },
+        {
+          "word": "He",
+          "start": 1.66,
+          "end": 1.776
+        },
+        {
+          "word": "picked",
+          "start": 1.834,
+          "end": 2.067
+        },
+        {
+          "word": "up",
+          "start": 2.101,
+          "end": 2.183
+        },
+        {
+          "word": "the",
+          "start": 2.229,
+          "end": 2.299
+        },
+        {
+          "word": "sheep.",
+          "start": 2.345,
+          "end": 2.647
+        }
+      ]
+    },
+    {
+      "text": "He carried it home on his shoulders.",
+      "image": "page-09.webp",
+      "bg": "#FFF9C4",
+      "accent": "#FBC02D",
+      "audio": "page-09.mp3",
+      "timestamps": [
+        {
+          "word": "He",
+          "start": 0.0,
+          "end": 0.139
+        },
+        {
+          "word": "carried",
+          "start": 0.209,
+          "end": 0.569
+        },
+        {
+          "word": "it",
+          "start": 0.615,
+          "end": 0.685
+        },
+        {
+          "word": "home",
+          "start": 0.743,
+          "end": 1.045
+        },
+        {
+          "word": "on",
+          "start": 1.091,
+          "end": 1.184
+        },
+        {
+          "word": "his",
+          "start": 1.231,
+          "end": 1.324
+        },
+        {
+          "word": "shoulders.",
+          "start": 1.37,
+          "end": 1.95
+        }
+      ]
+    },
+    {
+      "text": "Jesus tells us this story. God is like the shepherd.",
+      "image": "page-10.webp",
+      "bg": "#FFEBEE",
+      "accent": "#E53935",
+      "audio": "page-10.mp3",
+      "timestamps": [
+        {
+          "word": "Jesus",
+          "start": 0.0,
+          "end": 0.406
+        },
+        {
+          "word": "tells",
+          "start": 0.453,
+          "end": 0.708
+        },
+        {
+          "word": "us",
+          "start": 0.766,
+          "end": 0.859
+        },
+        {
+          "word": "this",
+          "start": 0.917,
+          "end": 1.068
+        },
+        {
+          "word": "story.",
+          "start": 1.103,
+          "end": 1.567
+        },
+        {
+          "word": "God",
+          "start": 1.614,
+          "end": 1.927
+        },
+        {
+          "word": "is",
+          "start": 1.985,
+          "end": 2.09
+        },
+        {
+          "word": "like",
+          "start": 2.171,
+          "end": 2.415
+        },
+        {
+          "word": "the",
+          "start": 2.461,
+          "end": 2.554
+        },
+        {
+          "word": "shepherd.",
+          "start": 2.612,
+          "end": 3.111
+        }
+      ]
+    },
+    {
+      "text": "God searches for us. God loves us. We are never alone.",
+      "image": "page-11.webp",
+      "bg": "#E8EAF6",
+      "accent": "#5C6BC0",
+      "audio": "page-11.mp3",
+      "timestamps": [
+        {
+          "word": "God",
+          "start": 0.0,
+          "end": 0.279
+        },
+        {
+          "word": "searches",
+          "start": 0.348,
+          "end": 0.755
+        },
+        {
+          "word": "for",
+          "start": 0.824,
+          "end": 0.975
+        },
+        {
+          "word": "us.",
+          "start": 1.057,
+          "end": 1.219
+        },
+        {
+          "word": "God",
+          "start": 1.265,
+          "end": 1.509
+        },
+        {
+          "word": "loves",
+          "start": 1.591,
+          "end": 1.881
+        },
+        {
+          "word": "us.",
+          "start": 1.962,
+          "end": 2.136
+        },
+        {
+          "word": "We",
+          "start": 2.183,
+          "end": 2.31
+        },
+        {
+          "word": "are",
+          "start": 2.357,
+          "end": 2.473
+        },
+        {
+          "word": "never",
+          "start": 2.519,
+          "end": 2.763
+        },
+        {
+          "word": "alone.",
+          "start": 2.844,
+          "end": 3.39
+        }
+      ]
+    }
+  ]
+}

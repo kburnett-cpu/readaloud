@@ -1,0 +1,62 @@
+# Illustration Prompt Guide: Jesus Heals a Blind Man
+
+## Master Style
+
+MASTER STYLE: Vibrant, warm children's book illustration in soft digital painting style. Clean outlines with rich saturated colors. Main characters: Bartimaeus, a middle-aged man with dark brown skin, short curly black hair, a rough brown beard, wearing a tattered dusty tan robe and worn sandals, often seated or kneeling with closed or unfocused eyes; Jesus, a tall man with olive skin, long wavy dark brown hair, a short beard, wearing a clean flowing white robe with a light blue sash. Setting is an ancient Middle Eastern landscape with sandy golden roads, rough stone buildings, desert shrubs, warm amber sunlight, and crowds wearing colorful layered robes and head coverings. 16:9 landscape format.
+
+## Page Prompts
+
+### Page 1 — `page-01.webp`
+> A blind man sat by the road. His name was Bartimaeus.
+
+A wide sandy road winds through an ancient Middle Eastern town with low stone buildings glowing warm amber in the afternoon sun. Bartimaeus, a middle-aged man with dark brown skin, short curly black hair, a rough brown beard, and a tattered tan robe, sits alone at the dusty roadside with his knees drawn up and a simple wooden bowl beside him. His eyes are closed and his expression is quiet and resigned, conveying loneliness and stillness. A few distant figures walk the road behind him, none noticing him. The mood is calm but tinged with gentle sadness. Children's book illustration, 16:9 landscape.
+
+### Page 2 — `page-02.webp`
+> He could not see. He could not see the sun. He could not see people.
+
+A split-scene illustration showing Bartimaeus at the roadside center while around him two soft dreamy panels fade into gray shadow — one showing a bright yellow sun in a blue sky that he cannot see, and another showing smiling robed people walking together that he cannot see. Bartimaeus sits still with closed eyes, his face tilted slightly downward, his tattered tan robe dusty at the hem. The contrast between the vibrant colorful world and his shadowed awareness is gentle and clear without being scary. The mood is tender and empathetic. Children's book illustration, 16:9 landscape.
+
+### Page 3 — `page-03.webp`
+> Bartimaeus heard someone coming. It was Jesus!
+
+Bartimaeus sits at the sandy roadside, his head tilted and his face turning with curiosity and sudden alertness, as though he hears something approaching. His closed eyes are lifted slightly and his mouth is open with growing excitement. In the middle distance along the golden road, a large crowd of people in colorful robes surrounds a tall figure — Jesus, with olive skin, long wavy dark brown hair, and a clean white robe — walking calmly toward the viewer. Warm golden afternoon light bathes the dusty road and stone buildings. The mood is full of anticipation and hope. Children's book illustration, 16:9 landscape.
+
+### Page 4 — `page-04.webp`
+> Jesus! Help me! Jesus! Help me! he cried out loud.
+
+Bartimaeus is on his feet at the roadside, leaning forward with both hands cupped around his mouth, his face turned upward and his expression urgent and passionate as he cries out loudly. His tattered tan robe is rumpled and his worn sandals kick up a small puff of dust. Bold, warm speech bubbles or flowing text near him read 'Jesus! Help me!' The crowd on the road nearby reacts with surprise, turning to look at him. Golden sunlight floods the sandy scene. The mood is bold, hopeful, and energetic. Children's book illustration, 16:9 landscape.
+
+### Page 5 — `page-05.webp`
+> People told him to be quiet. But Bartimaeus kept calling.
+
+Several people in the crowd — men and women in colorful layered robes and head coverings — stand close to Bartimaeus with stern expressions, some holding out their hands in a hushing gesture and frowning down at him. Bartimaeus, seated back on the ground with his tattered tan robe dusty, leans forward undeterred, his mouth open wide and his face determined and fearless as he continues to call out. His hands grip the ground beside him with resolve. The contrast between the crowd's displeasure and his unshakeable persistence is vivid. The mood is tense but courageous. Children's book illustration, 16:9 landscape.
+
+### Page 6 — `page-06.webp`
+> Jesus stopped. He heard Bartimaeus. He said, Come here.
+
+Jesus, tall with olive skin, long wavy dark brown hair, and a clean white robe with a light blue sash, has stopped on the sandy golden road and turned to face the direction of Bartimaeus. He raises one hand gently toward the crowd with a calm, kind expression. Nearby crowd members look surprised and then begin turning toward Bartimaeus, some gesturing warmly for him to come forward. Warm golden light radiates around Jesus. The mood shifts from tense to welcoming and full of grace. Children's book illustration, 16:9 landscape.
+
+### Page 7 — `page-07.webp`
+> What do you want? Jesus asked the blind man.
+
+Jesus stands calmly on the sandy road, bending slightly forward with his hands open and a warm, attentive smile on his olive-skinned face as he looks directly at Bartimaeus who stands before him, guided close by a helper from the crowd. Bartimaeus has his face lifted toward Jesus with his closed unfocused eyes, his tattered tan robe still dusty, his expression nervous but full of trembling hope. The crowd around them watches quietly with curious, gentle expressions. Soft golden light glows around the scene. The mood is intimate, compassionate, and full of expectation. Children's book illustration, 16:9 landscape.
+
+### Page 8 — `page-08.webp`
+> I want to see! said Bartimaeus. I want to see you!
+
+A close and intimate scene showing Bartimaeus facing Jesus with his face lifted and his eyes closed, his hands pressed to his own chest as he speaks with deep longing and earnestness. His dark brown skin glistens slightly in the warm amber light, and his expression is raw with heartfelt desire. Jesus listens with a gentle, deeply attentive expression, his head tilted slightly and his eyes warm and full of love. The background softly blurs into golden sandy tones with the crowd watching quietly behind them. The mood is deeply moving and sincere. Children's book illustration, 16:9 landscape.
+
+### Page 9 — `page-09.webp`
+> Jesus said, You believe in me. So you can see!
+
+Jesus reaches out and gently places one hand near Bartimaeus's face or shoulder, his white robe glowing softly in warm radiant golden light that expands around both of them. His expression is joyful and certain, his eyes kind and bright. Bartimaeus stands with his face tilted upward, his mouth slightly open, and a single tear on his cheek as light begins to pour over his closed eyelids. The crowd watches in hushed awe, some with hands over their mouths. The mood is miraculous, luminous, and full of wonder. Children's book illustration, 16:9 landscape.
+
+### Page 10 — `page-10.webp`
+> Right away, Bartimaeus could see! He could see Jesus!
+
+Bartimaeus stands with his eyes now wide open for the first time, dark and bright and full of tears of joy, staring directly at Jesus with an expression of overwhelming astonishment and delight. His hands are raised beside his face in joyful shock. Jesus stands before him smiling warmly, his white robe glowing in golden sunlight. The world around Bartimaeus seems to burst with vivid color — blue sky, warm stone buildings, bright robes of the cheering crowd — as if he is seeing everything for the very first time. The mood is euphoric, joyful, and miraculous. Children's book illustration, 16:9 landscape.
+
+### Page 11 — `page-11.webp`
+> Bartimaeus was so happy! Jesus healed him because he believed.
+
+Bartimaeus, now fully healed with wide bright open eyes and a face overflowing with pure joy, laughs and raises both arms toward the sky as he follows Jesus along the golden sandy road. His tattered tan robe flutters slightly as he moves. Jesus walks ahead smiling back at him warmly, surrounded by a celebrating crowd in colorful robes who cheer and smile. Warm glowing sunlight pours across the entire scene and flowers or soft light sparks float through the air. The mood is jubilant, celebratory, and deeply heartwarming. Children's book illustration, 16:9 landscape.

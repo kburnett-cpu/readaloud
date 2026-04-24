@@ -1,0 +1,1050 @@
+{
+  "schemaVersion": 1,
+  "id": "jesus-heals-the-lame-man",
+  "title": "Jesus Heals the Man Who Could Not Walk",
+  "author": "Hope Academy",
+  "narrator": "Kirk",
+  "cover": "cover.jpg",
+  "gradeLevel": "PreK",
+  "readingLevel": "A",
+  "lexile": "BR120L",
+  "wordCount": 177,
+  "highlightMode": "word",
+  "celebrationStyle": "confetti",
+  "display": {
+    "fontSize": 28,
+    "fontFamily": "Andika",
+    "lineHeight": 1.75,
+    "wordSpacing": "0.15em",
+    "letterSpacing": "0.03em"
+  },
+  "pages": [
+    {
+      "text": "One day, Jesus was teaching inside a house that was full of people.",
+      "image": "page-01.webp",
+      "bg": "#FFF8E1",
+      "accent": "#F9A825",
+      "audio": "page-01.mp3",
+      "timestamps": [
+        {
+          "word": "One",
+          "start": 0.0,
+          "end": 0.197
+        },
+        {
+          "word": "day,",
+          "start": 0.244,
+          "end": 0.58
+        },
+        {
+          "word": "Jesus",
+          "start": 0.697,
+          "end": 1.091
+        },
+        {
+          "word": "was",
+          "start": 1.149,
+          "end": 1.277
+        },
+        {
+          "word": "teaching",
+          "start": 1.347,
+          "end": 1.788
+        },
+        {
+          "word": "inside",
+          "start": 1.858,
+          "end": 2.287
+        },
+        {
+          "word": "a",
+          "start": 2.322,
+          "end": 2.357
+        },
+        {
+          "word": "house",
+          "start": 2.426,
+          "end": 2.798
+        },
+        {
+          "word": "that",
+          "start": 2.833,
+          "end": 2.972
+        },
+        {
+          "word": "was",
+          "start": 3.007,
+          "end": 3.111
+        },
+        {
+          "word": "full",
+          "start": 3.204,
+          "end": 3.471
+        },
+        {
+          "word": "of",
+          "start": 3.529,
+          "end": 3.599
+        },
+        {
+          "word": "people.",
+          "start": 3.715,
+          "end": 4.226
+        }
+      ]
+    },
+    {
+      "text": "Four good friends wanted to bring their sick friend to see Jesus that day.",
+      "image": "page-02.webp",
+      "bg": "#E3F2FD",
+      "accent": "#1565C0",
+      "audio": "page-02.mp3",
+      "timestamps": [
+        {
+          "word": "Four",
+          "start": 0.0,
+          "end": 0.488
+        },
+        {
+          "word": "good",
+          "start": 0.813,
+          "end": 1.08
+        },
+        {
+          "word": "friends",
+          "start": 1.173,
+          "end": 1.73
+        },
+        {
+          "word": "wanted",
+          "start": 1.904,
+          "end": 2.252
+        },
+        {
+          "word": "to",
+          "start": 2.287,
+          "end": 2.357
+        },
+        {
+          "word": "bring",
+          "start": 2.438,
+          "end": 2.763
+        },
+        {
+          "word": "their",
+          "start": 2.844,
+          "end": 3.03
+        },
+        {
+          "word": "sick",
+          "start": 3.1,
+          "end": 3.344
+        },
+        {
+          "word": "friend",
+          "start": 3.425,
+          "end": 3.762
+        },
+        {
+          "word": "to",
+          "start": 3.831,
+          "end": 3.924
+        },
+        {
+          "word": "see",
+          "start": 4.005,
+          "end": 4.226
+        },
+        {
+          "word": "Jesus",
+          "start": 4.342,
+          "end": 4.841
+        },
+        {
+          "word": "that",
+          "start": 4.911,
+          "end": 5.132
+        },
+        {
+          "word": "day.",
+          "start": 5.213,
+          "end": 5.573
+        }
+      ]
+    },
+    {
+      "text": "Their friend could not walk, so they carried him on a mat together.",
+      "image": "page-03.webp",
+      "bg": "#ECEFF1",
+      "accent": "#546E7A",
+      "audio": "page-03.mp3",
+      "timestamps": [
+        {
+          "word": "Their",
+          "start": 0.0,
+          "end": 0.221
+        },
+        {
+          "word": "friend",
+          "start": 0.267,
+          "end": 0.476
+        },
+        {
+          "word": "could",
+          "start": 0.546,
+          "end": 0.72
+        },
+        {
+          "word": "not",
+          "start": 0.766,
+          "end": 0.929
+        },
+        {
+          "word": "walk,",
+          "start": 1.01,
+          "end": 1.533
+        },
+        {
+          "word": "so",
+          "start": 1.567,
+          "end": 1.707
+        },
+        {
+          "word": "they",
+          "start": 1.776,
+          "end": 1.916
+        },
+        {
+          "word": "carried",
+          "start": 2.067,
+          "end": 2.635
+        },
+        {
+          "word": "him",
+          "start": 2.705,
+          "end": 2.926
+        },
+        {
+          "word": "on",
+          "start": 3.042,
+          "end": 3.216
+        },
+        {
+          "word": "a",
+          "start": 3.262,
+          "end": 3.297
+        },
+        {
+          "word": "mat",
+          "start": 3.367,
+          "end": 3.68
+        },
+        {
+          "word": "together.",
+          "start": 3.762,
+          "end": 4.319
+        }
+      ]
+    },
+    {
+      "text": "When they got to the house, the crowd was too big to get inside.",
+      "image": "page-04.webp",
+      "bg": "#FFEBEE",
+      "accent": "#C62828",
+      "audio": "page-04.mp3",
+      "timestamps": [
+        {
+          "word": "When",
+          "start": 0.0,
+          "end": 0.197
+        },
+        {
+          "word": "they",
+          "start": 0.232,
+          "end": 0.36
+        },
+        {
+          "word": "got",
+          "start": 0.476,
+          "end": 0.778
+        },
+        {
+          "word": "to",
+          "start": 0.848,
+          "end": 0.952
+        },
+        {
+          "word": "the",
+          "start": 1.022,
+          "end": 1.103
+        },
+        {
+          "word": "house,",
+          "start": 1.161,
+          "end": 1.591
+        },
+        {
+          "word": "the",
+          "start": 1.614,
+          "end": 1.718
+        },
+        {
+          "word": "crowd",
+          "start": 1.776,
+          "end": 2.125
+        },
+        {
+          "word": "was",
+          "start": 2.194,
+          "end": 2.345
+        },
+        {
+          "word": "too",
+          "start": 2.438,
+          "end": 2.705
+        },
+        {
+          "word": "big",
+          "start": 2.856,
+          "end": 3.262
+        },
+        {
+          "word": "to",
+          "start": 3.344,
+          "end": 3.425
+        },
+        {
+          "word": "get",
+          "start": 3.495,
+          "end": 3.634
+        },
+        {
+          "word": "inside.",
+          "start": 3.68,
+          "end": 4.365
+        }
+      ]
+    },
+    {
+      "text": "The four friends had a great idea and climbed all the way up to the roof.",
+      "image": "page-05.webp",
+      "bg": "#E1F5FE",
+      "accent": "#0277BD",
+      "audio": "page-05.mp3",
+      "timestamps": [
+        {
+          "word": "The",
+          "start": 0.0,
+          "end": 0.139
+        },
+        {
+          "word": "four",
+          "start": 0.197,
+          "end": 0.395
+        },
+        {
+          "word": "friends",
+          "start": 0.476,
+          "end": 1.033
+        },
+        {
+          "word": "had",
+          "start": 1.242,
+          "end": 1.393
+        },
+        {
+          "word": "a",
+          "start": 1.428,
+          "end": 1.463
+        },
+        {
+          "word": "great",
+          "start": 1.614,
+          "end": 1.95
+        },
+        {
+          "word": "idea",
+          "start": 2.009,
+          "end": 2.531
+        },
+        {
+          "word": "and",
+          "start": 2.647,
+          "end": 2.81
+        },
+        {
+          "word": "climbed",
+          "start": 2.926,
+          "end": 3.599
+        },
+        {
+          "word": "all",
+          "start": 3.715,
+          "end": 4.005
+        },
+        {
+          "word": "the",
+          "start": 4.063,
+          "end": 4.133
+        },
+        {
+          "word": "way",
+          "start": 4.191,
+          "end": 4.354
+        },
+        {
+          "word": "up",
+          "start": 4.412,
+          "end": 4.54
+        },
+        {
+          "word": "to",
+          "start": 4.598,
+          "end": 4.667
+        },
+        {
+          "word": "the",
+          "start": 4.737,
+          "end": 4.807
+        },
+        {
+          "word": "roof.",
+          "start": 4.876,
+          "end": 5.248
+        }
+      ]
+    },
+    {
+      "text": "They dug a hole in the roof and slowly lowered their friend down inside.",
+      "image": "page-06.webp",
+      "bg": "#FFF8E1",
+      "accent": "#FFB300",
+      "audio": "page-06.mp3",
+      "timestamps": [
+        {
+          "word": "They",
+          "start": 0.0,
+          "end": 0.209
+        },
+        {
+          "word": "dug",
+          "start": 0.325,
+          "end": 0.778
+        },
+        {
+          "word": "a",
+          "start": 0.871,
+          "end": 0.964
+        },
+        {
+          "word": "hole",
+          "start": 1.08,
+          "end": 1.451
+        },
+        {
+          "word": "in",
+          "start": 1.498,
+          "end": 1.567
+        },
+        {
+          "word": "the",
+          "start": 1.614,
+          "end": 1.683
+        },
+        {
+          "word": "roof",
+          "start": 1.753,
+          "end": 2.032
+        },
+        {
+          "word": "and",
+          "start": 2.101,
+          "end": 2.218
+        },
+        {
+          "word": "slowly",
+          "start": 2.299,
+          "end": 2.798
+        },
+        {
+          "word": "lowered",
+          "start": 2.879,
+          "end": 3.204
+        },
+        {
+          "word": "their",
+          "start": 3.239,
+          "end": 3.39
+        },
+        {
+          "word": "friend",
+          "start": 3.448,
+          "end": 3.692
+        },
+        {
+          "word": "down",
+          "start": 3.762,
+          "end": 3.994
+        },
+        {
+          "word": "inside.",
+          "start": 4.052,
+          "end": 4.644
+        }
+      ]
+    },
+    {
+      "text": "Jesus looked up and saw how much these four friends loved and cared for him.",
+      "image": "page-07.webp",
+      "bg": "#EDE7F6",
+      "accent": "#6A1B9A",
+      "audio": "page-07.mp3",
+      "timestamps": [
+        {
+          "word": "Jesus",
+          "start": 0.0,
+          "end": 0.511
+        },
+        {
+          "word": "looked",
+          "start": 0.58,
+          "end": 0.882
+        },
+        {
+          "word": "up",
+          "start": 0.94,
+          "end": 1.103
+        },
+        {
+          "word": "and",
+          "start": 1.161,
+          "end": 1.265
+        },
+        {
+          "word": "saw",
+          "start": 1.335,
+          "end": 1.567
+        },
+        {
+          "word": "how",
+          "start": 1.649,
+          "end": 1.776
+        },
+        {
+          "word": "much",
+          "start": 1.834,
+          "end": 2.043
+        },
+        {
+          "word": "these",
+          "start": 2.113,
+          "end": 2.322
+        },
+        {
+          "word": "four",
+          "start": 2.38,
+          "end": 2.635
+        },
+        {
+          "word": "friends",
+          "start": 2.728,
+          "end": 3.274
+        },
+        {
+          "word": "loved",
+          "start": 3.483,
+          "end": 3.947
+        },
+        {
+          "word": "and",
+          "start": 3.994,
+          "end": 4.098
+        },
+        {
+          "word": "cared",
+          "start": 4.191,
+          "end": 4.586
+        },
+        {
+          "word": "for",
+          "start": 4.644,
+          "end": 4.783
+        },
+        {
+          "word": "him.",
+          "start": 4.853,
+          "end": 5.108
+        }
+      ]
+    },
+    {
+      "text": "Jesus smiled at the man and said, 'Get up and pick up your mat.'",
+      "image": "page-08.webp",
+      "bg": "#FFF3E0",
+      "accent": "#E65100",
+      "audio": "page-08.mp3",
+      "timestamps": [
+        {
+          "word": "Jesus",
+          "start": 0.0,
+          "end": 0.406
+        },
+        {
+          "word": "smiled",
+          "start": 0.453,
+          "end": 0.906
+        },
+        {
+          "word": "at",
+          "start": 0.952,
+          "end": 1.033
+        },
+        {
+          "word": "the",
+          "start": 1.068,
+          "end": 1.138
+        },
+        {
+          "word": "man",
+          "start": 1.196,
+          "end": 1.463
+        },
+        {
+          "word": "and",
+          "start": 1.533,
+          "end": 1.625
+        },
+        {
+          "word": "said,",
+          "start": 1.695,
+          "end": 1.997
+        },
+        {
+          "word": "'Get",
+          "start": 2.02,
+          "end": 2.218
+        },
+        {
+          "word": "up",
+          "start": 2.264,
+          "end": 2.368
+        },
+        {
+          "word": "and",
+          "start": 2.415,
+          "end": 2.496
+        },
+        {
+          "word": "pick",
+          "start": 2.543,
+          "end": 2.717
+        },
+        {
+          "word": "up",
+          "start": 2.775,
+          "end": 2.868
+        },
+        {
+          "word": "your",
+          "start": 2.937,
+          "end": 3.065
+        },
+        {
+          "word": "mat.'",
+          "start": 3.123,
+          "end": 3.529
+        }
+      ]
+    },
+    {
+      "text": "Right away, the man felt strong power go all the way through his legs.",
+      "image": "page-09.webp",
+      "bg": "#E8F5E9",
+      "accent": "#2E7D32",
+      "audio": "page-09.mp3",
+      "timestamps": [
+        {
+          "word": "Right",
+          "start": 0.0,
+          "end": 0.383
+        },
+        {
+          "word": "away,",
+          "start": 0.43,
+          "end": 0.906
+        },
+        {
+          "word": "the",
+          "start": 0.952,
+          "end": 1.08
+        },
+        {
+          "word": "man",
+          "start": 1.173,
+          "end": 1.509
+        },
+        {
+          "word": "felt",
+          "start": 1.625,
+          "end": 1.927
+        },
+        {
+          "word": "strong",
+          "start": 2.043,
+          "end": 2.624
+        },
+        {
+          "word": "power",
+          "start": 2.74,
+          "end": 3.216
+        },
+        {
+          "word": "go",
+          "start": 3.332,
+          "end": 3.529
+        },
+        {
+          "word": "all",
+          "start": 3.704,
+          "end": 4.168
+        },
+        {
+          "word": "the",
+          "start": 4.249,
+          "end": 4.331
+        },
+        {
+          "word": "way",
+          "start": 4.4,
+          "end": 4.586
+        },
+        {
+          "word": "through",
+          "start": 4.656,
+          "end": 4.957
+        },
+        {
+          "word": "his",
+          "start": 5.016,
+          "end": 5.155
+        },
+        {
+          "word": "legs.",
+          "start": 5.248,
+          "end": 5.805
+        }
+      ]
+    },
+    {
+      "text": "He stood up, picked up his mat, and walked right out of the house.",
+      "image": "page-10.webp",
+      "bg": "#E3F2FD",
+      "accent": "#1976D2",
+      "audio": "page-10.mp3",
+      "timestamps": [
+        {
+          "word": "He",
+          "start": 0.0,
+          "end": 0.128
+        },
+        {
+          "word": "stood",
+          "start": 0.186,
+          "end": 0.441
+        },
+        {
+          "word": "up,",
+          "start": 0.488,
+          "end": 0.65
+        },
+        {
+          "word": "picked",
+          "start": 0.685,
+          "end": 0.94
+        },
+        {
+          "word": "up",
+          "start": 0.975,
+          "end": 1.068
+        },
+        {
+          "word": "his",
+          "start": 1.115,
+          "end": 1.219
+        },
+        {
+          "word": "mat,",
+          "start": 1.277,
+          "end": 1.66
+        },
+        {
+          "word": "and",
+          "start": 1.683,
+          "end": 1.834
+        },
+        {
+          "word": "walked",
+          "start": 1.904,
+          "end": 2.218
+        },
+        {
+          "word": "right",
+          "start": 2.31,
+          "end": 2.612
+        },
+        {
+          "word": "out",
+          "start": 2.728,
+          "end": 2.984
+        },
+        {
+          "word": "of",
+          "start": 3.03,
+          "end": 3.1
+        },
+        {
+          "word": "the",
+          "start": 3.158,
+          "end": 3.228
+        },
+        {
+          "word": "house.",
+          "start": 3.286,
+          "end": 3.715
+        }
+      ]
+    },
+    {
+      "text": "The crowd was amazed and moved out of the way to let him through.",
+      "image": "page-11.webp",
+      "bg": "#E0F7FA",
+      "accent": "#00695C",
+      "audio": "page-11.mp3",
+      "timestamps": [
+        {
+          "word": "The",
+          "start": 0.0,
+          "end": 0.151
+        },
+        {
+          "word": "crowd",
+          "start": 0.209,
+          "end": 0.65
+        },
+        {
+          "word": "was",
+          "start": 0.731,
+          "end": 0.882
+        },
+        {
+          "word": "amazed",
+          "start": 0.94,
+          "end": 1.834
+        },
+        {
+          "word": "and",
+          "start": 1.881,
+          "end": 1.985
+        },
+        {
+          "word": "moved",
+          "start": 2.067,
+          "end": 2.392
+        },
+        {
+          "word": "out",
+          "start": 2.438,
+          "end": 2.577
+        },
+        {
+          "word": "of",
+          "start": 2.612,
+          "end": 2.67
+        },
+        {
+          "word": "the",
+          "start": 2.705,
+          "end": 2.775
+        },
+        {
+          "word": "way",
+          "start": 2.844,
+          "end": 3.181
+        },
+        {
+          "word": "to",
+          "start": 3.297,
+          "end": 3.402
+        },
+        {
+          "word": "let",
+          "start": 3.483,
+          "end": 3.646
+        },
+        {
+          "word": "him",
+          "start": 3.68,
+          "end": 3.773
+        },
+        {
+          "word": "through.",
+          "start": 3.855,
+          "end": 4.319
+        }
+      ]
+    },
+    {
+      "text": "The four friends jumped and cheered when they saw their friend walking and smiling.",
+      "image": "page-12.webp",
+      "bg": "#FFFDE7",
+      "accent": "#F57F17",
+      "audio": "page-12.mp3",
+      "timestamps": [
+        {
+          "word": "The",
+          "start": 0.0,
+          "end": 0.151
+        },
+        {
+          "word": "four",
+          "start": 0.221,
+          "end": 0.453
+        },
+        {
+          "word": "friends",
+          "start": 0.522,
+          "end": 0.94
+        },
+        {
+          "word": "jumped",
+          "start": 1.057,
+          "end": 1.405
+        },
+        {
+          "word": "and",
+          "start": 1.44,
+          "end": 1.533
+        },
+        {
+          "word": "cheered",
+          "start": 1.591,
+          "end": 2.02
+        },
+        {
+          "word": "when",
+          "start": 2.078,
+          "end": 2.229
+        },
+        {
+          "word": "they",
+          "start": 2.264,
+          "end": 2.38
+        },
+        {
+          "word": "saw",
+          "start": 2.438,
+          "end": 2.705
+        },
+        {
+          "word": "their",
+          "start": 2.775,
+          "end": 2.937
+        },
+        {
+          "word": "friend",
+          "start": 2.984,
+          "end": 3.332
+        },
+        {
+          "word": "walking",
+          "start": 3.46,
+          "end": 4.098
+        },
+        {
+          "word": "and",
+          "start": 4.214,
+          "end": 4.389
+        },
+        {
+          "word": "smiling.",
+          "start": 4.47,
+          "end": 5.248
+        }
+      ]
+    },
+    {
+      "text": "Everyone praised God and said they had never seen anything so wonderful before.",
+      "image": "page-13.webp",
+      "bg": "#FCE4EC",
+      "accent": "#AD1457",
+      "audio": "page-13.mp3",
+      "timestamps": [
+        {
+          "word": "Everyone",
+          "start": 0.0,
+          "end": 0.65
+        },
+        {
+          "word": "praised",
+          "start": 0.708,
+          "end": 1.196
+        },
+        {
+          "word": "God",
+          "start": 1.254,
+          "end": 1.625
+        },
+        {
+          "word": "and",
+          "start": 1.695,
+          "end": 1.8
+        },
+        {
+          "word": "said",
+          "start": 1.858,
+          "end": 2.078
+        },
+        {
+          "word": "they",
+          "start": 2.125,
+          "end": 2.264
+        },
+        {
+          "word": "had",
+          "start": 2.31,
+          "end": 2.438
+        },
+        {
+          "word": "never",
+          "start": 2.589,
+          "end": 2.949
+        },
+        {
+          "word": "seen",
+          "start": 3.042,
+          "end": 3.297
+        },
+        {
+          "word": "anything",
+          "start": 3.367,
+          "end": 3.82
+        },
+        {
+          "word": "so",
+          "start": 3.936,
+          "end": 4.191
+        },
+        {
+          "word": "wonderful",
+          "start": 4.307,
+          "end": 4.841
+        },
+        {
+          "word": "before.",
+          "start": 4.911,
+          "end": 5.48
+        }
+      ]
+    }
+  ]
+}

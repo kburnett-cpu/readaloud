@@ -1,0 +1,505 @@
+{
+  "schemaVersion": 1,
+  "id": "colors-all-around",
+  "title": "Colors All Around",
+  "author": "Hope Academy",
+  "cover": "cover.jpg",
+  "gradeLevel": "PreK",
+  "readingLevel": "Pre-A",
+  "lexile": "BR100L",
+  "wordCount": 73,
+  "highlightMode": "word",
+  "celebrationStyle": "confetti",
+  "display": {
+    "fontSize": 32,
+    "fontFamily": "Andika",
+    "lineHeight": 1.75,
+    "wordSpacing": "0.15em",
+    "letterSpacing": "0.03em"
+  },
+  "pages": [
+    {
+      "text": "Colors are all around!",
+      "image": "page-01.png",
+      "bg": "#E3F2FD",
+      "accent": "#42A5F5",
+      "audio": "page-01.mp3",
+      "timestamps": [
+        {
+          "word": "Colors",
+          "start": 0.0,
+          "end": 0.441
+        },
+        {
+          "word": "are",
+          "start": 0.476,
+          "end": 0.604
+        },
+        {
+          "word": "all",
+          "start": 0.65,
+          "end": 0.778
+        },
+        {
+          "word": "around!",
+          "start": 0.836,
+          "end": 1.3
+        }
+      ]
+    },
+    {
+      "text": "Red is the color of apples.",
+      "image": "page-02.png",
+      "bg": "#FFEBEE",
+      "accent": "#EF5350",
+      "audio": "page-02.mp3",
+      "timestamps": [
+        {
+          "word": "Red",
+          "start": 0.0,
+          "end": 0.395
+        },
+        {
+          "word": "is",
+          "start": 0.453,
+          "end": 0.534
+        },
+        {
+          "word": "the",
+          "start": 0.592,
+          "end": 0.662
+        },
+        {
+          "word": "color",
+          "start": 0.708,
+          "end": 0.952
+        },
+        {
+          "word": "of",
+          "start": 0.998,
+          "end": 1.057
+        },
+        {
+          "word": "apples.",
+          "start": 1.126,
+          "end": 1.579
+        }
+      ]
+    },
+    {
+      "text": "Yellow is the color of the sun.",
+      "image": "page-03.png",
+      "bg": "#FFF9C4",
+      "accent": "#F9A825",
+      "audio": "page-03.mp3",
+      "timestamps": [
+        {
+          "word": "Yellow",
+          "start": 0.0,
+          "end": 0.511
+        },
+        {
+          "word": "is",
+          "start": 0.685,
+          "end": 0.859
+        },
+        {
+          "word": "the",
+          "start": 0.929,
+          "end": 0.998
+        },
+        {
+          "word": "color",
+          "start": 1.057,
+          "end": 1.358
+        },
+        {
+          "word": "of",
+          "start": 1.44,
+          "end": 1.544
+        },
+        {
+          "word": "the",
+          "start": 1.614,
+          "end": 1.683
+        },
+        {
+          "word": "sun.",
+          "start": 1.753,
+          "end": 2.183
+        }
+      ]
+    },
+    {
+      "text": "Blue is the color of the sky.",
+      "image": "page-04.png",
+      "bg": "#E3F2FD",
+      "accent": "#1E88E5",
+      "audio": "page-04.mp3",
+      "timestamps": [
+        {
+          "word": "Blue",
+          "start": 0.0,
+          "end": 0.534
+        },
+        {
+          "word": "is",
+          "start": 0.685,
+          "end": 0.882
+        },
+        {
+          "word": "the",
+          "start": 0.952,
+          "end": 1.022
+        },
+        {
+          "word": "color",
+          "start": 1.091,
+          "end": 1.416
+        },
+        {
+          "word": "of",
+          "start": 1.474,
+          "end": 1.544
+        },
+        {
+          "word": "the",
+          "start": 1.602,
+          "end": 1.672
+        },
+        {
+          "word": "sky.",
+          "start": 1.718,
+          "end": 2.09
+        }
+      ]
+    },
+    {
+      "text": "Green is the color of the grass.",
+      "image": "page-05.png",
+      "bg": "#E8F5E9",
+      "accent": "#43A047",
+      "audio": "page-05.mp3",
+      "timestamps": [
+        {
+          "word": "Green",
+          "start": 0.0,
+          "end": 0.546
+        },
+        {
+          "word": "is",
+          "start": 0.72,
+          "end": 0.917
+        },
+        {
+          "word": "the",
+          "start": 0.987,
+          "end": 1.057
+        },
+        {
+          "word": "color",
+          "start": 1.115,
+          "end": 1.405
+        },
+        {
+          "word": "of",
+          "start": 1.463,
+          "end": 1.521
+        },
+        {
+          "word": "the",
+          "start": 1.567,
+          "end": 1.637
+        },
+        {
+          "word": "grass.",
+          "start": 1.683,
+          "end": 2.183
+        }
+      ]
+    },
+    {
+      "text": "Orange is the color of a pumpkin.",
+      "image": "page-06.png",
+      "bg": "#FFF3E0",
+      "accent": "#FB8C00",
+      "audio": "page-06.mp3",
+      "timestamps": [
+        {
+          "word": "Orange",
+          "start": 0.0,
+          "end": 0.453
+        },
+        {
+          "word": "is",
+          "start": 0.499,
+          "end": 0.604
+        },
+        {
+          "word": "the",
+          "start": 0.673,
+          "end": 0.743
+        },
+        {
+          "word": "color",
+          "start": 0.801,
+          "end": 1.103
+        },
+        {
+          "word": "of",
+          "start": 1.173,
+          "end": 1.242
+        },
+        {
+          "word": "a",
+          "start": 1.3,
+          "end": 1.335
+        },
+        {
+          "word": "pumpkin.",
+          "start": 1.405,
+          "end": 1.95
+        }
+      ]
+    },
+    {
+      "text": "Purple is the color of grapes.",
+      "image": "page-07.png",
+      "bg": "#EDE7F6",
+      "accent": "#7E57C2",
+      "audio": "page-07.mp3",
+      "timestamps": [
+        {
+          "word": "Purple",
+          "start": 0.0,
+          "end": 0.43
+        },
+        {
+          "word": "is",
+          "start": 0.476,
+          "end": 0.569
+        },
+        {
+          "word": "the",
+          "start": 0.639,
+          "end": 0.708
+        },
+        {
+          "word": "color",
+          "start": 0.755,
+          "end": 1.022
+        },
+        {
+          "word": "of",
+          "start": 1.08,
+          "end": 1.138
+        },
+        {
+          "word": "grapes.",
+          "start": 1.219,
+          "end": 1.672
+        }
+      ]
+    },
+    {
+      "text": "Pink is the color of roses.",
+      "image": "page-08.png",
+      "bg": "#FCE4EC",
+      "accent": "#EC407A",
+      "audio": "page-08.mp3",
+      "timestamps": [
+        {
+          "word": "Pink",
+          "start": 0.0,
+          "end": 0.383
+        },
+        {
+          "word": "is",
+          "start": 0.499,
+          "end": 0.673
+        },
+        {
+          "word": "the",
+          "start": 0.743,
+          "end": 0.813
+        },
+        {
+          "word": "color",
+          "start": 0.871,
+          "end": 1.184
+        },
+        {
+          "word": "of",
+          "start": 1.242,
+          "end": 1.3
+        },
+        {
+          "word": "roses.",
+          "start": 1.393,
+          "end": 1.997
+        }
+      ]
+    },
+    {
+      "text": "Brown is the color of mud.",
+      "image": "page-09.png",
+      "bg": "#EFEBE9",
+      "accent": "#8D6E63",
+      "audio": "page-09.mp3",
+      "timestamps": [
+        {
+          "word": "Brown",
+          "start": 0.0,
+          "end": 0.499
+        },
+        {
+          "word": "is",
+          "start": 0.615,
+          "end": 0.778
+        },
+        {
+          "word": "the",
+          "start": 0.848,
+          "end": 0.917
+        },
+        {
+          "word": "color",
+          "start": 0.964,
+          "end": 1.254
+        },
+        {
+          "word": "of",
+          "start": 1.312,
+          "end": 1.37
+        },
+        {
+          "word": "mud.",
+          "start": 1.463,
+          "end": 1.811
+        }
+      ]
+    },
+    {
+      "text": "White is the color of clouds.",
+      "image": "page-10.png",
+      "bg": "#FAFAFA",
+      "accent": "#90A4AE",
+      "audio": "page-10.mp3",
+      "timestamps": [
+        {
+          "word": "White",
+          "start": 0.0,
+          "end": 0.453
+        },
+        {
+          "word": "is",
+          "start": 0.522,
+          "end": 0.685
+        },
+        {
+          "word": "the",
+          "start": 0.755,
+          "end": 0.824
+        },
+        {
+          "word": "color",
+          "start": 0.882,
+          "end": 1.196
+        },
+        {
+          "word": "of",
+          "start": 1.254,
+          "end": 1.312
+        },
+        {
+          "word": "clouds.",
+          "start": 1.37,
+          "end": 1.95
+        }
+      ]
+    },
+    {
+      "text": "Black is the color of the night.",
+      "image": "page-11.png",
+      "bg": "#ECEFF1",
+      "accent": "#546E7A",
+      "audio": "page-11.mp3",
+      "timestamps": [
+        {
+          "word": "Black",
+          "start": 0.0,
+          "end": 0.58
+        },
+        {
+          "word": "is",
+          "start": 0.755,
+          "end": 0.952
+        },
+        {
+          "word": "the",
+          "start": 1.022,
+          "end": 1.091
+        },
+        {
+          "word": "color",
+          "start": 1.161,
+          "end": 1.509
+        },
+        {
+          "word": "of",
+          "start": 1.567,
+          "end": 1.637
+        },
+        {
+          "word": "the",
+          "start": 1.707,
+          "end": 1.776
+        },
+        {
+          "word": "night.",
+          "start": 1.846,
+          "end": 2.183
+        }
+      ]
+    },
+    {
+      "text": "I see colors all around me!",
+      "image": "page-12.png",
+      "bg": "#E8F5E9",
+      "accent": "#66BB6A",
+      "audio": "page-12.mp3",
+      "timestamps": [
+        {
+          "word": "I",
+          "start": 0.0,
+          "end": 0.081
+        },
+        {
+          "word": "see",
+          "start": 0.163,
+          "end": 0.337
+        },
+        {
+          "word": "colors",
+          "start": 0.406,
+          "end": 0.836
+        },
+        {
+          "word": "all",
+          "start": 0.882,
+          "end": 1.022
+        },
+        {
+          "word": "around",
+          "start": 1.068,
+          "end": 1.347
+        },
+        {
+          "word": "me!",
+          "start": 1.393,
+          "end": 1.579
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "schemaVersion": 1,
+  "id": "my-family",
+  "title": "My Family",
+  "author": "Hope Academy",
+  "cover": "cover.jpg",
+  "gradeLevel": "PreK",
+  "readingLevel": "Pre-A",
+  "lexile": "BR100L",
+  "wordCount": 48,
+  "highlightMode": "word",
+  "celebrationStyle": "confetti",
+  "display": {
+    "fontSize": 32,
+    "fontFamily": "Andika",
+    "lineHeight": 1.75,
+    "wordSpacing": "0.15em",
+    "letterSpacing": "0.03em"
+  },
+  "pages": [
+    {
+      "text": "This is my family.",
+      "image": "page-01.png",
+      "bg": "#FCE4EC",
+      "accent": "#F06292",
+      "audio": "page-01.mp3",
+      "timestamps": [
+        {
+          "word": "This",
+          "start": 0.0,
+          "end": 0.255
+        },
+        {
+          "word": "is",
+          "start": 0.325,
+          "end": 0.418
+        },
+        {
+          "word": "my",
+          "start": 0.488,
+          "end": 0.604
+        },
+        {
+          "word": "family.",
+          "start": 0.685,
+          "end": 1.207
+        }
+      ]
+    },
+    {
+      "text": "This is my mom.",
+      "image": "page-02.png",
+      "bg": "#FCE4EC",
+      "accent": "#EC407A",
+      "audio": "page-02.mp3",
+      "timestamps": [
+        {
+          "word": "This",
+          "start": 0.0,
+          "end": 0.197
+        },
+        {
+          "word": "is",
+          "start": 0.255,
+          "end": 0.337
+        },
+        {
+          "word": "my",
+          "start": 0.395,
+          "end": 0.488
+        },
+        {
+          "word": "mom.",
+          "start": 0.557,
+          "end": 1.022
+        }
+      ]
+    },
+    {
+      "text": "This is my dad.",
+      "image": "page-03.png",
+      "bg": "#E3F2FD",
+      "accent": "#42A5F5",
+      "audio": "page-03.mp3",
+      "timestamps": [
+        {
+          "word": "This",
+          "start": 0.0,
+          "end": 0.186
+        },
+        {
+          "word": "is",
+          "start": 0.244,
+          "end": 0.313
+        },
+        {
+          "word": "my",
+          "start": 0.36,
+          "end": 0.441
+        },
+        {
+          "word": "dad.",
+          "start": 0.511,
+          "end": 1.068
+        }
+      ]
+    },
+    {
+      "text": "This is my brother.",
+      "image": "page-04.png",
+      "bg": "#E8F5E9",
+      "accent": "#66BB6A",
+      "audio": "page-04.mp3",
+      "timestamps": [
+        {
+          "word": "This",
+          "start": 0.0,
+          "end": 0.209
+        },
+        {
+          "word": "is",
+          "start": 0.267,
+          "end": 0.348
+        },
+        {
+          "word": "my",
+          "start": 0.406,
+          "end": 0.511
+        },
+        {
+          "word": "brother.",
+          "start": 0.569,
+          "end": 1.161
+        }
+      ]
+    },
+    {
+      "text": "This is my sister.",
+      "image": "page-05.png",
+      "bg": "#FFF3E0",
+      "accent": "#FFA726",
+      "audio": "page-05.mp3",
+      "timestamps": [
+        {
+          "word": "This",
+          "start": 0.0,
+          "end": 0.43
+        },
+        {
+          "word": "is",
+          "start": 0.604,
+          "end": 0.755
+        },
+        {
+          "word": "my",
+          "start": 0.824,
+          "end": 0.94
+        },
+        {
+          "word": "sister.",
+          "start": 1.01,
+          "end": 1.533
+        }
+      ]
+    },
+    {
+      "text": "This is my grandma.",
+      "image": "page-06.png",
+      "bg": "#EDE7F6",
+      "accent": "#AB47BC",
+      "audio": "page-06.mp3",
+      "timestamps": [
+        {
+          "word": "This",
+          "start": 0.0,
+          "end": 0.197
+        },
+        {
+          "word": "is",
+          "start": 0.255,
+          "end": 0.337
+        },
+        {
+          "word": "my",
+          "start": 0.395,
+          "end": 0.488
+        },
+        {
+          "word": "grandma.",
+          "start": 0.557,
+          "end": 1.393
+        }
+      ]
+    },
+    {
+      "text": "This is my grandpa.",
+      "image": "page-07.png",
+      "bg": "#E0F7FA",
+      "accent": "#26C6DA",
+      "audio": "page-07.mp3",
+      "timestamps": [
+        {
+          "word": "This",
+          "start": 0.0,
+          "end": 0.221
+        },
+        {
+          "word": "is",
+          "start": 0.279,
+          "end": 0.372
+        },
+        {
+          "word": "my",
+          "start": 0.441,
+          "end": 0.557
+        },
+        {
+          "word": "grandpa.",
+          "start": 0.627,
+          "end": 1.393
+        }
+      ]
+    },
+    {
+      "text": "This is our dog.",
+      "image": "page-08.png",
+      "bg": "#EFEBE9",
+      "accent": "#8D6E63",
+      "audio": "page-08.mp3",
+      "timestamps": [
+        {
+          "word": "This",
+          "start": 0.0,
+          "end": 0.43
+        },
+        {
+          "word": "is",
+          "start": 0.604,
+          "end": 0.801
+        },
+        {
+          "word": "our",
+          "start": 0.871,
+          "end": 1.057
+        },
+        {
+          "word": "dog.",
+          "start": 1.138,
+          "end": 1.579
+        }
+      ]
+    },
+    {
+      "text": "We are all together.",
+      "image": "page-09.png",
+      "bg": "#FCE4EC",
+      "accent": "#F06292",
+      "audio": "page-09.mp3",
+      "timestamps": [
+        {
+          "word": "We",
+          "start": 0.0,
+          "end": 0.163
+        },
+        {
+          "word": "are",
+          "start": 0.197,
+          "end": 0.325
+        },
+        {
+          "word": "all",
+          "start": 0.36,
+          "end": 0.476
+        },
+        {
+          "word": "together.",
+          "start": 0.546,
+          "end": 1.068
+        }
+      ]
+    },
+    {
+      "text": "I love my family so much!",
+      "image": "page-10.png",
+      "bg": "#FCE4EC",
+      "accent": "#EC407A",
+      "audio": "page-10.mp3",
+      "timestamps": [
+        {
+          "word": "I",
+          "start": 0.0,
+          "end": 0.081
+        },
+        {
+          "word": "love",
+          "start": 0.232,
+          "end": 0.464
+        },
+        {
+          "word": "my",
+          "start": 0.511,
+          "end": 0.615
+        },
+        {
+          "word": "family",
+          "start": 0.685,
+          "end": 1.045
+        },
+        {
+          "word": "so",
+          "start": 1.103,
+          "end": 1.231
+        },
+        {
+          "word": "much!",
+          "start": 1.312,
+          "end": 1.672
+        }
+      ]
+    }
+  ]
+}

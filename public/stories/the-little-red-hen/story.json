@@ -1,0 +1,587 @@
+{
+  "schemaVersion": 1,
+  "id": "the-little-red-hen",
+  "title": "The Little Red Hen",
+  "author": "Hope Academy",
+  "cover": "cover.jpg",
+  "gradeLevel": "PreK",
+  "readingLevel": "Pre-A",
+  "lexile": "BR100L",
+  "wordCount": 99,
+  "highlightMode": "word",
+  "celebrationStyle": "confetti",
+  "display": {
+    "fontSize": 32,
+    "fontFamily": "Andika",
+    "lineHeight": 1.75,
+    "wordSpacing": "0.15em",
+    "letterSpacing": "0.03em"
+  },
+  "pages": [
+    {
+      "text": "The little red hen found some seeds.",
+      "image": "page-01.webp",
+      "bg": "#FFF3E0",
+      "accent": "#FFA726",
+      "audio": "page-01.mp3",
+      "timestamps": [
+        {
+          "word": "The",
+          "start": 0.0,
+          "end": 0.151
+        },
+        {
+          "word": "little",
+          "start": 0.209,
+          "end": 0.43
+        },
+        {
+          "word": "red",
+          "start": 0.476,
+          "end": 0.65
+        },
+        {
+          "word": "hen",
+          "start": 0.72,
+          "end": 0.987
+        },
+        {
+          "word": "found",
+          "start": 1.103,
+          "end": 1.37
+        },
+        {
+          "word": "some",
+          "start": 1.428,
+          "end": 1.602
+        },
+        {
+          "word": "seeds.",
+          "start": 1.649,
+          "end": 2.229
+        }
+      ]
+    },
+    {
+      "text": "Who will help me plant the seeds?",
+      "image": "page-02.webp",
+      "bg": "#FFF3E0",
+      "accent": "#EF6C00",
+      "audio": "page-02.mp3",
+      "timestamps": [
+        {
+          "word": "Who",
+          "start": 0.0,
+          "end": 0.174
+        },
+        {
+          "word": "will",
+          "start": 0.221,
+          "end": 0.383
+        },
+        {
+          "word": "help",
+          "start": 0.43,
+          "end": 0.592
+        },
+        {
+          "word": "me",
+          "start": 0.65,
+          "end": 0.743
+        },
+        {
+          "word": "plant",
+          "start": 0.813,
+          "end": 1.173
+        },
+        {
+          "word": "the",
+          "start": 1.231,
+          "end": 1.324
+        },
+        {
+          "word": "seeds?",
+          "start": 1.382,
+          "end": 2.043
+        }
+      ]
+    },
+    {
+      "text": "Not I, said the cat.",
+      "image": "page-03.webp",
+      "bg": "#EFEBE9",
+      "accent": "#8D6E63",
+      "audio": "page-03.mp3",
+      "timestamps": [
+        {
+          "word": "Not",
+          "start": 0.0,
+          "end": 0.267
+        },
+        {
+          "word": "I,",
+          "start": 0.348,
+          "end": 0.697
+        },
+        {
+          "word": "said",
+          "start": 0.848,
+          "end": 1.057
+        },
+        {
+          "word": "the",
+          "start": 1.103,
+          "end": 1.173
+        },
+        {
+          "word": "cat.",
+          "start": 1.219,
+          "end": 1.579
+        }
+      ]
+    },
+    {
+      "text": "Not I, said the dog.",
+      "image": "page-04.webp",
+      "bg": "#E8F5E9",
+      "accent": "#66BB6A",
+      "audio": "page-04.mp3",
+      "timestamps": [
+        {
+          "word": "Not",
+          "start": 0.0,
+          "end": 0.232
+        },
+        {
+          "word": "I,",
+          "start": 0.313,
+          "end": 0.639
+        },
+        {
+          "word": "said",
+          "start": 0.673,
+          "end": 0.882
+        },
+        {
+          "word": "the",
+          "start": 0.929,
+          "end": 0.998
+        },
+        {
+          "word": "dog.",
+          "start": 1.045,
+          "end": 1.44
+        }
+      ]
+    },
+    {
+      "text": "Then I will do it myself!",
+      "image": "page-05.webp",
+      "bg": "#FFEBEE",
+      "accent": "#EF5350",
+      "audio": "page-05.mp3",
+      "timestamps": [
+        {
+          "word": "Then",
+          "start": 0.0,
+          "end": 0.186
+        },
+        {
+          "word": "I",
+          "start": 0.244,
+          "end": 0.267
+        },
+        {
+          "word": "will",
+          "start": 0.325,
+          "end": 0.476
+        },
+        {
+          "word": "do",
+          "start": 0.522,
+          "end": 0.604
+        },
+        {
+          "word": "it",
+          "start": 0.662,
+          "end": 0.731
+        },
+        {
+          "word": "myself!",
+          "start": 0.778,
+          "end": 1.3
+        }
+      ]
+    },
+    {
+      "text": "The hen planted the seeds.",
+      "image": "page-06.webp",
+      "bg": "#E8F5E9",
+      "accent": "#43A047",
+      "audio": "page-06.mp3",
+      "timestamps": [
+        {
+          "word": "The",
+          "start": 0.0,
+          "end": 0.151
+        },
+        {
+          "word": "hen",
+          "start": 0.209,
+          "end": 0.372
+        },
+        {
+          "word": "planted",
+          "start": 0.464,
+          "end": 0.859
+        },
+        {
+          "word": "the",
+          "start": 0.894,
+          "end": 0.964
+        },
+        {
+          "word": "seeds.",
+          "start": 1.01,
+          "end": 1.486
+        }
+      ]
+    },
+    {
+      "text": "Who will help me bake the bread?",
+      "image": "page-07.webp",
+      "bg": "#FFF9C4",
+      "accent": "#F9A825",
+      "audio": "page-07.mp3",
+      "timestamps": [
+        {
+          "word": "Who",
+          "start": 0.0,
+          "end": 0.174
+        },
+        {
+          "word": "will",
+          "start": 0.232,
+          "end": 0.406
+        },
+        {
+          "word": "help",
+          "start": 0.453,
+          "end": 0.604
+        },
+        {
+          "word": "me",
+          "start": 0.662,
+          "end": 0.755
+        },
+        {
+          "word": "bake",
+          "start": 0.824,
+          "end": 1.08
+        },
+        {
+          "word": "the",
+          "start": 1.115,
+          "end": 1.184
+        },
+        {
+          "word": "bread?",
+          "start": 1.231,
+          "end": 1.579
+        }
+      ]
+    },
+    {
+      "text": "Not I, said the cat.",
+      "image": "page-08.webp",
+      "bg": "#EFEBE9",
+      "accent": "#8D6E63",
+      "audio": "page-08.mp3",
+      "timestamps": [
+        {
+          "word": "Not",
+          "start": 0.0,
+          "end": 0.279
+        },
+        {
+          "word": "I,",
+          "start": 0.348,
+          "end": 0.731
+        },
+        {
+          "word": "said",
+          "start": 0.906,
+          "end": 1.091
+        },
+        {
+          "word": "the",
+          "start": 1.138,
+          "end": 1.207
+        },
+        {
+          "word": "cat.",
+          "start": 1.254,
+          "end": 1.625
+        }
+      ]
+    },
+    {
+      "text": "Not I, said the dog.",
+      "image": "page-09.webp",
+      "bg": "#E8F5E9",
+      "accent": "#66BB6A",
+      "audio": "page-09.mp3",
+      "timestamps": [
+        {
+          "word": "Not",
+          "start": 0.0,
+          "end": 0.279
+        },
+        {
+          "word": "I,",
+          "start": 0.348,
+          "end": 0.731
+        },
+        {
+          "word": "said",
+          "start": 0.882,
+          "end": 1.091
+        },
+        {
+          "word": "the",
+          "start": 1.138,
+          "end": 1.207
+        },
+        {
+          "word": "dog.",
+          "start": 1.254,
+          "end": 1.625
+        }
+      ]
+    },
+    {
+      "text": "Then I will do it myself!",
+      "image": "page-10.webp",
+      "bg": "#FFEBEE",
+      "accent": "#EF5350",
+      "audio": "page-10.mp3",
+      "timestamps": [
+        {
+          "word": "Then",
+          "start": 0.0,
+          "end": 0.209
+        },
+        {
+          "word": "I",
+          "start": 0.267,
+          "end": 0.29
+        },
+        {
+          "word": "will",
+          "start": 0.348,
+          "end": 0.499
+        },
+        {
+          "word": "do",
+          "start": 0.546,
+          "end": 0.639
+        },
+        {
+          "word": "it",
+          "start": 0.708,
+          "end": 0.789
+        },
+        {
+          "word": "myself!",
+          "start": 0.848,
+          "end": 1.393
+        }
+      ]
+    },
+    {
+      "text": "The hen baked the bread.",
+      "image": "page-11.webp",
+      "bg": "#FFF9C4",
+      "accent": "#F9A825",
+      "audio": "page-11.mp3",
+      "timestamps": [
+        {
+          "word": "The",
+          "start": 0.0,
+          "end": 0.151
+        },
+        {
+          "word": "hen",
+          "start": 0.209,
+          "end": 0.383
+        },
+        {
+          "word": "baked",
+          "start": 0.464,
+          "end": 0.72
+        },
+        {
+          "word": "the",
+          "start": 0.755,
+          "end": 0.824
+        },
+        {
+          "word": "bread.",
+          "start": 0.871,
+          "end": 1.3
+        }
+      ]
+    },
+    {
+      "text": "Who will eat the bread?",
+      "image": "page-12.webp",
+      "bg": "#FFF3E0",
+      "accent": "#FFA726",
+      "audio": "page-12.mp3",
+      "timestamps": [
+        {
+          "word": "Who",
+          "start": 0.0,
+          "end": 0.186
+        },
+        {
+          "word": "will",
+          "start": 0.232,
+          "end": 0.395
+        },
+        {
+          "word": "eat",
+          "start": 0.441,
+          "end": 0.569
+        },
+        {
+          "word": "the",
+          "start": 0.615,
+          "end": 0.685
+        },
+        {
+          "word": "bread?",
+          "start": 0.731,
+          "end": 1.115
+        }
+      ]
+    },
+    {
+      "text": "I will! I will!",
+      "image": "page-13.webp",
+      "bg": "#FFF9C4",
+      "accent": "#F9A825",
+      "audio": "page-13.mp3",
+      "timestamps": [
+        {
+          "word": "I",
+          "start": 0.0,
+          "end": 0.081
+        },
+        {
+          "word": "will!",
+          "start": 0.163,
+          "end": 0.488
+        },
+        {
+          "word": "I",
+          "start": 0.639,
+          "end": 0.685
+        },
+        {
+          "word": "will!",
+          "start": 0.755,
+          "end": 1.115
+        }
+      ]
+    },
+    {
+      "text": "No. I will eat it myself!",
+      "image": "page-14.webp",
+      "bg": "#FFEBEE",
+      "accent": "#EF5350",
+      "audio": "page-14.mp3",
+      "timestamps": [
+        {
+          "word": "No.",
+          "start": 0.0,
+          "end": 0.325
+        },
+        {
+          "word": "I",
+          "start": 0.383,
+          "end": 0.43
+        },
+        {
+          "word": "will",
+          "start": 0.499,
+          "end": 0.662
+        },
+        {
+          "word": "eat",
+          "start": 0.708,
+          "end": 0.836
+        },
+        {
+          "word": "it",
+          "start": 0.882,
+          "end": 0.952
+        },
+        {
+          "word": "myself!",
+          "start": 1.01,
+          "end": 1.533
+        }
+      ]
+    },
+    {
+      "text": "The little red hen ate the bread. Yum!",
+      "image": "page-15.webp",
+      "bg": "#FFF3E0",
+      "accent": "#EF6C00",
+      "audio": "page-15.mp3",
+      "timestamps": [
+        {
+          "word": "The",
+          "start": 0.0,
+          "end": 0.139
+        },
+        {
+          "word": "little",
+          "start": 0.186,
+          "end": 0.395
+        },
+        {
+          "word": "red",
+          "start": 0.43,
+          "end": 0.604
+        },
+        {
+          "word": "hen",
+          "start": 0.662,
+          "end": 0.94
+        },
+        {
+          "word": "ate",
+          "start": 1.057,
+          "end": 1.277
+        },
+        {
+          "word": "the",
+          "start": 1.312,
+          "end": 1.382
+        },
+        {
+          "word": "bread.",
+          "start": 1.416,
+          "end": 1.73
+        },
+        {
+          "word": "Yum!",
+          "start": 1.846,
+          "end": 2.322
+        }
+      ]
+    }
+  ]
+}

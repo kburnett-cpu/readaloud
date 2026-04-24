@@ -1,0 +1,975 @@
+{
+  "schemaVersion": 1,
+  "id": "abuelas-kitchen",
+  "title": "Grandma's Kitchen",
+  "author": "Hope Academy",
+  "narrator": "Kirk",
+  "cover": "cover.jpg",
+  "gradeLevel": "PreK",
+  "readingLevel": "A",
+  "lexile": "BR120L",
+  "wordCount": 166,
+  "highlightMode": "word",
+  "celebrationStyle": "confetti",
+  "display": {
+    "fontSize": 28,
+    "fontFamily": "Andika",
+    "lineHeight": 1.75,
+    "wordSpacing": "0.15em",
+    "letterSpacing": "0.03em"
+  },
+  "pages": [
+    {
+      "text": "On Saturday mornings, I love to go to my grandma's big house.",
+      "image": "page-01.webp",
+      "bg": "#FFF8E1",
+      "accent": "#F9A825",
+      "audio": "page-01.mp3",
+      "timestamps": [
+        {
+          "word": "On",
+          "start": 0.0,
+          "end": 0.151
+        },
+        {
+          "word": "Saturday",
+          "start": 0.221,
+          "end": 0.615
+        },
+        {
+          "word": "mornings,",
+          "start": 0.685,
+          "end": 1.091
+        },
+        {
+          "word": "I",
+          "start": 1.126,
+          "end": 1.149
+        },
+        {
+          "word": "love",
+          "start": 1.242,
+          "end": 1.405
+        },
+        {
+          "word": "to",
+          "start": 1.44,
+          "end": 1.486
+        },
+        {
+          "word": "go",
+          "start": 1.533,
+          "end": 1.625
+        },
+        {
+          "word": "to",
+          "start": 1.66,
+          "end": 1.707
+        },
+        {
+          "word": "my",
+          "start": 1.753,
+          "end": 1.823
+        },
+        {
+          "word": "grandma's",
+          "start": 1.881,
+          "end": 2.299
+        },
+        {
+          "word": "big",
+          "start": 2.334,
+          "end": 2.496
+        },
+        {
+          "word": "house.",
+          "start": 2.554,
+          "end": 2.879
+        }
+      ]
+    },
+    {
+      "text": "Grandma is always in the kitchen when I walk through the door.",
+      "image": "page-02.webp",
+      "bg": "#FFF3E0",
+      "accent": "#FB8C00",
+      "audio": "page-02.mp3",
+      "timestamps": [
+        {
+          "word": "Grandma",
+          "start": 0.0,
+          "end": 0.569
+        },
+        {
+          "word": "is",
+          "start": 0.685,
+          "end": 0.859
+        },
+        {
+          "word": "always",
+          "start": 0.94,
+          "end": 1.312
+        },
+        {
+          "word": "in",
+          "start": 1.358,
+          "end": 1.428
+        },
+        {
+          "word": "the",
+          "start": 1.463,
+          "end": 1.533
+        },
+        {
+          "word": "kitchen",
+          "start": 1.591,
+          "end": 1.892
+        },
+        {
+          "word": "when",
+          "start": 1.939,
+          "end": 2.067
+        },
+        {
+          "word": "I",
+          "start": 2.113,
+          "end": 2.148
+        },
+        {
+          "word": "walk",
+          "start": 2.229,
+          "end": 2.45
+        },
+        {
+          "word": "through",
+          "start": 2.519,
+          "end": 2.752
+        },
+        {
+          "word": "the",
+          "start": 2.786,
+          "end": 2.856
+        },
+        {
+          "word": "door.",
+          "start": 2.914,
+          "end": 3.297
+        }
+      ]
+    },
+    {
+      "text": "The kitchen smells so good, like garlic and onions and warm rice.",
+      "image": "page-03.webp",
+      "bg": "#FBE9E7",
+      "accent": "#BF360C",
+      "audio": "page-03.mp3",
+      "timestamps": [
+        {
+          "word": "The",
+          "start": 0.0,
+          "end": 0.151
+        },
+        {
+          "word": "kitchen",
+          "start": 0.209,
+          "end": 0.58
+        },
+        {
+          "word": "smells",
+          "start": 0.673,
+          "end": 1.08
+        },
+        {
+          "word": "so",
+          "start": 1.115,
+          "end": 1.277
+        },
+        {
+          "word": "good,",
+          "start": 1.358,
+          "end": 1.625
+        },
+        {
+          "word": "like",
+          "start": 1.66,
+          "end": 1.823
+        },
+        {
+          "word": "garlic",
+          "start": 1.869,
+          "end": 2.287
+        },
+        {
+          "word": "and",
+          "start": 2.345,
+          "end": 2.415
+        },
+        {
+          "word": "onions",
+          "start": 2.473,
+          "end": 2.833
+        },
+        {
+          "word": "and",
+          "start": 2.879,
+          "end": 2.972
+        },
+        {
+          "word": "warm",
+          "start": 3.053,
+          "end": 3.344
+        },
+        {
+          "word": "rice.",
+          "start": 3.437,
+          "end": 3.947
+        }
+      ]
+    },
+    {
+      "text": "She ties a little apron around my waist and hands me a spoon.",
+      "image": "page-04.webp",
+      "bg": "#FCE4EC",
+      "accent": "#E91E63",
+      "audio": "page-04.mp3",
+      "timestamps": [
+        {
+          "word": "She",
+          "start": 0.0,
+          "end": 0.163
+        },
+        {
+          "word": "ties",
+          "start": 0.232,
+          "end": 0.604
+        },
+        {
+          "word": "a",
+          "start": 0.662,
+          "end": 0.685
+        },
+        {
+          "word": "little",
+          "start": 0.731,
+          "end": 0.964
+        },
+        {
+          "word": "apron",
+          "start": 1.022,
+          "end": 1.463
+        },
+        {
+          "word": "around",
+          "start": 1.521,
+          "end": 1.8
+        },
+        {
+          "word": "my",
+          "start": 1.858,
+          "end": 1.962
+        },
+        {
+          "word": "waist",
+          "start": 2.043,
+          "end": 2.426
+        },
+        {
+          "word": "and",
+          "start": 2.485,
+          "end": 2.601
+        },
+        {
+          "word": "hands",
+          "start": 2.67,
+          "end": 2.972
+        },
+        {
+          "word": "me",
+          "start": 3.03,
+          "end": 3.123
+        },
+        {
+          "word": "a",
+          "start": 3.17,
+          "end": 3.204
+        },
+        {
+          "word": "spoon.",
+          "start": 3.251,
+          "end": 3.715
+        }
+      ]
+    },
+    {
+      "text": "My job is to stir the big pot of red beans very slowly.",
+      "image": "page-05.webp",
+      "bg": "#FFEBEE",
+      "accent": "#C62828",
+      "audio": "page-05.mp3",
+      "timestamps": [
+        {
+          "word": "My",
+          "start": 0.0,
+          "end": 0.255
+        },
+        {
+          "word": "job",
+          "start": 0.348,
+          "end": 0.731
+        },
+        {
+          "word": "is",
+          "start": 0.813,
+          "end": 0.917
+        },
+        {
+          "word": "to",
+          "start": 0.975,
+          "end": 1.045
+        },
+        {
+          "word": "stir",
+          "start": 1.161,
+          "end": 1.614
+        },
+        {
+          "word": "the",
+          "start": 1.73,
+          "end": 1.811
+        },
+        {
+          "word": "big",
+          "start": 1.892,
+          "end": 2.078
+        },
+        {
+          "word": "pot",
+          "start": 2.171,
+          "end": 2.45
+        },
+        {
+          "word": "of",
+          "start": 2.496,
+          "end": 2.543
+        },
+        {
+          "word": "red",
+          "start": 2.612,
+          "end": 2.786
+        },
+        {
+          "word": "beans",
+          "start": 2.844,
+          "end": 3.158
+        },
+        {
+          "word": "very",
+          "start": 3.228,
+          "end": 3.471
+        },
+        {
+          "word": "slowly.",
+          "start": 3.529,
+          "end": 4.04
+        }
+      ]
+    },
+    {
+      "text": "Grandma chops the vegetables fast with a big knife on the wooden board.",
+      "image": "page-06.webp",
+      "bg": "#E8F5E9",
+      "accent": "#2E7D32",
+      "audio": "page-06.mp3",
+      "timestamps": [
+        {
+          "word": "Grandma",
+          "start": 0.0,
+          "end": 0.662
+        },
+        {
+          "word": "chops",
+          "start": 0.813,
+          "end": 1.289
+        },
+        {
+          "word": "the",
+          "start": 1.358,
+          "end": 1.44
+        },
+        {
+          "word": "vegetables",
+          "start": 1.509,
+          "end": 2.067
+        },
+        {
+          "word": "fast",
+          "start": 2.183,
+          "end": 2.74
+        },
+        {
+          "word": "with",
+          "start": 2.798,
+          "end": 2.961
+        },
+        {
+          "word": "a",
+          "start": 3.007,
+          "end": 3.042
+        },
+        {
+          "word": "big",
+          "start": 3.158,
+          "end": 3.39
+        },
+        {
+          "word": "knife",
+          "start": 3.471,
+          "end": 3.843
+        },
+        {
+          "word": "on",
+          "start": 3.901,
+          "end": 4.075
+        },
+        {
+          "word": "the",
+          "start": 4.122,
+          "end": 4.191
+        },
+        {
+          "word": "wooden",
+          "start": 4.226,
+          "end": 4.54
+        },
+        {
+          "word": "board.",
+          "start": 4.609,
+          "end": 5.016
+        }
+      ]
+    },
+    {
+      "text": "She sings a song while she cooks and I try to sing too.",
+      "image": "page-07.webp",
+      "bg": "#E3F2FD",
+      "accent": "#1565C0",
+      "audio": "page-07.mp3",
+      "timestamps": [
+        {
+          "word": "She",
+          "start": 0.0,
+          "end": 0.163
+        },
+        {
+          "word": "sings",
+          "start": 0.221,
+          "end": 0.464
+        },
+        {
+          "word": "a",
+          "start": 0.511,
+          "end": 0.546
+        },
+        {
+          "word": "song",
+          "start": 0.604,
+          "end": 0.859
+        },
+        {
+          "word": "while",
+          "start": 0.906,
+          "end": 1.068
+        },
+        {
+          "word": "she",
+          "start": 1.091,
+          "end": 1.196
+        },
+        {
+          "word": "cooks",
+          "start": 1.277,
+          "end": 1.556
+        },
+        {
+          "word": "and",
+          "start": 1.591,
+          "end": 1.672
+        },
+        {
+          "word": "I",
+          "start": 1.718,
+          "end": 1.753
+        },
+        {
+          "word": "try",
+          "start": 1.834,
+          "end": 1.997
+        },
+        {
+          "word": "to",
+          "start": 2.055,
+          "end": 2.125
+        },
+        {
+          "word": "sing",
+          "start": 2.183,
+          "end": 2.45
+        },
+        {
+          "word": "too.",
+          "start": 2.531,
+          "end": 2.926
+        }
+      ]
+    },
+    {
+      "text": "I help her wash the rice in a big bowl of cold water.",
+      "image": "page-08.webp",
+      "bg": "#E1F5FE",
+      "accent": "#0277BD",
+      "audio": "page-08.mp3",
+      "timestamps": [
+        {
+          "word": "I",
+          "start": 0.0,
+          "end": 0.081
+        },
+        {
+          "word": "help",
+          "start": 0.197,
+          "end": 0.372
+        },
+        {
+          "word": "her",
+          "start": 0.418,
+          "end": 0.511
+        },
+        {
+          "word": "wash",
+          "start": 0.592,
+          "end": 0.94
+        },
+        {
+          "word": "the",
+          "start": 1.01,
+          "end": 1.091
+        },
+        {
+          "word": "rice",
+          "start": 1.161,
+          "end": 1.591
+        },
+        {
+          "word": "in",
+          "start": 1.637,
+          "end": 1.718
+        },
+        {
+          "word": "a",
+          "start": 1.765,
+          "end": 1.8
+        },
+        {
+          "word": "big",
+          "start": 1.869,
+          "end": 2.055
+        },
+        {
+          "word": "bowl",
+          "start": 2.125,
+          "end": 2.392
+        },
+        {
+          "word": "of",
+          "start": 2.45,
+          "end": 2.508
+        },
+        {
+          "word": "cold",
+          "start": 2.577,
+          "end": 2.868
+        },
+        {
+          "word": "water.",
+          "start": 2.949,
+          "end": 3.39
+        }
+      ]
+    },
+    {
+      "text": "We put the rice on the stove and watch it bubble and steam.",
+      "image": "page-09.webp",
+      "bg": "#F5F5F5",
+      "accent": "#757575",
+      "audio": "page-09.mp3",
+      "timestamps": [
+        {
+          "word": "We",
+          "start": 0.0,
+          "end": 0.139
+        },
+        {
+          "word": "put",
+          "start": 0.186,
+          "end": 0.325
+        },
+        {
+          "word": "the",
+          "start": 0.36,
+          "end": 0.43
+        },
+        {
+          "word": "rice",
+          "start": 0.488,
+          "end": 0.778
+        },
+        {
+          "word": "on",
+          "start": 0.824,
+          "end": 0.906
+        },
+        {
+          "word": "the",
+          "start": 0.952,
+          "end": 1.022
+        },
+        {
+          "word": "stove",
+          "start": 1.08,
+          "end": 1.498
+        },
+        {
+          "word": "and",
+          "start": 1.533,
+          "end": 1.625
+        },
+        {
+          "word": "watch",
+          "start": 1.695,
+          "end": 1.985
+        },
+        {
+          "word": "it",
+          "start": 2.043,
+          "end": 2.125
+        },
+        {
+          "word": "bubble",
+          "start": 2.241,
+          "end": 2.624
+        },
+        {
+          "word": "and",
+          "start": 2.659,
+          "end": 2.763
+        },
+        {
+          "word": "steam.",
+          "start": 2.844,
+          "end": 3.483
+        }
+      ]
+    },
+    {
+      "text": "Grandma lets me taste the beans and asks if they need more salt.",
+      "image": "page-10.webp",
+      "bg": "#FFFDE7",
+      "accent": "#F57F17",
+      "audio": "page-10.mp3",
+      "timestamps": [
+        {
+          "word": "Grandma",
+          "start": 0.0,
+          "end": 0.522
+        },
+        {
+          "word": "lets",
+          "start": 0.673,
+          "end": 0.929
+        },
+        {
+          "word": "me",
+          "start": 0.987,
+          "end": 1.103
+        },
+        {
+          "word": "taste",
+          "start": 1.184,
+          "end": 1.556
+        },
+        {
+          "word": "the",
+          "start": 1.602,
+          "end": 1.695
+        },
+        {
+          "word": "beans",
+          "start": 1.753,
+          "end": 2.252
+        },
+        {
+          "word": "and",
+          "start": 2.31,
+          "end": 2.415
+        },
+        {
+          "word": "asks",
+          "start": 2.485,
+          "end": 2.728
+        },
+        {
+          "word": "if",
+          "start": 2.775,
+          "end": 2.868
+        },
+        {
+          "word": "they",
+          "start": 2.914,
+          "end": 3.03
+        },
+        {
+          "word": "need",
+          "start": 3.077,
+          "end": 3.251
+        },
+        {
+          "word": "more",
+          "start": 3.309,
+          "end": 3.483
+        },
+        {
+          "word": "salt.",
+          "start": 3.529,
+          "end": 3.901
+        }
+      ]
+    },
+    {
+      "text": "I take a big taste and give her a big thumbs up right away.",
+      "image": "page-11.webp",
+      "bg": "#F1F8E9",
+      "accent": "#388E3C",
+      "audio": "page-11.mp3",
+      "timestamps": [
+        {
+          "word": "I",
+          "start": 0.0,
+          "end": 0.081
+        },
+        {
+          "word": "take",
+          "start": 0.174,
+          "end": 0.348
+        },
+        {
+          "word": "a",
+          "start": 0.383,
+          "end": 0.406
+        },
+        {
+          "word": "big",
+          "start": 0.522,
+          "end": 0.766
+        },
+        {
+          "word": "taste",
+          "start": 0.848,
+          "end": 1.277
+        },
+        {
+          "word": "and",
+          "start": 1.324,
+          "end": 1.416
+        },
+        {
+          "word": "give",
+          "start": 1.463,
+          "end": 1.625
+        },
+        {
+          "word": "her",
+          "start": 1.649,
+          "end": 1.741
+        },
+        {
+          "word": "a",
+          "start": 1.788,
+          "end": 1.823
+        },
+        {
+          "word": "big",
+          "start": 1.95,
+          "end": 2.229
+        },
+        {
+          "word": "thumbs",
+          "start": 2.299,
+          "end": 2.612
+        },
+        {
+          "word": "up",
+          "start": 2.67,
+          "end": 2.798
+        },
+        {
+          "word": "right",
+          "start": 2.868,
+          "end": 3.077
+        },
+        {
+          "word": "away.",
+          "start": 3.111,
+          "end": 3.483
+        }
+      ]
+    },
+    {
+      "text": "When the food is ready, the whole family comes to sit at the table.",
+      "image": "page-12.webp",
+      "bg": "#FFF3E0",
+      "accent": "#E65100",
+      "audio": "page-12.mp3",
+      "timestamps": [
+        {
+          "word": "When",
+          "start": 0.0,
+          "end": 0.232
+        },
+        {
+          "word": "the",
+          "start": 0.279,
+          "end": 0.348
+        },
+        {
+          "word": "food",
+          "start": 0.43,
+          "end": 0.731
+        },
+        {
+          "word": "is",
+          "start": 0.789,
+          "end": 0.894
+        },
+        {
+          "word": "ready,",
+          "start": 1.01,
+          "end": 1.44
+        },
+        {
+          "word": "the",
+          "start": 1.509,
+          "end": 1.637
+        },
+        {
+          "word": "whole",
+          "start": 1.707,
+          "end": 2.032
+        },
+        {
+          "word": "family",
+          "start": 2.09,
+          "end": 2.577
+        },
+        {
+          "word": "comes",
+          "start": 2.67,
+          "end": 2.972
+        },
+        {
+          "word": "to",
+          "start": 3.042,
+          "end": 3.135
+        },
+        {
+          "word": "sit",
+          "start": 3.216,
+          "end": 3.402
+        },
+        {
+          "word": "at",
+          "start": 3.448,
+          "end": 3.529
+        },
+        {
+          "word": "the",
+          "start": 3.576,
+          "end": 3.646
+        },
+        {
+          "word": "table.",
+          "start": 3.692,
+          "end": 4.133
+        }
+      ]
+    },
+    {
+      "text": "Grandma says that food made with love always tastes the very best.",
+      "image": "page-13.webp",
+      "bg": "#FCE4EC",
+      "accent": "#AD1457",
+      "audio": "page-13.mp3",
+      "timestamps": [
+        {
+          "word": "Grandma",
+          "start": 0.0,
+          "end": 0.441
+        },
+        {
+          "word": "says",
+          "start": 0.499,
+          "end": 0.882
+        },
+        {
+          "word": "that",
+          "start": 0.964,
+          "end": 1.161
+        },
+        {
+          "word": "food",
+          "start": 1.277,
+          "end": 1.649
+        },
+        {
+          "word": "made",
+          "start": 1.718,
+          "end": 1.974
+        },
+        {
+          "word": "with",
+          "start": 2.009,
+          "end": 2.171
+        },
+        {
+          "word": "love",
+          "start": 2.287,
+          "end": 2.717
+        },
+        {
+          "word": "always",
+          "start": 2.775,
+          "end": 3.216
+        },
+        {
+          "word": "tastes",
+          "start": 3.286,
+          "end": 3.646
+        },
+        {
+          "word": "the",
+          "start": 3.692,
+          "end": 3.773
+        },
+        {
+          "word": "very",
+          "start": 3.831,
+          "end": 4.063
+        },
+        {
+          "word": "best.",
+          "start": 4.145,
+          "end": 4.551
+        }
+      ]
+    }
+  ]
+}

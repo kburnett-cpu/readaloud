@@ -1,0 +1,435 @@
+{
+  "schemaVersion": 1,
+  "id": "counting-to-ten",
+  "title": "Counting to Ten",
+  "author": "Hope Academy",
+  "cover": "cover.jpg",
+  "gradeLevel": "PreK",
+  "readingLevel": "Pre-A",
+  "lexile": "BR100L",
+  "wordCount": 71,
+  "highlightMode": "word",
+  "celebrationStyle": "confetti",
+  "display": {
+    "fontSize": 32,
+    "fontFamily": "Andika",
+    "lineHeight": 1.75,
+    "wordSpacing": "0.15em",
+    "letterSpacing": "0.03em"
+  },
+  "pages": [
+    {
+      "text": "I can count!",
+      "image": "page-01.png",
+      "bg": "#E3F2FD",
+      "accent": "#42A5F5",
+      "audio": "page-01.mp3",
+      "timestamps": [
+        {
+          "word": "I",
+          "start": 0.0,
+          "end": 0.081
+        },
+        {
+          "word": "can",
+          "start": 0.197,
+          "end": 0.36
+        },
+        {
+          "word": "count!",
+          "start": 0.453,
+          "end": 1.022
+        }
+      ]
+    },
+    {
+      "text": "Here is one big sun.",
+      "image": "page-02.png",
+      "bg": "#FFF9C4",
+      "accent": "#F9A825",
+      "audio": "page-02.mp3",
+      "timestamps": [
+        {
+          "word": "Here",
+          "start": 0.0,
+          "end": 0.232
+        },
+        {
+          "word": "is",
+          "start": 0.279,
+          "end": 0.36
+        },
+        {
+          "word": "one",
+          "start": 0.441,
+          "end": 0.604
+        },
+        {
+          "word": "big",
+          "start": 0.65,
+          "end": 0.836
+        },
+        {
+          "word": "sun.",
+          "start": 0.906,
+          "end": 1.3
+        }
+      ]
+    },
+    {
+      "text": "Here are two little birds.",
+      "image": "page-03.png",
+      "bg": "#E8F5E9",
+      "accent": "#66BB6A",
+      "audio": "page-03.mp3",
+      "timestamps": [
+        {
+          "word": "Here",
+          "start": 0.0,
+          "end": 0.232
+        },
+        {
+          "word": "are",
+          "start": 0.267,
+          "end": 0.395
+        },
+        {
+          "word": "two",
+          "start": 0.43,
+          "end": 0.569
+        },
+        {
+          "word": "little",
+          "start": 0.639,
+          "end": 0.859
+        },
+        {
+          "word": "birds.",
+          "start": 0.894,
+          "end": 1.3
+        }
+      ]
+    },
+    {
+      "text": "Here are three red apples.",
+      "image": "page-04.png",
+      "bg": "#FFEBEE",
+      "accent": "#EF5350",
+      "audio": "page-04.mp3",
+      "timestamps": [
+        {
+          "word": "Here",
+          "start": 0.0,
+          "end": 0.232
+        },
+        {
+          "word": "are",
+          "start": 0.279,
+          "end": 0.406
+        },
+        {
+          "word": "three",
+          "start": 0.464,
+          "end": 0.72
+        },
+        {
+          "word": "red",
+          "start": 0.789,
+          "end": 0.998
+        },
+        {
+          "word": "apples.",
+          "start": 1.057,
+          "end": 1.579
+        }
+      ]
+    },
+    {
+      "text": "Here are four green frogs.",
+      "image": "page-05.png",
+      "bg": "#E8F5E9",
+      "accent": "#43A047",
+      "audio": "page-05.mp3",
+      "timestamps": [
+        {
+          "word": "Here",
+          "start": 0.0,
+          "end": 0.209
+        },
+        {
+          "word": "are",
+          "start": 0.244,
+          "end": 0.36
+        },
+        {
+          "word": "four",
+          "start": 0.43,
+          "end": 0.708
+        },
+        {
+          "word": "green",
+          "start": 0.778,
+          "end": 1.057
+        },
+        {
+          "word": "frogs.",
+          "start": 1.138,
+          "end": 1.765
+        }
+      ]
+    },
+    {
+      "text": "Here are five blue fish.",
+      "image": "page-06.png",
+      "bg": "#E3F2FD",
+      "accent": "#1E88E5",
+      "audio": "page-06.mp3",
+      "timestamps": [
+        {
+          "word": "Here",
+          "start": 0.0,
+          "end": 0.255
+        },
+        {
+          "word": "are",
+          "start": 0.302,
+          "end": 0.464
+        },
+        {
+          "word": "five",
+          "start": 0.534,
+          "end": 0.906
+        },
+        {
+          "word": "blue",
+          "start": 0.964,
+          "end": 1.207
+        },
+        {
+          "word": "fish.",
+          "start": 1.254,
+          "end": 1.625
+        }
+      ]
+    },
+    {
+      "text": "Here are six yellow stars.",
+      "image": "page-07.png",
+      "bg": "#FFF9C4",
+      "accent": "#FDD835",
+      "audio": "page-07.mp3",
+      "timestamps": [
+        {
+          "word": "Here",
+          "start": 0.0,
+          "end": 0.244
+        },
+        {
+          "word": "are",
+          "start": 0.29,
+          "end": 0.43
+        },
+        {
+          "word": "six",
+          "start": 0.488,
+          "end": 0.789
+        },
+        {
+          "word": "yellow",
+          "start": 0.859,
+          "end": 1.161
+        },
+        {
+          "word": "stars.",
+          "start": 1.231,
+          "end": 1.765
+        }
+      ]
+    },
+    {
+      "text": "Here are seven orange cats.",
+      "image": "page-08.png",
+      "bg": "#FFF3E0",
+      "accent": "#FB8C00",
+      "audio": "page-08.mp3",
+      "timestamps": [
+        {
+          "word": "Here",
+          "start": 0.0,
+          "end": 0.244
+        },
+        {
+          "word": "are",
+          "start": 0.29,
+          "end": 0.43
+        },
+        {
+          "word": "seven",
+          "start": 0.488,
+          "end": 0.789
+        },
+        {
+          "word": "orange",
+          "start": 0.848,
+          "end": 1.161
+        },
+        {
+          "word": "cats.",
+          "start": 1.207,
+          "end": 1.718
+        }
+      ]
+    },
+    {
+      "text": "Here are eight pink flowers.",
+      "image": "page-09.png",
+      "bg": "#FCE4EC",
+      "accent": "#EC407A",
+      "audio": "page-09.mp3",
+      "timestamps": [
+        {
+          "word": "Here",
+          "start": 0.0,
+          "end": 0.255
+        },
+        {
+          "word": "are",
+          "start": 0.302,
+          "end": 0.441
+        },
+        {
+          "word": "eight",
+          "start": 0.511,
+          "end": 0.766
+        },
+        {
+          "word": "pink",
+          "start": 0.836,
+          "end": 1.091
+        },
+        {
+          "word": "flowers.",
+          "start": 1.173,
+          "end": 1.811
+        }
+      ]
+    },
+    {
+      "text": "Here are nine brown bears.",
+      "image": "page-10.png",
+      "bg": "#EFEBE9",
+      "accent": "#8D6E63",
+      "audio": "page-10.mp3",
+      "timestamps": [
+        {
+          "word": "Here",
+          "start": 0.0,
+          "end": 0.232
+        },
+        {
+          "word": "are",
+          "start": 0.267,
+          "end": 0.395
+        },
+        {
+          "word": "nine",
+          "start": 0.441,
+          "end": 0.731
+        },
+        {
+          "word": "brown",
+          "start": 0.778,
+          "end": 1.08
+        },
+        {
+          "word": "bears.",
+          "start": 1.149,
+          "end": 1.625
+        }
+      ]
+    },
+    {
+      "text": "Here are ten purple grapes.",
+      "image": "page-11.png",
+      "bg": "#EDE7F6",
+      "accent": "#7E57C2",
+      "audio": "page-11.mp3",
+      "timestamps": [
+        {
+          "word": "Here",
+          "start": 0.0,
+          "end": 0.232
+        },
+        {
+          "word": "are",
+          "start": 0.267,
+          "end": 0.406
+        },
+        {
+          "word": "ten",
+          "start": 0.453,
+          "end": 0.708
+        },
+        {
+          "word": "purple",
+          "start": 0.824,
+          "end": 1.173
+        },
+        {
+          "word": "grapes.",
+          "start": 1.219,
+          "end": 1.672
+        }
+      ]
+    },
+    {
+      "text": "I did it! I can count to ten!",
+      "image": "page-12.png",
+      "bg": "#E3F2FD",
+      "accent": "#42A5F5",
+      "audio": "page-12.mp3",
+      "timestamps": [
+        {
+          "word": "I",
+          "start": 0.0,
+          "end": 0.07
+        },
+        {
+          "word": "did",
+          "start": 0.197,
+          "end": 0.372
+        },
+        {
+          "word": "it!",
+          "start": 0.418,
+          "end": 0.534
+        },
+        {
+          "word": "I",
+          "start": 0.592,
+          "end": 0.65
+        },
+        {
+          "word": "can",
+          "start": 0.72,
+          "end": 0.848
+        },
+        {
+          "word": "count",
+          "start": 0.917,
+          "end": 1.149
+        },
+        {
+          "word": "to",
+          "start": 1.196,
+          "end": 1.265
+        },
+        {
+          "word": "ten!",
+          "start": 1.335,
+          "end": 1.672
+        }
+      ]
+    }
+  ]
+}

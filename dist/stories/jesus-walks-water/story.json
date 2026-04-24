@@ -1,0 +1,667 @@
+{
+  "schemaVersion": 1,
+  "id": "jesus-walks-water",
+  "title": "Jesus Walks on Water",
+  "author": "Hope Academy",
+  "narrator": "Kirk",
+  "cover": "cover.jpg",
+  "gradeLevel": "Grade2",
+  "readingLevel": "D",
+  "lexile": "510L",
+  "wordCount": 87,
+  "highlightMode": "word",
+  "celebrationStyle": "confetti",
+  "display": {
+    "fontSize": 28,
+    "fontFamily": "Andika",
+    "lineHeight": 1.75,
+    "wordSpacing": "0.15em",
+    "letterSpacing": "0.03em"
+  },
+  "pages": [
+    {
+      "text": "Jesus told his helpers to get in a boat.",
+      "image": "page-01.webp",
+      "bg": "#E3F2FD",
+      "accent": "#42A5F5",
+      "audio": "page-01.mp3",
+      "timestamps": [
+        {
+          "word": "Jesus",
+          "start": 0.0,
+          "end": 0.36
+        },
+        {
+          "word": "told",
+          "start": 0.406,
+          "end": 0.615
+        },
+        {
+          "word": "his",
+          "start": 0.662,
+          "end": 0.766
+        },
+        {
+          "word": "helpers",
+          "start": 0.813,
+          "end": 1.184
+        },
+        {
+          "word": "to",
+          "start": 1.231,
+          "end": 1.289
+        },
+        {
+          "word": "get",
+          "start": 1.347,
+          "end": 1.463
+        },
+        {
+          "word": "in",
+          "start": 1.509,
+          "end": 1.579
+        },
+        {
+          "word": "a",
+          "start": 1.614,
+          "end": 1.649
+        },
+        {
+          "word": "boat.",
+          "start": 1.718,
+          "end": 2.043
+        }
+      ]
+    },
+    {
+      "text": "He said, Go across the big lake. I will come later.",
+      "image": "page-02.webp",
+      "bg": "#E8F5E9",
+      "accent": "#66BB6A",
+      "audio": "page-02.mp3",
+      "timestamps": [
+        {
+          "word": "He",
+          "start": 0.0,
+          "end": 0.128
+        },
+        {
+          "word": "said,",
+          "start": 0.174,
+          "end": 0.395
+        },
+        {
+          "word": "Go",
+          "start": 0.43,
+          "end": 0.557
+        },
+        {
+          "word": "across",
+          "start": 0.639,
+          "end": 1.01
+        },
+        {
+          "word": "the",
+          "start": 1.068,
+          "end": 1.138
+        },
+        {
+          "word": "big",
+          "start": 1.173,
+          "end": 1.335
+        },
+        {
+          "word": "lake.",
+          "start": 1.405,
+          "end": 1.695
+        },
+        {
+          "word": "I",
+          "start": 1.718,
+          "end": 1.765
+        },
+        {
+          "word": "will",
+          "start": 1.834,
+          "end": 1.997
+        },
+        {
+          "word": "come",
+          "start": 2.055,
+          "end": 2.241
+        },
+        {
+          "word": "later.",
+          "start": 2.287,
+          "end": 2.647
+        }
+      ]
+    },
+    {
+      "text": "The helpers got in the boat and rowed and rowed.",
+      "image": "page-03.webp",
+      "bg": "#FFF3E0",
+      "accent": "#FFA726",
+      "audio": "page-03.mp3",
+      "timestamps": [
+        {
+          "word": "The",
+          "start": 0.0,
+          "end": 0.151
+        },
+        {
+          "word": "helpers",
+          "start": 0.209,
+          "end": 0.604
+        },
+        {
+          "word": "got",
+          "start": 0.673,
+          "end": 0.894
+        },
+        {
+          "word": "in",
+          "start": 0.94,
+          "end": 1.01
+        },
+        {
+          "word": "the",
+          "start": 1.057,
+          "end": 1.126
+        },
+        {
+          "word": "boat",
+          "start": 1.184,
+          "end": 1.474
+        },
+        {
+          "word": "and",
+          "start": 1.556,
+          "end": 1.66
+        },
+        {
+          "word": "rowed",
+          "start": 1.776,
+          "end": 2.276
+        },
+        {
+          "word": "and",
+          "start": 2.322,
+          "end": 2.415
+        },
+        {
+          "word": "rowed.",
+          "start": 2.496,
+          "end": 2.972
+        }
+      ]
+    },
+    {
+      "text": "Then a big storm came. The wind blew hard.",
+      "image": "page-04.webp",
+      "bg": "#FCE4EC",
+      "accent": "#EC407A",
+      "audio": "page-04.mp3",
+      "timestamps": [
+        {
+          "word": "Then",
+          "start": 0.0,
+          "end": 0.197
+        },
+        {
+          "word": "a",
+          "start": 0.244,
+          "end": 0.267
+        },
+        {
+          "word": "big",
+          "start": 0.325,
+          "end": 0.488
+        },
+        {
+          "word": "storm",
+          "start": 0.557,
+          "end": 0.917
+        },
+        {
+          "word": "came.",
+          "start": 0.998,
+          "end": 1.312
+        },
+        {
+          "word": "The",
+          "start": 1.335,
+          "end": 1.428
+        },
+        {
+          "word": "wind",
+          "start": 1.474,
+          "end": 1.672
+        },
+        {
+          "word": "blew",
+          "start": 1.718,
+          "end": 1.939
+        },
+        {
+          "word": "hard.",
+          "start": 1.997,
+          "end": 2.368
+        }
+      ]
+    },
+    {
+      "text": "The water got rough. The boat rocked back and forth.",
+      "image": "page-05.webp",
+      "bg": "#F3E5F5",
+      "accent": "#AB47BC",
+      "audio": "page-05.mp3",
+      "timestamps": [
+        {
+          "word": "The",
+          "start": 0.0,
+          "end": 0.151
+        },
+        {
+          "word": "water",
+          "start": 0.197,
+          "end": 0.499
+        },
+        {
+          "word": "got",
+          "start": 0.557,
+          "end": 0.766
+        },
+        {
+          "word": "rough.",
+          "start": 0.882,
+          "end": 1.231
+        },
+        {
+          "word": "The",
+          "start": 1.254,
+          "end": 1.358
+        },
+        {
+          "word": "boat",
+          "start": 1.405,
+          "end": 1.625
+        },
+        {
+          "word": "rocked",
+          "start": 1.707,
+          "end": 2.032
+        },
+        {
+          "word": "back",
+          "start": 2.101,
+          "end": 2.31
+        },
+        {
+          "word": "and",
+          "start": 2.368,
+          "end": 2.461
+        },
+        {
+          "word": "forth.",
+          "start": 2.531,
+          "end": 2.926
+        }
+      ]
+    },
+    {
+      "text": "It was dark. They were scared. They did not know what to do.",
+      "image": "page-06.webp",
+      "bg": "#E0F2F1",
+      "accent": "#26A69A",
+      "audio": "page-06.mp3",
+      "timestamps": [
+        {
+          "word": "It",
+          "start": 0.0,
+          "end": 0.151
+        },
+        {
+          "word": "was",
+          "start": 0.209,
+          "end": 0.348
+        },
+        {
+          "word": "dark.",
+          "start": 0.464,
+          "end": 0.952
+        },
+        {
+          "word": "They",
+          "start": 0.987,
+          "end": 1.126
+        },
+        {
+          "word": "were",
+          "start": 1.161,
+          "end": 1.3
+        },
+        {
+          "word": "scared.",
+          "start": 1.335,
+          "end": 1.869
+        },
+        {
+          "word": "They",
+          "start": 1.892,
+          "end": 2.043
+        },
+        {
+          "word": "did",
+          "start": 2.09,
+          "end": 2.218
+        },
+        {
+          "word": "not",
+          "start": 2.264,
+          "end": 2.426
+        },
+        {
+          "word": "know",
+          "start": 2.473,
+          "end": 2.612
+        },
+        {
+          "word": "what",
+          "start": 2.659,
+          "end": 2.81
+        },
+        {
+          "word": "to",
+          "start": 2.856,
+          "end": 2.926
+        },
+        {
+          "word": "do.",
+          "start": 2.995,
+          "end": 3.344
+        }
+      ]
+    },
+    {
+      "text": "Then they saw someone coming. Someone was walking on the water!",
+      "image": "page-07.webp",
+      "bg": "#F1F8E9",
+      "accent": "#9CCC65",
+      "audio": "page-07.mp3",
+      "timestamps": [
+        {
+          "word": "Then",
+          "start": 0.0,
+          "end": 0.29
+        },
+        {
+          "word": "they",
+          "start": 0.36,
+          "end": 0.488
+        },
+        {
+          "word": "saw",
+          "start": 0.546,
+          "end": 0.731
+        },
+        {
+          "word": "someone",
+          "start": 0.801,
+          "end": 1.149
+        },
+        {
+          "word": "coming.",
+          "start": 1.207,
+          "end": 1.602
+        },
+        {
+          "word": "Someone",
+          "start": 1.649,
+          "end": 1.974
+        },
+        {
+          "word": "was",
+          "start": 2.009,
+          "end": 2.113
+        },
+        {
+          "word": "walking",
+          "start": 2.171,
+          "end": 2.531
+        },
+        {
+          "word": "on",
+          "start": 2.589,
+          "end": 2.659
+        },
+        {
+          "word": "the",
+          "start": 2.705,
+          "end": 2.775
+        },
+        {
+          "word": "water!",
+          "start": 2.833,
+          "end": 3.39
+        }
+      ]
+    },
+    {
+      "text": "It was Jesus! Jesus was walking on the water!",
+      "image": "page-08.webp",
+      "bg": "#EFF7FA",
+      "accent": "#29B6F6",
+      "audio": "page-08.mp3",
+      "timestamps": [
+        {
+          "word": "It",
+          "start": 0.0,
+          "end": 0.139
+        },
+        {
+          "word": "was",
+          "start": 0.174,
+          "end": 0.29
+        },
+        {
+          "word": "Jesus!",
+          "start": 0.406,
+          "end": 0.975
+        },
+        {
+          "word": "Jesus",
+          "start": 1.022,
+          "end": 1.37
+        },
+        {
+          "word": "was",
+          "start": 1.428,
+          "end": 1.544
+        },
+        {
+          "word": "walking",
+          "start": 1.614,
+          "end": 1.939
+        },
+        {
+          "word": "on",
+          "start": 1.997,
+          "end": 2.067
+        },
+        {
+          "word": "the",
+          "start": 2.113,
+          "end": 2.183
+        },
+        {
+          "word": "water!",
+          "start": 2.229,
+          "end": 2.601
+        }
+      ]
+    },
+    {
+      "text": "Do not be afraid, Jesus said. It is me.",
+      "image": "page-09.webp",
+      "bg": "#FFF9C4",
+      "accent": "#FBC02D",
+      "audio": "page-09.mp3",
+      "timestamps": [
+        {
+          "word": "Do",
+          "start": 0.0,
+          "end": 0.151
+        },
+        {
+          "word": "not",
+          "start": 0.232,
+          "end": 0.395
+        },
+        {
+          "word": "be",
+          "start": 0.453,
+          "end": 0.557
+        },
+        {
+          "word": "afraid,",
+          "start": 0.604,
+          "end": 1.045
+        },
+        {
+          "word": "Jesus",
+          "start": 1.091,
+          "end": 1.416
+        },
+        {
+          "word": "said.",
+          "start": 1.451,
+          "end": 1.707
+        },
+        {
+          "word": "It",
+          "start": 1.73,
+          "end": 1.811
+        },
+        {
+          "word": "is",
+          "start": 1.869,
+          "end": 1.962
+        },
+        {
+          "word": "me.",
+          "start": 2.043,
+          "end": 2.368
+        }
+      ]
+    },
+    {
+      "text": "The helpers felt safe. The storm stopped.",
+      "image": "page-10.webp",
+      "bg": "#FFEBEE",
+      "accent": "#E53935",
+      "audio": "page-10.mp3",
+      "timestamps": [
+        {
+          "word": "The",
+          "start": 0.0,
+          "end": 0.139
+        },
+        {
+          "word": "helpers",
+          "start": 0.197,
+          "end": 0.604
+        },
+        {
+          "word": "felt",
+          "start": 0.673,
+          "end": 0.929
+        },
+        {
+          "word": "safe.",
+          "start": 1.01,
+          "end": 1.428
+        },
+        {
+          "word": "The",
+          "start": 1.498,
+          "end": 1.625
+        },
+        {
+          "word": "storm",
+          "start": 1.683,
+          "end": 1.997
+        },
+        {
+          "word": "stopped.",
+          "start": 2.067,
+          "end": 2.461
+        }
+      ]
+    },
+    {
+      "text": "Jesus is with us. We do not have to be afraid.",
+      "image": "page-11.webp",
+      "bg": "#E8EAF6",
+      "accent": "#5C6BC0",
+      "audio": "page-11.mp3",
+      "timestamps": [
+        {
+          "word": "Jesus",
+          "start": 0.0,
+          "end": 0.569
+        },
+        {
+          "word": "is",
+          "start": 0.685,
+          "end": 0.894
+        },
+        {
+          "word": "with",
+          "start": 0.975,
+          "end": 1.184
+        },
+        {
+          "word": "us.",
+          "start": 1.242,
+          "end": 1.405
+        },
+        {
+          "word": "We",
+          "start": 1.44,
+          "end": 1.544
+        },
+        {
+          "word": "do",
+          "start": 1.602,
+          "end": 1.695
+        },
+        {
+          "word": "not",
+          "start": 1.765,
+          "end": 1.904
+        },
+        {
+          "word": "have",
+          "start": 1.95,
+          "end": 2.113
+        },
+        {
+          "word": "to",
+          "start": 2.148,
+          "end": 2.206
+        },
+        {
+          "word": "be",
+          "start": 2.264,
+          "end": 2.357
+        },
+        {
+          "word": "afraid.",
+          "start": 2.403,
+          "end": 2.879
+        }
+      ]
+    }
+  ]
+}

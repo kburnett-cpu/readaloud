@@ -1,0 +1,677 @@
+{
+  "schemaVersion": 1,
+  "id": "jesus-heals-blind-man",
+  "title": "Jesus Heals a Blind Man",
+  "author": "Hope Academy",
+  "narrator": "Kirk",
+  "cover": "cover.jpg",
+  "gradeLevel": "Grade2",
+  "readingLevel": "D",
+  "lexile": "510L",
+  "wordCount": 89,
+  "highlightMode": "word",
+  "celebrationStyle": "confetti",
+  "display": {
+    "fontSize": 28,
+    "fontFamily": "Andika",
+    "lineHeight": 1.75,
+    "wordSpacing": "0.15em",
+    "letterSpacing": "0.03em"
+  },
+  "pages": [
+    {
+      "text": "A blind man sat by the road. His name was Bartimaeus.",
+      "image": "page-01.webp",
+      "bg": "#E3F2FD",
+      "accent": "#42A5F5",
+      "audio": "page-01.mp3",
+      "timestamps": [
+        {
+          "word": "A",
+          "start": 0.0,
+          "end": 0.081
+        },
+        {
+          "word": "blind",
+          "start": 0.151,
+          "end": 0.476
+        },
+        {
+          "word": "man",
+          "start": 0.534,
+          "end": 0.813
+        },
+        {
+          "word": "sat",
+          "start": 0.906,
+          "end": 1.173
+        },
+        {
+          "word": "by",
+          "start": 1.231,
+          "end": 1.358
+        },
+        {
+          "word": "the",
+          "start": 1.416,
+          "end": 1.486
+        },
+        {
+          "word": "road.",
+          "start": 1.556,
+          "end": 1.939
+        },
+        {
+          "word": "His",
+          "start": 1.974,
+          "end": 2.09
+        },
+        {
+          "word": "name",
+          "start": 2.148,
+          "end": 2.357
+        },
+        {
+          "word": "was",
+          "start": 2.392,
+          "end": 2.508
+        },
+        {
+          "word": "Bartimaeus.",
+          "start": 2.566,
+          "end": 3.297
+        }
+      ]
+    },
+    {
+      "text": "He could not see. He could not see the sun. He could not see people.",
+      "image": "page-02.webp",
+      "bg": "#E8F5E9",
+      "accent": "#66BB6A",
+      "audio": "page-02.mp3",
+      "timestamps": [
+        {
+          "word": "He",
+          "start": 0.0,
+          "end": 0.128
+        },
+        {
+          "word": "could",
+          "start": 0.174,
+          "end": 0.348
+        },
+        {
+          "word": "not",
+          "start": 0.383,
+          "end": 0.534
+        },
+        {
+          "word": "see.",
+          "start": 0.604,
+          "end": 0.94
+        },
+        {
+          "word": "He",
+          "start": 0.987,
+          "end": 1.057
+        },
+        {
+          "word": "could",
+          "start": 1.103,
+          "end": 1.277
+        },
+        {
+          "word": "not",
+          "start": 1.312,
+          "end": 1.463
+        },
+        {
+          "word": "see",
+          "start": 1.521,
+          "end": 1.73
+        },
+        {
+          "word": "the",
+          "start": 1.788,
+          "end": 1.881
+        },
+        {
+          "word": "sun.",
+          "start": 1.939,
+          "end": 2.322
+        },
+        {
+          "word": "He",
+          "start": 2.368,
+          "end": 2.438
+        },
+        {
+          "word": "could",
+          "start": 2.496,
+          "end": 2.67
+        },
+        {
+          "word": "not",
+          "start": 2.705,
+          "end": 2.856
+        },
+        {
+          "word": "see",
+          "start": 2.914,
+          "end": 3.146
+        },
+        {
+          "word": "people.",
+          "start": 3.228,
+          "end": 3.715
+        }
+      ]
+    },
+    {
+      "text": "Bartimaeus heard someone coming. It was Jesus!",
+      "image": "page-03.webp",
+      "bg": "#FFF3E0",
+      "accent": "#FFA726",
+      "audio": "page-03.mp3",
+      "timestamps": [
+        {
+          "word": "Bartimaeus",
+          "start": 0.0,
+          "end": 0.615
+        },
+        {
+          "word": "heard",
+          "start": 0.697,
+          "end": 0.94
+        },
+        {
+          "word": "someone",
+          "start": 0.998,
+          "end": 1.358
+        },
+        {
+          "word": "coming.",
+          "start": 1.416,
+          "end": 1.869
+        },
+        {
+          "word": "It",
+          "start": 1.904,
+          "end": 2.032
+        },
+        {
+          "word": "was",
+          "start": 2.078,
+          "end": 2.218
+        },
+        {
+          "word": "Jesus!",
+          "start": 2.334,
+          "end": 3.065
+        }
+      ]
+    },
+    {
+      "text": "Jesus! Help me! Jesus! Help me! he cried out loud.",
+      "image": "page-04.webp",
+      "bg": "#FCE4EC",
+      "accent": "#EC407A",
+      "audio": "page-04.mp3",
+      "timestamps": [
+        {
+          "word": "Jesus!",
+          "start": 0.0,
+          "end": 0.476
+        },
+        {
+          "word": "Help",
+          "start": 0.511,
+          "end": 0.743
+        },
+        {
+          "word": "me!",
+          "start": 0.813,
+          "end": 0.987
+        },
+        {
+          "word": "Jesus!",
+          "start": 1.057,
+          "end": 1.556
+        },
+        {
+          "word": "Help",
+          "start": 1.591,
+          "end": 1.846
+        },
+        {
+          "word": "me!",
+          "start": 1.927,
+          "end": 2.113
+        },
+        {
+          "word": "he",
+          "start": 2.159,
+          "end": 2.241
+        },
+        {
+          "word": "cried",
+          "start": 2.31,
+          "end": 2.624
+        },
+        {
+          "word": "out",
+          "start": 2.67,
+          "end": 2.821
+        },
+        {
+          "word": "loud.",
+          "start": 2.891,
+          "end": 3.344
+        }
+      ]
+    },
+    {
+      "text": "People told him to be quiet. But Bartimaeus kept calling.",
+      "image": "page-05.webp",
+      "bg": "#F3E5F5",
+      "accent": "#AB47BC",
+      "audio": "page-05.mp3",
+      "timestamps": [
+        {
+          "word": "People",
+          "start": 0.0,
+          "end": 0.337
+        },
+        {
+          "word": "told",
+          "start": 0.383,
+          "end": 0.615
+        },
+        {
+          "word": "him",
+          "start": 0.662,
+          "end": 0.766
+        },
+        {
+          "word": "to",
+          "start": 0.824,
+          "end": 0.894
+        },
+        {
+          "word": "be",
+          "start": 0.952,
+          "end": 1.057
+        },
+        {
+          "word": "quiet.",
+          "start": 1.115,
+          "end": 1.695
+        },
+        {
+          "word": "But",
+          "start": 1.73,
+          "end": 1.881
+        },
+        {
+          "word": "Bartimaeus",
+          "start": 1.939,
+          "end": 2.473
+        },
+        {
+          "word": "kept",
+          "start": 2.543,
+          "end": 2.74
+        },
+        {
+          "word": "calling.",
+          "start": 2.798,
+          "end": 3.251
+        }
+      ]
+    },
+    {
+      "text": "Jesus stopped. He heard Bartimaeus. He said, Come here.",
+      "image": "page-06.webp",
+      "bg": "#E0F2F1",
+      "accent": "#26A69A",
+      "audio": "page-06.mp3",
+      "timestamps": [
+        {
+          "word": "Jesus",
+          "start": 0.0,
+          "end": 0.418
+        },
+        {
+          "word": "stopped.",
+          "start": 0.464,
+          "end": 0.952
+        },
+        {
+          "word": "He",
+          "start": 0.987,
+          "end": 1.091
+        },
+        {
+          "word": "heard",
+          "start": 1.161,
+          "end": 1.347
+        },
+        {
+          "word": "Bartimaeus.",
+          "start": 1.405,
+          "end": 2.113
+        },
+        {
+          "word": "He",
+          "start": 2.136,
+          "end": 2.194
+        },
+        {
+          "word": "said,",
+          "start": 2.252,
+          "end": 2.508
+        },
+        {
+          "word": "Come",
+          "start": 2.554,
+          "end": 2.74
+        },
+        {
+          "word": "here.",
+          "start": 2.775,
+          "end": 3.111
+        }
+      ]
+    },
+    {
+      "text": "What do you want? Jesus asked the blind man.",
+      "image": "page-07.webp",
+      "bg": "#F1F8E9",
+      "accent": "#9CCC65",
+      "audio": "page-07.mp3",
+      "timestamps": [
+        {
+          "word": "What",
+          "start": 0.0,
+          "end": 0.174
+        },
+        {
+          "word": "do",
+          "start": 0.197,
+          "end": 0.244
+        },
+        {
+          "word": "you",
+          "start": 0.279,
+          "end": 0.348
+        },
+        {
+          "word": "want?",
+          "start": 0.418,
+          "end": 0.72
+        },
+        {
+          "word": "Jesus",
+          "start": 0.801,
+          "end": 1.196
+        },
+        {
+          "word": "asked",
+          "start": 1.265,
+          "end": 1.556
+        },
+        {
+          "word": "the",
+          "start": 1.591,
+          "end": 1.66
+        },
+        {
+          "word": "blind",
+          "start": 1.695,
+          "end": 2.032
+        },
+        {
+          "word": "man.",
+          "start": 2.09,
+          "end": 2.368
+        }
+      ]
+    },
+    {
+      "text": "I want to see! said Bartimaeus. I want to see you!",
+      "image": "page-08.webp",
+      "bg": "#EFF7FA",
+      "accent": "#29B6F6",
+      "audio": "page-08.mp3",
+      "timestamps": [
+        {
+          "word": "I",
+          "start": 0.0,
+          "end": 0.093
+        },
+        {
+          "word": "want",
+          "start": 0.174,
+          "end": 0.348
+        },
+        {
+          "word": "to",
+          "start": 0.372,
+          "end": 0.43
+        },
+        {
+          "word": "see!",
+          "start": 0.499,
+          "end": 0.813
+        },
+        {
+          "word": "said",
+          "start": 0.848,
+          "end": 1.033
+        },
+        {
+          "word": "Bartimaeus.",
+          "start": 1.08,
+          "end": 1.695
+        },
+        {
+          "word": "I",
+          "start": 1.73,
+          "end": 1.753
+        },
+        {
+          "word": "want",
+          "start": 1.823,
+          "end": 1.985
+        },
+        {
+          "word": "to",
+          "start": 2.009,
+          "end": 2.055
+        },
+        {
+          "word": "see",
+          "start": 2.125,
+          "end": 2.31
+        },
+        {
+          "word": "you!",
+          "start": 2.357,
+          "end": 2.554
+        }
+      ]
+    },
+    {
+      "text": "Jesus said, You believe in me. So you can see!",
+      "image": "page-09.webp",
+      "bg": "#FFF9C4",
+      "accent": "#FBC02D",
+      "audio": "page-09.mp3",
+      "timestamps": [
+        {
+          "word": "Jesus",
+          "start": 0.0,
+          "end": 0.395
+        },
+        {
+          "word": "said,",
+          "start": 0.43,
+          "end": 0.708
+        },
+        {
+          "word": "You",
+          "start": 0.743,
+          "end": 0.882
+        },
+        {
+          "word": "believe",
+          "start": 0.964,
+          "end": 1.3
+        },
+        {
+          "word": "in",
+          "start": 1.335,
+          "end": 1.405
+        },
+        {
+          "word": "me.",
+          "start": 1.474,
+          "end": 1.753
+        },
+        {
+          "word": "So",
+          "start": 1.869,
+          "end": 2.02
+        },
+        {
+          "word": "you",
+          "start": 2.09,
+          "end": 2.171
+        },
+        {
+          "word": "can",
+          "start": 2.218,
+          "end": 2.345
+        },
+        {
+          "word": "see!",
+          "start": 2.415,
+          "end": 2.833
+        }
+      ]
+    },
+    {
+      "text": "Right away, Bartimaeus could see! He could see Jesus!",
+      "image": "page-10.webp",
+      "bg": "#FFEBEE",
+      "accent": "#E53935",
+      "audio": "page-10.mp3",
+      "timestamps": [
+        {
+          "word": "Right",
+          "start": 0.0,
+          "end": 0.29
+        },
+        {
+          "word": "away,",
+          "start": 0.325,
+          "end": 0.708
+        },
+        {
+          "word": "Bartimaeus",
+          "start": 0.755,
+          "end": 1.347
+        },
+        {
+          "word": "could",
+          "start": 1.405,
+          "end": 1.579
+        },
+        {
+          "word": "see!",
+          "start": 1.637,
+          "end": 1.95
+        },
+        {
+          "word": "He",
+          "start": 2.009,
+          "end": 2.125
+        },
+        {
+          "word": "could",
+          "start": 2.183,
+          "end": 2.357
+        },
+        {
+          "word": "see",
+          "start": 2.403,
+          "end": 2.601
+        },
+        {
+          "word": "Jesus!",
+          "start": 2.67,
+          "end": 3.297
+        }
+      ]
+    },
+    {
+      "text": "Bartimaeus was so happy! Jesus healed him because he believed.",
+      "image": "page-11.webp",
+      "bg": "#E8EAF6",
+      "accent": "#5C6BC0",
+      "audio": "page-11.mp3",
+      "timestamps": [
+        {
+          "word": "Bartimaeus",
+          "start": 0.0,
+          "end": 0.731
+        },
+        {
+          "word": "was",
+          "start": 0.801,
+          "end": 0.94
+        },
+        {
+          "word": "so",
+          "start": 1.01,
+          "end": 1.231
+        },
+        {
+          "word": "happy!",
+          "start": 1.324,
+          "end": 1.776
+        },
+        {
+          "word": "Jesus",
+          "start": 1.834,
+          "end": 2.241
+        },
+        {
+          "word": "healed",
+          "start": 2.31,
+          "end": 2.647
+        },
+        {
+          "word": "him",
+          "start": 2.682,
+          "end": 2.775
+        },
+        {
+          "word": "because",
+          "start": 2.821,
+          "end": 3.1
+        },
+        {
+          "word": "he",
+          "start": 3.135,
+          "end": 3.193
+        },
+        {
+          "word": "believed.",
+          "start": 3.262,
+          "end": 3.901
+        }
+      ]
+    }
+  ]
+}
