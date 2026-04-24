@@ -4,7 +4,8 @@ import BookReader from "./components/BookReader.jsx";
 import Celebration from "./components/Celebration.jsx";
 
 const COMPLETED_KEY = "readaloud_completed";
-const LANG_KEY = "readaloud_lang";
+const LANG_KEY      = "readaloud_lang";
+const PROGRESS_KEY  = "readaloud_progress";  // { [storyId]: pageIndex }
 
 function readLS(key, fallback) {
   try {
@@ -29,6 +30,9 @@ export default function App() {
   const [completedStories, setCompletedStories] = useState(() =>
     readLS(COMPLETED_KEY, [])
   );
+  const [readingProgress, setReadingProgress] = useState(() =>
+    readLS(PROGRESS_KEY, {})
+  );
   const [view, setView] = useState("library"); // "library" | "reader" | "celebration"
   const [selectedStoryId, setSelectedStoryId] = useState(null);
   // Holds { storyId, title, accentColor, celebrationStyle } while on celebration screen
@@ -44,6 +48,14 @@ export default function App() {
     setView("reader");
   }
 
+  function handlePageChange(storyId, pageIndex) {
+    setReadingProgress((prev) => {
+      const next = { ...prev, [storyId]: pageIndex };
+      writeLS(PROGRESS_KEY, next);
+      return next;
+    });
+  }
+
   function handleToggleLang() {
     setLang((l) => (l === "en" ? "es" : "en"));
   }
@@ -51,11 +63,18 @@ export default function App() {
   // Called by BookReader when the user passes the last page.
   // info = { title, accentColor, celebrationStyle } from story.json
   function handleBookComplete(storyId, info = {}) {
-    // Save completion to localStorage immediately when the screen appears
+    // Save completion and clear reading progress for this story
     setCompletedStories((prev) => {
       if (prev.includes(storyId)) return prev;
       const next = [...prev, storyId];
       writeLS(COMPLETED_KEY, next);
+      return next;
+    });
+    setReadingProgress((prev) => {
+      if (!prev[storyId]) return prev;
+      const next = { ...prev };
+      delete next[storyId];
+      writeLS(PROGRESS_KEY, next);
       return next;
     });
     setCelebrationData({ storyId, ...info });
@@ -86,9 +105,11 @@ export default function App() {
     return (
       <BookReader
         storyId={selectedStoryId}
+        initialPage={readingProgress[selectedStoryId] ?? 0}
         lang={lang}
         onToggleLang={handleToggleLang}
         onBookComplete={handleBookComplete}
+        onPageChange={handlePageChange}
         onBack={() => setView("library")}
       />
     );
@@ -98,6 +119,7 @@ export default function App() {
     <Library
       onSelectStory={handleSelectStory}
       completedStories={completedStories}
+      readingProgress={readingProgress}
       lang={lang}
       onToggleLang={handleToggleLang}
     />

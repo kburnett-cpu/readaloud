@@ -33,16 +33,19 @@ function getCharOffsets(text) {
 
 export default function BookReader({
   storyId,
+  initialPage = 0,
   lang,
   onToggleLang,
   onBookComplete,
+  onPageChange,
   onBack,
 }) {
   // ── State ──────────────────────────────────────────────────────────────────
   const [story,         setStory]         = useState(null);
   const [loading,       setLoading]       = useState(true);
   const [error,         setError]         = useState(false);
-  const [pageIndex,     setPageIndex]     = useState(0);
+  const [fetchKey,      setFetchKey]      = useState(0);  // increment to retry
+  const [pageIndex,     setPageIndex]     = useState(initialPage);
   const [hasInteracted, setHasInteracted] = useState(false);
   const [guided,        setGuided]        = useState(false);
   const [loop,          setLoop]          = useState(false);
@@ -71,6 +74,8 @@ export default function BookReader({
   const imgCacheRef        = useRef(new Set());
   const navigateRef        = useRef(null);
   const handleEndedRef     = useRef(null);
+  const onPageChangeRef    = useRef(onPageChange);
+  onPageChangeRef.current  = onPageChange;
 
   // Keep plain refs in sync every render
   pageIndexRef.current     = pageIndex;
@@ -99,7 +104,7 @@ export default function BookReader({
   useEffect(() => {
     setLoading(true);
     setError(false);
-    setPageIndex(0);
+    setPageIndex(initialPage ?? 0);
     setHasInteracted(false);
     transitionLockRef.current = false;
 
@@ -107,7 +112,7 @@ export default function BookReader({
       .then((r) => { if (!r.ok) throw new Error(); return r.json(); })
       .then((data) => { setStory(data); setLoading(false); })
       .catch(() => { setError(true); setLoading(false); });
-  }, [storyId]);
+  }, [storyId, fetchKey]); // fetchKey increments on retry
 
   // ── Audio element setup ─────────────────────────────────────────────────────
   // Must be defined BEFORE useAudioSync so its effect runs first (React runs
@@ -237,9 +242,11 @@ export default function BookReader({
       setAnimLeaving(true);
 
       setTimeout(() => {
-        setPageIndex(pendingPageRef.current);
+        const nextPage = pendingPageRef.current;
+        setPageIndex(nextPage);
         setAnimLeaving(false);
         transitionLockRef.current = false;
+        onPageChangeRef.current?.(storyId, nextPage);
       }, 250);
     },
     [storyId, onBookComplete]
@@ -475,6 +482,9 @@ export default function BookReader({
       ) : (error || !story || !page) ? (
         <div style={styles.errorWrap}>
           <p style={styles.errorText}>Could not load story.</p>
+          <button style={styles.retryBtn} onClick={() => setFetchKey((k) => k + 1)}>
+            Try Again
+          </button>
           <button style={styles.backBtn} onClick={onBack}>← Library</button>
         </div>
       ) : (
@@ -791,6 +801,7 @@ const styles = {
   // Error / loading
   errorWrap:  { minHeight: "100dvh", display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", gap: 16, fontFamily: "'Nunito', system-ui, sans-serif" },
   errorText:  { color: "#7F8C8D", fontSize: 15, fontWeight: 600 },
+  retryBtn:   { background: "#2E86C1", color: "white", border: "none", borderRadius: 20, padding: "10px 24px", fontSize: 14, fontWeight: 700, cursor: "pointer", fontFamily: "'Nunito', system-ui, sans-serif" },
   backBtn:    { background: "#1B4F72", color: "white", border: "none", borderRadius: 20, padding: "10px 24px", fontSize: 14, fontWeight: 700, cursor: "pointer", fontFamily: "'Nunito', system-ui, sans-serif" },
   spinnerWrap:{ minHeight: "100dvh", display: "flex", alignItems: "center", justifyContent: "center" },
   spinnerDot: { width: 12, height: 12, borderRadius: "50%", background: "#2E86C1", animation: "spinnerPulse 1s ease-in-out infinite" },
