@@ -1,0 +1,1005 @@
+{
+  "schemaVersion": 1,
+  "id": "the-broken-kite",
+  "title": "The Broken Kite",
+  "author": "Hope Academy",
+  "narrator": "Kirk",
+  "cover": "cover.jpg",
+  "gradeLevel": "1st",
+  "readingLevel": "B",
+  "lexile": "BR120L",
+  "wordCount": 173,
+  "highlightMode": "word",
+  "celebrationStyle": "confetti",
+  "display": {
+    "fontSize": 28,
+    "fontFamily": "Andika",
+    "lineHeight": 1.75,
+    "wordSpacing": "0.15em",
+    "letterSpacing": "0.03em"
+  },
+  "pages": [
+    {
+      "text": "Mateo ran outside with his bright red kite on a very windy day.",
+      "image": "page-01.webp",
+      "bg": "#FFF9C4",
+      "accent": "#F9A825",
+      "audio": "page-01.mp3",
+      "timestamps": [
+        {
+          "word": "Mateo",
+          "start": 0.058,
+          "end": 0.673
+        },
+        {
+          "word": "ran",
+          "start": 0.824,
+          "end": 1.091
+        },
+        {
+          "word": "outside",
+          "start": 1.149,
+          "end": 1.741
+        },
+        {
+          "word": "with",
+          "start": 1.776,
+          "end": 1.927
+        },
+        {
+          "word": "his",
+          "start": 1.974,
+          "end": 2.09
+        },
+        {
+          "word": "bright",
+          "start": 2.241,
+          "end": 2.635
+        },
+        {
+          "word": "red",
+          "start": 2.786,
+          "end": 3.03
+        },
+        {
+          "word": "kite",
+          "start": 3.146,
+          "end": 3.553
+        },
+        {
+          "word": "on",
+          "start": 3.599,
+          "end": 3.738
+        },
+        {
+          "word": "a",
+          "start": 3.785,
+          "end": 3.82
+        },
+        {
+          "word": "very",
+          "start": 3.971,
+          "end": 4.4
+        },
+        {
+          "word": "windy",
+          "start": 4.493,
+          "end": 4.841
+        },
+        {
+          "word": "day.",
+          "start": 4.923,
+          "end": 5.341
+        }
+      ]
+    },
+    {
+      "text": "The wind pulled the kite high up into the big blue sky.",
+      "image": "page-02.webp",
+      "bg": "#E3F2FD",
+      "accent": "#1E88E5",
+      "audio": "page-02.mp3",
+      "timestamps": [
+        {
+          "word": "The",
+          "start": 0.058,
+          "end": 0.163
+        },
+        {
+          "word": "wind",
+          "start": 0.244,
+          "end": 0.685
+        },
+        {
+          "word": "pulled",
+          "start": 0.813,
+          "end": 1.161
+        },
+        {
+          "word": "the",
+          "start": 1.196,
+          "end": 1.265
+        },
+        {
+          "word": "kite",
+          "start": 1.324,
+          "end": 1.753
+        },
+        {
+          "word": "high",
+          "start": 1.869,
+          "end": 2.206
+        },
+        {
+          "word": "up",
+          "start": 2.276,
+          "end": 2.473
+        },
+        {
+          "word": "into",
+          "start": 2.566,
+          "end": 2.763
+        },
+        {
+          "word": "the",
+          "start": 2.833,
+          "end": 2.902
+        },
+        {
+          "word": "big",
+          "start": 2.961,
+          "end": 3.146
+        },
+        {
+          "word": "blue",
+          "start": 3.216,
+          "end": 3.471
+        },
+        {
+          "word": "sky.",
+          "start": 3.506,
+          "end": 3.878
+        }
+      ]
+    },
+    {
+      "text": "Mateo laughed and ran faster and faster down the sandy road.",
+      "image": "page-03.webp",
+      "bg": "#FFF3E0",
+      "accent": "#FB8C00",
+      "audio": "page-03.mp3",
+      "timestamps": [
+        {
+          "word": "Mateo",
+          "start": 0.058,
+          "end": 0.488
+        },
+        {
+          "word": "laughed",
+          "start": 0.662,
+          "end": 1.219
+        },
+        {
+          "word": "and",
+          "start": 1.254,
+          "end": 1.347
+        },
+        {
+          "word": "ran",
+          "start": 1.405,
+          "end": 1.579
+        },
+        {
+          "word": "faster",
+          "start": 1.672,
+          "end": 2.171
+        },
+        {
+          "word": "and",
+          "start": 2.218,
+          "end": 2.299
+        },
+        {
+          "word": "faster",
+          "start": 2.357,
+          "end": 2.74
+        },
+        {
+          "word": "down",
+          "start": 2.798,
+          "end": 2.961
+        },
+        {
+          "word": "the",
+          "start": 2.995,
+          "end": 3.065
+        },
+        {
+          "word": "sandy",
+          "start": 3.1,
+          "end": 3.402
+        },
+        {
+          "word": "road.",
+          "start": 3.483,
+          "end": 3.82
+        }
+      ]
+    },
+    {
+      "text": "Then a strong gust of wind blew the kite right into a tall mango tree.",
+      "image": "page-04.webp",
+      "bg": "#E8F5E9",
+      "accent": "#388E3C",
+      "audio": "page-04.mp3",
+      "timestamps": [
+        {
+          "word": "Then",
+          "start": 0.058,
+          "end": 0.395
+        },
+        {
+          "word": "a",
+          "start": 0.522,
+          "end": 0.604
+        },
+        {
+          "word": "strong",
+          "start": 0.72,
+          "end": 1.254
+        },
+        {
+          "word": "gust",
+          "start": 1.428,
+          "end": 1.892
+        },
+        {
+          "word": "of",
+          "start": 2.009,
+          "end": 2.159
+        },
+        {
+          "word": "wind",
+          "start": 2.276,
+          "end": 2.67
+        },
+        {
+          "word": "blew",
+          "start": 2.821,
+          "end": 3.239
+        },
+        {
+          "word": "the",
+          "start": 3.332,
+          "end": 3.413
+        },
+        {
+          "word": "kite",
+          "start": 3.471,
+          "end": 3.878
+        },
+        {
+          "word": "right",
+          "start": 4.052,
+          "end": 4.4
+        },
+        {
+          "word": "into",
+          "start": 4.551,
+          "end": 5.016
+        },
+        {
+          "word": "a",
+          "start": 5.132,
+          "end": 5.201
+        },
+        {
+          "word": "tall",
+          "start": 5.294,
+          "end": 5.712
+        },
+        {
+          "word": "mango",
+          "start": 5.921,
+          "end": 6.432
+        },
+        {
+          "word": "tree.",
+          "start": 6.548,
+          "end": 6.885
+        }
+      ]
+    },
+    {
+      "text": "The kite was stuck up in the branches, and Mateo felt very sad.",
+      "image": "page-05.webp",
+      "bg": "#FCE4EC",
+      "accent": "#E53935",
+      "audio": "page-05.mp3",
+      "timestamps": [
+        {
+          "word": "The",
+          "start": 0.058,
+          "end": 0.163
+        },
+        {
+          "word": "kite",
+          "start": 0.244,
+          "end": 0.615
+        },
+        {
+          "word": "was",
+          "start": 0.673,
+          "end": 0.813
+        },
+        {
+          "word": "stuck",
+          "start": 0.871,
+          "end": 1.138
+        },
+        {
+          "word": "up",
+          "start": 1.196,
+          "end": 1.289
+        },
+        {
+          "word": "in",
+          "start": 1.347,
+          "end": 1.405
+        },
+        {
+          "word": "the",
+          "start": 1.44,
+          "end": 1.509
+        },
+        {
+          "word": "branches,",
+          "start": 1.567,
+          "end": 2.206
+        },
+        {
+          "word": "and",
+          "start": 2.229,
+          "end": 2.322
+        },
+        {
+          "word": "Mateo",
+          "start": 2.38,
+          "end": 2.961
+        },
+        {
+          "word": "felt",
+          "start": 3.077,
+          "end": 3.39
+        },
+        {
+          "word": "very",
+          "start": 3.541,
+          "end": 4.005
+        },
+        {
+          "word": "sad.",
+          "start": 4.18,
+          "end": 4.76
+        }
+      ]
+    },
+    {
+      "text": "He jumped up as high as he could, but his hands could not reach it.",
+      "image": "page-06.webp",
+      "bg": "#F3E5F5",
+      "accent": "#8E24AA",
+      "audio": "page-06.mp3",
+      "timestamps": [
+        {
+          "word": "He",
+          "start": 0.058,
+          "end": 0.151
+        },
+        {
+          "word": "jumped",
+          "start": 0.267,
+          "end": 0.615
+        },
+        {
+          "word": "up",
+          "start": 0.673,
+          "end": 0.801
+        },
+        {
+          "word": "as",
+          "start": 0.871,
+          "end": 0.964
+        },
+        {
+          "word": "high",
+          "start": 1.08,
+          "end": 1.428
+        },
+        {
+          "word": "as",
+          "start": 1.486,
+          "end": 1.567
+        },
+        {
+          "word": "he",
+          "start": 1.625,
+          "end": 1.695
+        },
+        {
+          "word": "could,",
+          "start": 1.776,
+          "end": 2.206
+        },
+        {
+          "word": "but",
+          "start": 2.252,
+          "end": 2.403
+        },
+        {
+          "word": "his",
+          "start": 2.438,
+          "end": 2.543
+        },
+        {
+          "word": "hands",
+          "start": 2.624,
+          "end": 3.03
+        },
+        {
+          "word": "could",
+          "start": 3.1,
+          "end": 3.286
+        },
+        {
+          "word": "not",
+          "start": 3.332,
+          "end": 3.518
+        },
+        {
+          "word": "reach",
+          "start": 3.634,
+          "end": 3.947
+        },
+        {
+          "word": "it.",
+          "start": 4.017,
+          "end": 4.11
+        }
+      ]
+    },
+    {
+      "text": "He threw a stick at the branches, but the kite did not move at all.",
+      "image": "page-07.webp",
+      "bg": "#FFF9C4",
+      "accent": "#F9A825",
+      "audio": "page-07.mp3",
+      "timestamps": [
+        {
+          "word": "He",
+          "start": 0.058,
+          "end": 0.151
+        },
+        {
+          "word": "threw",
+          "start": 0.221,
+          "end": 0.488
+        },
+        {
+          "word": "a",
+          "start": 0.546,
+          "end": 0.58
+        },
+        {
+          "word": "stick",
+          "start": 0.697,
+          "end": 1.149
+        },
+        {
+          "word": "at",
+          "start": 1.219,
+          "end": 1.312
+        },
+        {
+          "word": "the",
+          "start": 1.358,
+          "end": 1.428
+        },
+        {
+          "word": "branches,",
+          "start": 1.486,
+          "end": 2.113
+        },
+        {
+          "word": "but",
+          "start": 2.159,
+          "end": 2.322
+        },
+        {
+          "word": "the",
+          "start": 2.357,
+          "end": 2.426
+        },
+        {
+          "word": "kite",
+          "start": 2.519,
+          "end": 2.914
+        },
+        {
+          "word": "did",
+          "start": 2.961,
+          "end": 3.123
+        },
+        {
+          "word": "not",
+          "start": 3.193,
+          "end": 3.425
+        },
+        {
+          "word": "move",
+          "start": 3.518,
+          "end": 3.901
+        },
+        {
+          "word": "at",
+          "start": 3.947,
+          "end": 4.029
+        },
+        {
+          "word": "all.",
+          "start": 4.087,
+          "end": 4.458
+        }
+      ]
+    },
+    {
+      "text": "He pushed on the tree trunk and shook it hard, but nothing worked.",
+      "image": "page-08.webp",
+      "bg": "#FBE9E7",
+      "accent": "#E64A19",
+      "audio": "page-08.mp3",
+      "timestamps": [
+        {
+          "word": "He",
+          "start": 0.058,
+          "end": 0.128
+        },
+        {
+          "word": "pushed",
+          "start": 0.174,
+          "end": 0.406
+        },
+        {
+          "word": "on",
+          "start": 0.453,
+          "end": 0.522
+        },
+        {
+          "word": "the",
+          "start": 0.569,
+          "end": 0.639
+        },
+        {
+          "word": "tree",
+          "start": 0.673,
+          "end": 0.848
+        },
+        {
+          "word": "trunk",
+          "start": 0.882,
+          "end": 1.115
+        },
+        {
+          "word": "and",
+          "start": 1.161,
+          "end": 1.242
+        },
+        {
+          "word": "shook",
+          "start": 1.277,
+          "end": 1.498
+        },
+        {
+          "word": "it",
+          "start": 1.544,
+          "end": 1.614
+        },
+        {
+          "word": "hard,",
+          "start": 1.683,
+          "end": 1.997
+        },
+        {
+          "word": "but",
+          "start": 2.032,
+          "end": 2.148
+        },
+        {
+          "word": "nothing",
+          "start": 2.194,
+          "end": 2.485
+        },
+        {
+          "word": "worked.",
+          "start": 2.577,
+          "end": 3.03
+        }
+      ]
+    },
+    {
+      "text": "His neighbor Sofia walked over and said, 'Mateo, can I help you?'",
+      "image": "page-09.webp",
+      "bg": "#E8F5E9",
+      "accent": "#43A047",
+      "audio": "page-09.mp3",
+      "timestamps": [
+        {
+          "word": "His",
+          "start": 0.07,
+          "end": 0.186
+        },
+        {
+          "word": "neighbor",
+          "start": 0.255,
+          "end": 0.557
+        },
+        {
+          "word": "Sofia",
+          "start": 0.65,
+          "end": 1.312
+        },
+        {
+          "word": "walked",
+          "start": 1.428,
+          "end": 1.765
+        },
+        {
+          "word": "over",
+          "start": 1.823,
+          "end": 2.125
+        },
+        {
+          "word": "and",
+          "start": 2.206,
+          "end": 2.322
+        },
+        {
+          "word": "said,",
+          "start": 2.392,
+          "end": 2.717
+        },
+        {
+          "word": "'Mateo,",
+          "start": 2.74,
+          "end": 3.471
+        },
+        {
+          "word": "can",
+          "start": 3.518,
+          "end": 3.669
+        },
+        {
+          "word": "I",
+          "start": 3.727,
+          "end": 3.762
+        },
+        {
+          "word": "help",
+          "start": 3.831,
+          "end": 4.04
+        },
+        {
+          "word": "you?'",
+          "start": 4.11,
+          "end": 7.117
+        }
+      ]
+    },
+    {
+      "text": "Mateo felt shy, but he took a deep breath and said, 'Yes, please!'",
+      "image": "page-10.webp",
+      "bg": "#E3F2FD",
+      "accent": "#1E88E5",
+      "audio": "page-10.mp3",
+      "timestamps": [
+        {
+          "word": "Mateo",
+          "start": 0.058,
+          "end": 0.627
+        },
+        {
+          "word": "felt",
+          "start": 0.778,
+          "end": 1.138
+        },
+        {
+          "word": "shy,",
+          "start": 1.231,
+          "end": 1.776
+        },
+        {
+          "word": "but",
+          "start": 1.823,
+          "end": 1.962
+        },
+        {
+          "word": "he",
+          "start": 1.997,
+          "end": 2.043
+        },
+        {
+          "word": "took",
+          "start": 2.09,
+          "end": 2.31
+        },
+        {
+          "word": "a",
+          "start": 2.357,
+          "end": 2.392
+        },
+        {
+          "word": "deep",
+          "start": 2.485,
+          "end": 2.74
+        },
+        {
+          "word": "breath",
+          "start": 2.856,
+          "end": 3.332
+        },
+        {
+          "word": "and",
+          "start": 3.402,
+          "end": 3.553
+        },
+        {
+          "word": "said,",
+          "start": 3.634,
+          "end": 3.994
+        },
+        {
+          "word": "'Yes,",
+          "start": 4.017,
+          "end": 4.389
+        },
+        {
+          "word": "please!'",
+          "start": 4.447,
+          "end": 5.039
+        }
+      ]
+    },
+    {
+      "text": "Sofia held a long stick up high while Mateo climbed onto a big rock.",
+      "image": "page-11.webp",
+      "bg": "#FFF3E0",
+      "accent": "#FB8C00",
+      "audio": "page-11.mp3",
+      "timestamps": [
+        {
+          "word": "Sofia",
+          "start": 0.046,
+          "end": 0.58
+        },
+        {
+          "word": "held",
+          "start": 0.697,
+          "end": 1.115
+        },
+        {
+          "word": "a",
+          "start": 1.231,
+          "end": 1.347
+        },
+        {
+          "word": "long",
+          "start": 1.498,
+          "end": 1.904
+        },
+        {
+          "word": "stick",
+          "start": 2.055,
+          "end": 2.508
+        },
+        {
+          "word": "up",
+          "start": 2.659,
+          "end": 2.868
+        },
+        {
+          "word": "high",
+          "start": 2.949,
+          "end": 3.32
+        },
+        {
+          "word": "while",
+          "start": 3.379,
+          "end": 3.646
+        },
+        {
+          "word": "Mateo",
+          "start": 3.68,
+          "end": 4.191
+        },
+        {
+          "word": "climbed",
+          "start": 4.307,
+          "end": 4.865
+        },
+        {
+          "word": "onto",
+          "start": 4.934,
+          "end": 5.224
+        },
+        {
+          "word": "a",
+          "start": 5.317,
+          "end": 5.352
+        },
+        {
+          "word": "big",
+          "start": 5.445,
+          "end": 5.654
+        },
+        {
+          "word": "rock.",
+          "start": 5.747,
+          "end": 6.095
+        }
+      ]
+    },
+    {
+      "text": "Together they nudged the kite free, and it floated gently down to them.",
+      "image": "page-12.webp",
+      "bg": "#FFF9C4",
+      "accent": "#F9A825",
+      "audio": "page-12.mp3",
+      "timestamps": [
+        {
+          "word": "Together",
+          "start": 0.046,
+          "end": 0.546
+        },
+        {
+          "word": "they",
+          "start": 0.615,
+          "end": 0.778
+        },
+        {
+          "word": "nudged",
+          "start": 0.894,
+          "end": 1.3
+        },
+        {
+          "word": "the",
+          "start": 1.347,
+          "end": 1.428
+        },
+        {
+          "word": "kite",
+          "start": 1.498,
+          "end": 1.823
+        },
+        {
+          "word": "free,",
+          "start": 1.904,
+          "end": 2.438
+        },
+        {
+          "word": "and",
+          "start": 2.496,
+          "end": 2.635
+        },
+        {
+          "word": "it",
+          "start": 2.694,
+          "end": 2.775
+        },
+        {
+          "word": "floated",
+          "start": 2.868,
+          "end": 3.32
+        },
+        {
+          "word": "gently",
+          "start": 3.413,
+          "end": 3.831
+        },
+        {
+          "word": "down",
+          "start": 3.913,
+          "end": 4.214
+        },
+        {
+          "word": "to",
+          "start": 4.272,
+          "end": 4.365
+        },
+        {
+          "word": "them.",
+          "start": 4.447,
+          "end": 4.783
+        }
+      ]
+    },
+    {
+      "text": "Mateo and Sofia smiled at each other and flew the kite together all afternoon.",
+      "image": "page-13.webp",
+      "bg": "#E8F5E9",
+      "accent": "#388E3C",
+      "audio": "page-13.mp3",
+      "timestamps": [
+        {
+          "word": "Mateo",
+          "start": 0.058,
+          "end": 0.627
+        },
+        {
+          "word": "and",
+          "start": 0.72,
+          "end": 0.836
+        },
+        {
+          "word": "Sofia",
+          "start": 0.917,
+          "end": 1.521
+        },
+        {
+          "word": "smiled",
+          "start": 1.695,
+          "end": 2.368
+        },
+        {
+          "word": "at",
+          "start": 2.426,
+          "end": 2.508
+        },
+        {
+          "word": "each",
+          "start": 2.554,
+          "end": 2.728
+        },
+        {
+          "word": "other",
+          "start": 2.786,
+          "end": 3.019
+        },
+        {
+          "word": "and",
+          "start": 3.088,
+          "end": 3.228
+        },
+        {
+          "word": "flew",
+          "start": 3.379,
+          "end": 3.785
+        },
+        {
+          "word": "the",
+          "start": 3.866,
+          "end": 3.947
+        },
+        {
+          "word": "kite",
+          "start": 4.029,
+          "end": 4.389
+        },
+        {
+          "word": "together",
+          "start": 4.435,
+          "end": 5.004
+        },
+        {
+          "word": "all",
+          "start": 5.155,
+          "end": 5.503
+        },
+        {
+          "word": "afternoon.",
+          "start": 5.584,
+          "end": 6.142
+        }
+      ]
+    }
+  ]
+}

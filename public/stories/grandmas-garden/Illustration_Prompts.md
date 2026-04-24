@@ -1,0 +1,67 @@
+# Illustration Prompt Guide: Grandma's Garden
+
+## Master Style
+
+MASTER STYLE: Vibrant, warm children's book illustration in soft digital painting style. Clean outlines with rich saturated colors. Main character Mia is a cheerful Dominican girl, approximately 6 years old, with warm brown skin, two puff ponytails tied with bright red ribbons, wearing a yellow floral sundress and small white sandals. Abuela is a warm, round-faced Dominican grandmother in her 60s with silver-streaked black hair in a bun, warm brown skin, wearing a floral apron over a light blue house dress and rubber sandals. Setting is a vibrant Caribbean neighborhood in the Dominican Republic with lush tropical greenery, bougainvillea, colorful painted homes, and golden sunlight. Illustrations feel joyful, soft, and nurturing with rich greens, warm yellows, and deep earth tones throughout. 16:9 landscape format.
+
+## Page Prompts
+
+### Page 1 — `page-01.webp`
+> Every Saturday morning, Mia walks to Abuela's bright yellow house down the road.
+
+A sun-drenched Caribbean street scene on a bright Saturday morning. Mia, a cheerful 6-year-old Dominican girl with warm brown skin and two puff ponytails tied with red ribbons, wearing a yellow floral sundress and white sandals, walks happily down a dirt road lined with tropical flowers and palm trees. In the distance, a bright yellow house with turquoise shutters and a red tin roof glows warmly in the morning sun, surrounded by lush bougainvillea in fuchsia and orange. Mia's expression is full of excited anticipation, her small arms swinging as she walks toward the house. Warm golden morning light filters through the palm fronds casting dappled shadows on the path. Children's book illustration, 16:9 landscape.
+
+### Page 2 — `page-02.webp`
+> Abuela is waiting on the porch with two pairs of muddy garden gloves and a big smile.
+
+Abuela, a warm round-faced Dominican grandmother in her 60s with silver-streaked black hair in a bun, wearing a floral apron over a light blue house dress and rubber sandals, stands on a colorful tiled porch of the bright yellow house with turquoise shutters. She holds up two pairs of worn muddy garden gloves with a wide beaming smile, her brown eyes crinkled with joy. Mia approaches the porch steps, her face lighting up with delight at the sight of her grandmother. Potted tropical plants and a hanging fern decorate the cozy porch. The morning sun bathes the scene in a warm golden glow. Children's book illustration, 16:9 landscape.
+
+### Page 3 — `page-03.webp`
+> Together they carry little paper cups, a bag of soil, and tiny seeds to the sunny backyard.
+
+Mia and Abuela walk together through the bright yellow house's backyard gate into a sunny tropical garden space, carrying supplies for planting. Mia holds a small tray of little paper cups with both hands, concentrating carefully, her puff ponytails bouncing. Abuela carries a large bag of dark soil over one shoulder and holds a small paper envelope of seeds in her other hand. The backyard is lush with tropical greenery, a wooden garden bed, banana trees along the fence, and bright hibiscus flowers. Warm sunlight floods the entire scene with a cheerful, purposeful mood. Children's book illustration, 16:9 landscape.
+
+### Page 4 — `page-04.webp`
+> Mia presses one small seed into the soft dark soil with her little brown finger.
+
+A beautifully detailed close-up scene of Mia kneeling at a low wooden table in the sunny backyard, leaning over a small paper cup filled with dark rich soil. Her little brown finger is gently pressing one tiny seed down into the center of the soft dark earth, her expression one of intense, focused tenderness. The paper cup sits among several others on the table, with the seed envelope and small garden trowel nearby. Warm afternoon sunlight highlights the texture of the dark soil and the smallness of the seed against her finger. The mood is quiet, intimate, and full of wonder. Children's book illustration, 16:9 landscape.
+
+### Page 5 — `page-05.webp`
+> Abuela shows her how to pat the soil down gently, just like tucking a baby in for sleep.
+
+Abuela kneels beside Mia at the wooden garden table in the sunny backyard, her warm brown hands gently guiding Mia's small hands to pat the top of the soil in the paper cup. Abuela's face is soft and loving as she demonstrates the gentle patting motion, her silver-streaked bun catching the sunlight. Mia watches Abuela's hands with wide, attentive eyes, mimicking the careful gentle movement. Small paper cups filled with soil are lined up neatly in a row between them. The mood is tender and instructive, like a quiet shared secret between generations. Children's book illustration, 16:9 landscape.
+
+### Page 6 — `page-06.webp`
+> Every morning Mia waters the cups slowly so the tiny seeds have enough to drink.
+
+An early morning scene in Abuela's lush tropical backyard, where Mia stands in her yellow floral sundress carefully tipping a small yellow watering can over the neat row of paper cups lined up on the wooden table. Her expression is serious and gentle, her tongue slightly out in concentration, making sure not to pour too fast. Soft early morning light in shades of peach and gold fills the yard, and dew still sparkles on the surrounding tropical leaves. A few butterflies flutter near the hibiscus in the background. The mood is peaceful, patient, and nurturing. Children's book illustration, 16:9 landscape.
+
+### Page 7 — `page-07.webp`
+> One week passes, and Mia sees the very first little green curl pushing up through the soil.
+
+A magical close-up scene focused on a single paper cup of dark soil sitting in warm sunlight on the wooden garden table. A tiny bright green curl, the very first seedling sprout, pushes up bravely through the dark earth. Mia crouches down so her eyes are level with the cup, her expression transformed with absolute wonder and joy, mouth slightly open. Her puff ponytails hang forward as she leans in close. The background shows the row of other cups and the lush tropical garden softly blurred. The mood is full of awe, discovery, and delight. Children's book illustration, 16:9 landscape.
+
+### Page 8 — `page-08.webp`
+> Abuela claps her hands and says, 'It is alive, mi amor — you helped make this happen!'
+
+Abuela stands in the sunny backyard clapping her hands together with pure joy, her floral apron fluttering, her round face beaming with pride and delight. Mia stands beside her holding the paper cup with the tiny green sprout toward Abuela, grinning from ear to ear with her red ribbon puffs bouncing. Both characters are laughing together, their warm brown faces glowing in the sunshine. The tropical garden surrounds them in lush green and colorful blooms. The mood is celebratory, warm, and full of intergenerational joy. Children's book illustration, 16:9 landscape.
+
+### Page 9 — `page-09.webp`
+> The seedlings grow tall enough to move into the warm garden bed under the wide blue sky.
+
+A wide bright scene of Abuela and Mia working together in the outdoor garden bed, which is now filled with dark rich soil and ready for planting. Abuela holds a small seedling carefully in her hands while Mia digs a little hole in the garden bed with a small trowel, her tongue out in concentration. The seedlings in their paper cups sit nearby in a row, healthy and bright green. The wide open blue Caribbean sky stretches above them, with fluffy white clouds and bright sunshine. Tropical trees and bougainvillea line the garden fence in vivid pinks and reds. Children's book illustration, 16:9 landscape.
+
+### Page 10 — `page-10.webp`
+> Week after week, Mia pulls weeds, checks for bugs, and talks softly to the growing plants.
+
+A montage-style illustration divided into three warm connected vignettes showing the passage of time in Abuela's garden. In the first, Mia pulls small weeds from the dark garden soil with muddy gloves. In the second, she crouches low examining the underside of a broad green leaf for bugs, brow furrowed. In the third, she leans toward the growing plants with soft eyes and parted lips as if speaking gently to them. All three moments glow with warm Caribbean sunlight and lush green growth. The overall mood is devoted, tender, and full of quiet wonder. Children's book illustration, 16:9 landscape.
+
+### Page 11 — `page-11.webp`
+> One bright morning, Mia finds a fat red tomato hiding under the big green leaves of the vine.
+
+A bright, golden morning in Abuela's abundant garden, where the tomato plants have grown tall and bushy with large dark green leaves climbing a bamboo stake. Mia kneels in the garden soil and parts the wide leaves with both hands, her eyes wide and her mouth forming a perfect O of amazement as she discovers a large, perfectly round, deeply red tomato hidden beneath the foliage. Sunlight catches the glossy surface of the tomato, making it glow like a jewel. The mood is one of pure surprise, triumph, and wonder. Children's book illustration, 16:9 landscape.
+
+### Page 12 — `page-12.webp`
+> Abuela slices the tomato and they eat it together, laughing because it tastes like love and sunshine.
+
+A warm and joyful scene inside Abuela's colorful kitchen, with turquoise tiled walls, a wooden table, and sunlight streaming through an open window with a view of the garden outside. Abuela stands at the table slicing the fat red tomato with a small knife, the cut revealing the bright juicy interior. Mia sits across from her on a wooden stool, already laughing with her head thrown back, her puff ponytails bouncing. Both characters have wide open joyful smiles, their warm brown faces radiant with happiness. A small plate of sliced tomato sits between them glowing red and golden in the sunlight. Children's book illustration, 16:9 landscape.

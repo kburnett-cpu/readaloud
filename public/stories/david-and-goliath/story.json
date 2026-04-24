@@ -1,0 +1,926 @@
+{
+  "schemaVersion": 1,
+  "id": "david-and-goliath",
+  "title": "David and Goliath",
+  "author": "Hope Academy",
+  "narrator": "Kirk",
+  "cover": "cover.jpg",
+  "gradeLevel": "1st",
+  "readingLevel": "B",
+  "lexile": "BR120L",
+  "wordCount": 159,
+  "highlightMode": "word",
+  "celebrationStyle": "confetti",
+  "display": {
+    "fontSize": 28,
+    "fontFamily": "Andika",
+    "lineHeight": 1.75,
+    "wordSpacing": "0.15em",
+    "letterSpacing": "0.03em"
+  },
+  "pages": [
+    {
+      "text": "A young boy named David took care of his father's sheep every day.",
+      "image": "page-01.webp",
+      "bg": "#FFF8E1",
+      "accent": "#F9A825",
+      "audio": "page-01.mp3",
+      "timestamps": [
+        {
+          "word": "A",
+          "start": 0.058,
+          "end": 0.081
+        },
+        {
+          "word": "young",
+          "start": 0.163,
+          "end": 0.36
+        },
+        {
+          "word": "boy",
+          "start": 0.441,
+          "end": 0.813
+        },
+        {
+          "word": "named",
+          "start": 0.987,
+          "end": 1.312
+        },
+        {
+          "word": "David",
+          "start": 1.37,
+          "end": 1.869
+        },
+        {
+          "word": "took",
+          "start": 1.95,
+          "end": 2.194
+        },
+        {
+          "word": "care",
+          "start": 2.264,
+          "end": 2.554
+        },
+        {
+          "word": "of",
+          "start": 2.612,
+          "end": 2.682
+        },
+        {
+          "word": "his",
+          "start": 2.763,
+          "end": 2.891
+        },
+        {
+          "word": "father's",
+          "start": 2.961,
+          "end": 3.39
+        },
+        {
+          "word": "sheep",
+          "start": 3.425,
+          "end": 3.738
+        },
+        {
+          "word": "every",
+          "start": 3.913,
+          "end": 4.203
+        },
+        {
+          "word": "day.",
+          "start": 4.272,
+          "end": 4.54
+        }
+      ]
+    },
+    {
+      "text": "David loved God with all of his heart, and he was very brave.",
+      "image": "page-02.webp",
+      "bg": "#E8F5E9",
+      "accent": "#43A047",
+      "audio": "page-02.mp3",
+      "timestamps": [
+        {
+          "word": "David",
+          "start": 0.058,
+          "end": 0.337
+        },
+        {
+          "word": "loved",
+          "start": 0.43,
+          "end": 0.824
+        },
+        {
+          "word": "God",
+          "start": 0.882,
+          "end": 1.173
+        },
+        {
+          "word": "with",
+          "start": 1.219,
+          "end": 1.347
+        },
+        {
+          "word": "all",
+          "start": 1.393,
+          "end": 1.544
+        },
+        {
+          "word": "of",
+          "start": 1.591,
+          "end": 1.637
+        },
+        {
+          "word": "his",
+          "start": 1.683,
+          "end": 1.788
+        },
+        {
+          "word": "heart,",
+          "start": 1.846,
+          "end": 2.125
+        },
+        {
+          "word": "and",
+          "start": 2.148,
+          "end": 2.252
+        },
+        {
+          "word": "he",
+          "start": 2.287,
+          "end": 2.334
+        },
+        {
+          "word": "was",
+          "start": 2.38,
+          "end": 2.496
+        },
+        {
+          "word": "very",
+          "start": 2.566,
+          "end": 2.844
+        },
+        {
+          "word": "brave.",
+          "start": 2.937,
+          "end": 3.425
+        }
+      ]
+    },
+    {
+      "text": "One day, a giant soldier named Goliath made everyone feel very afraid.",
+      "image": "page-03.webp",
+      "bg": "#FCE4EC",
+      "accent": "#E53935",
+      "audio": "page-03.mp3",
+      "timestamps": [
+        {
+          "word": "One",
+          "start": 0.023,
+          "end": 0.197
+        },
+        {
+          "word": "day,",
+          "start": 0.244,
+          "end": 0.615
+        },
+        {
+          "word": "a",
+          "start": 0.65,
+          "end": 0.72
+        },
+        {
+          "word": "giant",
+          "start": 0.836,
+          "end": 1.254
+        },
+        {
+          "word": "soldier",
+          "start": 1.324,
+          "end": 1.718
+        },
+        {
+          "word": "named",
+          "start": 1.788,
+          "end": 2.032
+        },
+        {
+          "word": "Goliath",
+          "start": 2.067,
+          "end": 2.775
+        },
+        {
+          "word": "made",
+          "start": 2.926,
+          "end": 3.181
+        },
+        {
+          "word": "everyone",
+          "start": 3.297,
+          "end": 3.855
+        },
+        {
+          "word": "feel",
+          "start": 3.924,
+          "end": 4.307
+        },
+        {
+          "word": "very",
+          "start": 4.481,
+          "end": 4.876
+        },
+        {
+          "word": "afraid.",
+          "start": 4.934,
+          "end": 5.492
+        }
+      ]
+    },
+    {
+      "text": "Goliath was so tall and so loud that all the strong soldiers ran away.",
+      "image": "page-04.webp",
+      "bg": "#FBE9E7",
+      "accent": "#BF360C",
+      "audio": "page-04.mp3",
+      "timestamps": [
+        {
+          "word": "Goliath",
+          "start": 0.058,
+          "end": 0.824
+        },
+        {
+          "word": "was",
+          "start": 0.998,
+          "end": 1.207
+        },
+        {
+          "word": "so",
+          "start": 1.382,
+          "end": 1.776
+        },
+        {
+          "word": "tall",
+          "start": 1.892,
+          "end": 2.485
+        },
+        {
+          "word": "and",
+          "start": 2.659,
+          "end": 2.833
+        },
+        {
+          "word": "so",
+          "start": 2.949,
+          "end": 3.216
+        },
+        {
+          "word": "loud",
+          "start": 3.332,
+          "end": 3.889
+        },
+        {
+          "word": "that",
+          "start": 3.959,
+          "end": 4.156
+        },
+        {
+          "word": "all",
+          "start": 4.226,
+          "end": 4.528
+        },
+        {
+          "word": "the",
+          "start": 4.598,
+          "end": 4.667
+        },
+        {
+          "word": "strong",
+          "start": 4.714,
+          "end": 5.062
+        },
+        {
+          "word": "soldiers",
+          "start": 5.143,
+          "end": 5.642
+        },
+        {
+          "word": "ran",
+          "start": 5.759,
+          "end": 6.014
+        },
+        {
+          "word": "away.",
+          "start": 6.072,
+          "end": 6.525
+        }
+      ]
+    },
+    {
+      "text": "David heard Goliath shouting, and he felt angry that no one would fight.",
+      "image": "page-05.webp",
+      "bg": "#FFF3E0",
+      "accent": "#E65100",
+      "audio": "page-05.mp3",
+      "timestamps": [
+        {
+          "word": "David",
+          "start": 0.046,
+          "end": 0.406
+        },
+        {
+          "word": "heard",
+          "start": 0.464,
+          "end": 0.673
+        },
+        {
+          "word": "Goliath",
+          "start": 0.743,
+          "end": 1.393
+        },
+        {
+          "word": "shouting,",
+          "start": 1.567,
+          "end": 2.264
+        },
+        {
+          "word": "and",
+          "start": 2.287,
+          "end": 2.415
+        },
+        {
+          "word": "he",
+          "start": 2.461,
+          "end": 2.519
+        },
+        {
+          "word": "felt",
+          "start": 2.589,
+          "end": 2.833
+        },
+        {
+          "word": "angry",
+          "start": 2.949,
+          "end": 3.506
+        },
+        {
+          "word": "that",
+          "start": 3.587,
+          "end": 3.762
+        },
+        {
+          "word": "no",
+          "start": 3.878,
+          "end": 4.087
+        },
+        {
+          "word": "one",
+          "start": 4.203,
+          "end": 4.365
+        },
+        {
+          "word": "would",
+          "start": 4.412,
+          "end": 4.598
+        },
+        {
+          "word": "fight.",
+          "start": 4.667,
+          "end": 5.05
+        }
+      ]
+    },
+    {
+      "text": "David said, 'I am not afraid, because God is always with me!'",
+      "image": "page-06.webp",
+      "bg": "#E8EAF6",
+      "accent": "#3949AB",
+      "audio": "page-06.mp3",
+      "timestamps": [
+        {
+          "word": "David",
+          "start": 0.046,
+          "end": 0.395
+        },
+        {
+          "word": "said,",
+          "start": 0.464,
+          "end": 0.813
+        },
+        {
+          "word": "'I",
+          "start": 0.836,
+          "end": 1.01
+        },
+        {
+          "word": "am",
+          "start": 1.103,
+          "end": 1.207
+        },
+        {
+          "word": "not",
+          "start": 1.289,
+          "end": 1.486
+        },
+        {
+          "word": "afraid,",
+          "start": 1.533,
+          "end": 2.032
+        },
+        {
+          "word": "because",
+          "start": 2.067,
+          "end": 2.368
+        },
+        {
+          "word": "God",
+          "start": 2.415,
+          "end": 2.705
+        },
+        {
+          "word": "is",
+          "start": 2.763,
+          "end": 2.856
+        },
+        {
+          "word": "always",
+          "start": 2.914,
+          "end": 3.286
+        },
+        {
+          "word": "with",
+          "start": 3.344,
+          "end": 3.541
+        },
+        {
+          "word": "me!'",
+          "start": 3.611,
+          "end": 3.82
+        }
+      ]
+    },
+    {
+      "text": "The king looked at little David and asked, 'Are you sure you can do this?'",
+      "image": "page-07.webp",
+      "bg": "#F3E5F5",
+      "accent": "#8E24AA",
+      "audio": "page-07.mp3",
+      "timestamps": [
+        {
+          "word": "The",
+          "start": 0.046,
+          "end": 0.151
+        },
+        {
+          "word": "king",
+          "start": 0.221,
+          "end": 0.453
+        },
+        {
+          "word": "looked",
+          "start": 0.569,
+          "end": 0.882
+        },
+        {
+          "word": "at",
+          "start": 0.917,
+          "end": 0.998
+        },
+        {
+          "word": "little",
+          "start": 1.057,
+          "end": 1.289
+        },
+        {
+          "word": "David",
+          "start": 1.335,
+          "end": 1.695
+        },
+        {
+          "word": "and",
+          "start": 1.741,
+          "end": 1.834
+        },
+        {
+          "word": "asked,",
+          "start": 1.904,
+          "end": 2.241
+        },
+        {
+          "word": "'Are",
+          "start": 2.264,
+          "end": 2.426
+        },
+        {
+          "word": "you",
+          "start": 2.461,
+          "end": 2.554
+        },
+        {
+          "word": "sure",
+          "start": 2.67,
+          "end": 2.961
+        },
+        {
+          "word": "you",
+          "start": 3.019,
+          "end": 3.111
+        },
+        {
+          "word": "can",
+          "start": 3.17,
+          "end": 3.286
+        },
+        {
+          "word": "do",
+          "start": 3.344,
+          "end": 3.437
+        },
+        {
+          "word": "this?'",
+          "start": 3.518,
+          "end": 3.82
+        }
+      ]
+    },
+    {
+      "text": "David walked to the river and picked up five smooth, small stones.",
+      "image": "page-08.webp",
+      "bg": "#E0F7FA",
+      "accent": "#00838F",
+      "audio": "page-08.mp3",
+      "timestamps": [
+        {
+          "word": "David",
+          "start": 0.046,
+          "end": 0.453
+        },
+        {
+          "word": "walked",
+          "start": 0.604,
+          "end": 1.115
+        },
+        {
+          "word": "to",
+          "start": 1.231,
+          "end": 1.37
+        },
+        {
+          "word": "the",
+          "start": 1.44,
+          "end": 1.509
+        },
+        {
+          "word": "river",
+          "start": 1.567,
+          "end": 1.846
+        },
+        {
+          "word": "and",
+          "start": 1.916,
+          "end": 2.032
+        },
+        {
+          "word": "picked",
+          "start": 2.101,
+          "end": 2.345
+        },
+        {
+          "word": "up",
+          "start": 2.392,
+          "end": 2.508
+        },
+        {
+          "word": "five",
+          "start": 2.659,
+          "end": 3.146
+        },
+        {
+          "word": "smooth,",
+          "start": 3.228,
+          "end": 3.82
+        },
+        {
+          "word": "small",
+          "start": 3.878,
+          "end": 4.331
+        },
+        {
+          "word": "stones.",
+          "start": 4.423,
+          "end": 5.016
+        }
+      ]
+    },
+    {
+      "text": "Goliath laughed at David, but David held his sling up high and stood tall.",
+      "image": "page-09.webp",
+      "bg": "#FFF8E1",
+      "accent": "#F57F17",
+      "audio": "page-09.mp3",
+      "timestamps": [
+        {
+          "word": "Goliath",
+          "start": 0.058,
+          "end": 0.766
+        },
+        {
+          "word": "laughed",
+          "start": 0.975,
+          "end": 1.521
+        },
+        {
+          "word": "at",
+          "start": 1.567,
+          "end": 1.649
+        },
+        {
+          "word": "David,",
+          "start": 1.707,
+          "end": 2.241
+        },
+        {
+          "word": "but",
+          "start": 2.287,
+          "end": 2.461
+        },
+        {
+          "word": "David",
+          "start": 2.519,
+          "end": 2.891
+        },
+        {
+          "word": "held",
+          "start": 2.961,
+          "end": 3.204
+        },
+        {
+          "word": "his",
+          "start": 3.262,
+          "end": 3.379
+        },
+        {
+          "word": "sling",
+          "start": 3.425,
+          "end": 3.727
+        },
+        {
+          "word": "up",
+          "start": 3.785,
+          "end": 3.901
+        },
+        {
+          "word": "high",
+          "start": 3.982,
+          "end": 4.354
+        },
+        {
+          "word": "and",
+          "start": 4.47,
+          "end": 4.644
+        },
+        {
+          "word": "stood",
+          "start": 4.725,
+          "end": 5.05
+        },
+        {
+          "word": "tall.",
+          "start": 5.12,
+          "end": 5.538
+        }
+      ]
+    },
+    {
+      "text": "David put one stone in his sling and he prayed to God for help.",
+      "image": "page-10.webp",
+      "bg": "#E8F5E9",
+      "accent": "#2E7D32",
+      "audio": "page-10.mp3",
+      "timestamps": [
+        {
+          "word": "David",
+          "start": 0.046,
+          "end": 0.395
+        },
+        {
+          "word": "put",
+          "start": 0.441,
+          "end": 0.615
+        },
+        {
+          "word": "one",
+          "start": 0.697,
+          "end": 0.94
+        },
+        {
+          "word": "stone",
+          "start": 0.987,
+          "end": 1.358
+        },
+        {
+          "word": "in",
+          "start": 1.393,
+          "end": 1.463
+        },
+        {
+          "word": "his",
+          "start": 1.521,
+          "end": 1.625
+        },
+        {
+          "word": "sling",
+          "start": 1.672,
+          "end": 2.043
+        },
+        {
+          "word": "and",
+          "start": 2.125,
+          "end": 2.229
+        },
+        {
+          "word": "he",
+          "start": 2.276,
+          "end": 2.334
+        },
+        {
+          "word": "prayed",
+          "start": 2.426,
+          "end": 2.81
+        },
+        {
+          "word": "to",
+          "start": 2.856,
+          "end": 2.926
+        },
+        {
+          "word": "God",
+          "start": 3.007,
+          "end": 3.309
+        },
+        {
+          "word": "for",
+          "start": 3.39,
+          "end": 3.541
+        },
+        {
+          "word": "help.",
+          "start": 3.611,
+          "end": 3.889
+        }
+      ]
+    },
+    {
+      "text": "The stone flew through the air and hit Goliath, and the giant fell down.",
+      "image": "page-11.webp",
+      "bg": "#FCE4EC",
+      "accent": "#C62828",
+      "audio": "page-11.mp3",
+      "timestamps": [
+        {
+          "word": "The",
+          "start": 0.058,
+          "end": 0.163
+        },
+        {
+          "word": "stone",
+          "start": 0.232,
+          "end": 0.789
+        },
+        {
+          "word": "flew",
+          "start": 0.964,
+          "end": 1.37
+        },
+        {
+          "word": "through",
+          "start": 1.463,
+          "end": 1.73
+        },
+        {
+          "word": "the",
+          "start": 1.776,
+          "end": 1.858
+        },
+        {
+          "word": "air",
+          "start": 1.939,
+          "end": 2.229
+        },
+        {
+          "word": "and",
+          "start": 2.31,
+          "end": 2.45
+        },
+        {
+          "word": "hit",
+          "start": 2.531,
+          "end": 2.74
+        },
+        {
+          "word": "Goliath,",
+          "start": 2.81,
+          "end": 3.402
+        },
+        {
+          "word": "and",
+          "start": 3.425,
+          "end": 3.529
+        },
+        {
+          "word": "the",
+          "start": 3.576,
+          "end": 3.646
+        },
+        {
+          "word": "giant",
+          "start": 3.727,
+          "end": 4.145
+        },
+        {
+          "word": "fell",
+          "start": 4.261,
+          "end": 4.516
+        },
+        {
+          "word": "down.",
+          "start": 4.586,
+          "end": 4.899
+        }
+      ]
+    },
+    {
+      "text": "Everyone cheered for David, because faith and courage can beat the biggest giants!",
+      "image": "page-12.webp",
+      "bg": "#FFFDE7",
+      "accent": "#F9A825",
+      "audio": "page-12.mp3",
+      "timestamps": [
+        {
+          "word": "Everyone",
+          "start": 0.035,
+          "end": 0.766
+        },
+        {
+          "word": "cheered",
+          "start": 0.848,
+          "end": 1.289
+        },
+        {
+          "word": "for",
+          "start": 1.347,
+          "end": 1.474
+        },
+        {
+          "word": "David,",
+          "start": 1.533,
+          "end": 1.974
+        },
+        {
+          "word": "because",
+          "start": 2.009,
+          "end": 2.345
+        },
+        {
+          "word": "faith",
+          "start": 2.403,
+          "end": 2.74
+        },
+        {
+          "word": "and",
+          "start": 2.798,
+          "end": 2.902
+        },
+        {
+          "word": "courage",
+          "start": 2.984,
+          "end": 3.471
+        },
+        {
+          "word": "can",
+          "start": 3.518,
+          "end": 3.715
+        },
+        {
+          "word": "beat",
+          "start": 3.831,
+          "end": 4.145
+        },
+        {
+          "word": "the",
+          "start": 4.261,
+          "end": 4.412
+        },
+        {
+          "word": "biggest",
+          "start": 4.563,
+          "end": 5.074
+        },
+        {
+          "word": "giants!",
+          "start": 5.19,
+          "end": 5.991
+        }
+      ]
+    }
+  ]
+}

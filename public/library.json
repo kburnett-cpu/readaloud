@@ -389,7 +389,7 @@
       "featured": false,
       "gradeLevel": "1st",
       "readingLevel": "C",
-      "lexile": "15L",
+      "lexile": "13L",
       "tags": [
         "nature",
         "science",
@@ -407,7 +407,7 @@
       "featured": false,
       "gradeLevel": "2nd",
       "readingLevel": "D",
-      "lexile": "90L",
+      "lexile": "91L",
       "tags": [
         "family",
         "garden",
@@ -425,12 +425,31 @@
       "featured": false,
       "gradeLevel": "1st",
       "readingLevel": "C",
-      "lexile": "20L",
+      "lexile": "18L",
       "tags": [
         "friendship",
         "teamwork",
         "problem-solving",
         "kite"
+      ],
+      "narrator": "Kirk"
+    },
+    {
+      "id": "david-and-goliath",
+      "title": "David and Goliath",
+      "author": "Hope Academy",
+      "cover": "stories/david-and-goliath/cover.jpg",
+      "pages": 12,
+      "featured": false,
+      "gradeLevel": "1st",
+      "readingLevel": "C",
+      "lexile": "19L",
+      "tags": [
+        "bible",
+        "courage",
+        "faith",
+        "david",
+        "goliath"
       ],
       "narrator": "Kirk"
     }
