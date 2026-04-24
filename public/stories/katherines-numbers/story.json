@@ -1,0 +1,895 @@
+{
+  "schemaVersion": 1,
+  "id": "katherines-numbers",
+  "title": "Katherine's Numbers",
+  "author": "Hope Academy",
+  "narrator": "Kirk",
+  "cover": "cover.jpg",
+  "gradeLevel": "3rd",
+  "readingLevel": "E",
+  "lexile": "BR120L",
+  "wordCount": 151,
+  "highlightMode": "word",
+  "celebrationStyle": "confetti",
+  "display": {
+    "fontSize": 28,
+    "fontFamily": "Andika",
+    "lineHeight": 1.75,
+    "wordSpacing": "0.15em",
+    "letterSpacing": "0.03em"
+  },
+  "pages": [
+    {
+      "text": "Katherine saw numbers everywhere she looked.",
+      "image": "page-01.webp",
+      "bg": "#FFF8E1",
+      "accent": "#F9A825",
+      "audio": "page-01.mp3",
+      "timestamps": [
+        {
+          "word": "Katherine",
+          "start": 0.046,
+          "end": 0.557
+        },
+        {
+          "word": "saw",
+          "start": 0.604,
+          "end": 0.824
+        },
+        {
+          "word": "numbers",
+          "start": 0.94,
+          "end": 1.358
+        },
+        {
+          "word": "everywhere",
+          "start": 1.509,
+          "end": 2.067
+        },
+        {
+          "word": "she",
+          "start": 2.101,
+          "end": 2.218
+        },
+        {
+          "word": "looked.",
+          "start": 2.299,
+          "end": 2.647
+        }
+      ]
+    },
+    {
+      "text": "She counted the stars from her little blue window at night.",
+      "image": "page-02.webp",
+      "bg": "#E8EAF6",
+      "accent": "#3949AB",
+      "audio": "page-02.mp3",
+      "timestamps": [
+        {
+          "word": "She",
+          "start": 0.058,
+          "end": 0.163
+        },
+        {
+          "word": "counted",
+          "start": 0.255,
+          "end": 0.604
+        },
+        {
+          "word": "the",
+          "start": 0.639,
+          "end": 0.708
+        },
+        {
+          "word": "stars",
+          "start": 0.755,
+          "end": 1.3
+        },
+        {
+          "word": "from",
+          "start": 1.358,
+          "end": 1.533
+        },
+        {
+          "word": "her",
+          "start": 1.614,
+          "end": 1.718
+        },
+        {
+          "word": "little",
+          "start": 1.834,
+          "end": 2.125
+        },
+        {
+          "word": "blue",
+          "start": 2.159,
+          "end": 2.415
+        },
+        {
+          "word": "window",
+          "start": 2.45,
+          "end": 2.821
+        },
+        {
+          "word": "at",
+          "start": 2.891,
+          "end": 2.995
+        },
+        {
+          "word": "night.",
+          "start": 3.077,
+          "end": 3.379
+        }
+      ]
+    },
+    {
+      "text": "She found patterns in the tiles on her abuela's kitchen floor.",
+      "image": "page-03.webp",
+      "bg": "#FCE4EC",
+      "accent": "#E91E63",
+      "audio": "page-03.mp3",
+      "timestamps": [
+        {
+          "word": "She",
+          "start": 0.046,
+          "end": 0.174
+        },
+        {
+          "word": "found",
+          "start": 0.267,
+          "end": 0.662
+        },
+        {
+          "word": "patterns",
+          "start": 0.836,
+          "end": 1.486
+        },
+        {
+          "word": "in",
+          "start": 1.544,
+          "end": 1.625
+        },
+        {
+          "word": "the",
+          "start": 1.683,
+          "end": 1.753
+        },
+        {
+          "word": "tiles",
+          "start": 1.811,
+          "end": 2.38
+        },
+        {
+          "word": "on",
+          "start": 2.45,
+          "end": 2.554
+        },
+        {
+          "word": "her",
+          "start": 2.612,
+          "end": 2.728
+        },
+        {
+          "word": "abuela's",
+          "start": 2.81,
+          "end": 3.471
+        },
+        {
+          "word": "kitchen",
+          "start": 3.587,
+          "end": 3.936
+        },
+        {
+          "word": "floor.",
+          "start": 4.005,
+          "end": 4.342
+        }
+      ]
+    },
+    {
+      "text": "Numbers felt like old friends, always waiting for her.",
+      "image": "page-04.webp",
+      "bg": "#E0F7FA",
+      "accent": "#00838F",
+      "audio": "page-04.mp3",
+      "timestamps": [
+        {
+          "word": "Numbers",
+          "start": 0.035,
+          "end": 0.499
+        },
+        {
+          "word": "felt",
+          "start": 0.592,
+          "end": 0.848
+        },
+        {
+          "word": "like",
+          "start": 0.906,
+          "end": 1.115
+        },
+        {
+          "word": "old",
+          "start": 1.184,
+          "end": 1.416
+        },
+        {
+          "word": "friends,",
+          "start": 1.486,
+          "end": 1.939
+        },
+        {
+          "word": "always",
+          "start": 1.974,
+          "end": 2.241
+        },
+        {
+          "word": "waiting",
+          "start": 2.299,
+          "end": 2.589
+        },
+        {
+          "word": "for",
+          "start": 2.659,
+          "end": 2.775
+        },
+        {
+          "word": "her.",
+          "start": 2.844,
+          "end": 3.03
+        }
+      ]
+    },
+    {
+      "text": "At school, Katherine filled notebook after notebook with equations and sums.",
+      "image": "page-05.webp",
+      "bg": "#F3E5F5",
+      "accent": "#7B1FA2",
+      "audio": "page-05.mp3",
+      "timestamps": [
+        {
+          "word": "At",
+          "start": 0.035,
+          "end": 0.163
+        },
+        {
+          "word": "school,",
+          "start": 0.232,
+          "end": 0.824
+        },
+        {
+          "word": "Katherine",
+          "start": 0.894,
+          "end": 1.358
+        },
+        {
+          "word": "filled",
+          "start": 1.405,
+          "end": 1.707
+        },
+        {
+          "word": "notebook",
+          "start": 1.8,
+          "end": 2.31
+        },
+        {
+          "word": "after",
+          "start": 2.368,
+          "end": 2.647
+        },
+        {
+          "word": "notebook",
+          "start": 2.74,
+          "end": 3.239
+        },
+        {
+          "word": "with",
+          "start": 3.297,
+          "end": 3.448
+        },
+        {
+          "word": "equations",
+          "start": 3.506,
+          "end": 4.435
+        },
+        {
+          "word": "and",
+          "start": 4.493,
+          "end": 4.598
+        },
+        {
+          "word": "sums.",
+          "start": 4.714,
+          "end": 5.352
+        }
+      ]
+    },
+    {
+      "text": "One day, a boy in her class said, \"Math is not for girls like you.\"",
+      "image": "page-06.webp",
+      "bg": "#FFF3E0",
+      "accent": "#E65100",
+      "audio": "page-06.mp3",
+      "timestamps": [
+        {
+          "word": "One",
+          "start": 0.023,
+          "end": 0.197
+        },
+        {
+          "word": "day,",
+          "start": 0.244,
+          "end": 0.58
+        },
+        {
+          "word": "a",
+          "start": 0.615,
+          "end": 0.697
+        },
+        {
+          "word": "boy",
+          "start": 0.813,
+          "end": 1.196
+        },
+        {
+          "word": "in",
+          "start": 1.312,
+          "end": 1.428
+        },
+        {
+          "word": "her",
+          "start": 1.486,
+          "end": 1.591
+        },
+        {
+          "word": "class",
+          "start": 1.66,
+          "end": 2.078
+        },
+        {
+          "word": "said,",
+          "start": 2.125,
+          "end": 2.438
+        },
+        {
+          "word": "\"Math",
+          "start": 2.461,
+          "end": 2.891
+        },
+        {
+          "word": "is",
+          "start": 2.949,
+          "end": 3.065
+        },
+        {
+          "word": "not",
+          "start": 3.181,
+          "end": 3.471
+        },
+        {
+          "word": "for",
+          "start": 3.541,
+          "end": 3.68
+        },
+        {
+          "word": "girls",
+          "start": 3.738,
+          "end": 4.063
+        },
+        {
+          "word": "like",
+          "start": 4.133,
+          "end": 4.365
+        },
+        {
+          "word": "you.\"",
+          "start": 4.423,
+          "end": 7.546
+        }
+      ]
+    },
+    {
+      "text": "Katherine felt a sharp sting in her chest, but she opened her notebook anyway.",
+      "image": "page-07.webp",
+      "bg": "#EFEBE9",
+      "accent": "#5D4037",
+      "audio": "page-07.mp3",
+      "timestamps": [
+        {
+          "word": "Katherine",
+          "start": 0.046,
+          "end": 0.546
+        },
+        {
+          "word": "felt",
+          "start": 0.592,
+          "end": 0.836
+        },
+        {
+          "word": "a",
+          "start": 0.882,
+          "end": 0.917
+        },
+        {
+          "word": "sharp",
+          "start": 1.033,
+          "end": 1.37
+        },
+        {
+          "word": "sting",
+          "start": 1.486,
+          "end": 1.939
+        },
+        {
+          "word": "in",
+          "start": 2.055,
+          "end": 2.171
+        },
+        {
+          "word": "her",
+          "start": 2.241,
+          "end": 2.345
+        },
+        {
+          "word": "chest,",
+          "start": 2.415,
+          "end": 2.902
+        },
+        {
+          "word": "but",
+          "start": 2.949,
+          "end": 3.1
+        },
+        {
+          "word": "she",
+          "start": 3.135,
+          "end": 3.251
+        },
+        {
+          "word": "opened",
+          "start": 3.344,
+          "end": 3.669
+        },
+        {
+          "word": "her",
+          "start": 3.704,
+          "end": 3.773
+        },
+        {
+          "word": "notebook",
+          "start": 3.831,
+          "end": 4.238
+        },
+        {
+          "word": "anyway.",
+          "start": 4.307,
+          "end": 4.702
+        }
+      ]
+    },
+    {
+      "text": "Even her teacher said, kindly but firmly, \"Perhaps you should try something easier, Katherine.\"",
+      "image": "page-08.webp",
+      "bg": "#E8F5E9",
+      "accent": "#2E7D32",
+      "audio": "page-08.mp3",
+      "timestamps": [
+        {
+          "word": "Even",
+          "start": 0.035,
+          "end": 0.279
+        },
+        {
+          "word": "her",
+          "start": 0.337,
+          "end": 0.441
+        },
+        {
+          "word": "teacher",
+          "start": 0.522,
+          "end": 1.033
+        },
+        {
+          "word": "said,",
+          "start": 1.207,
+          "end": 1.718
+        },
+        {
+          "word": "kindly",
+          "start": 1.776,
+          "end": 2.461
+        },
+        {
+          "word": "but",
+          "start": 2.577,
+          "end": 2.763
+        },
+        {
+          "word": "firmly,",
+          "start": 2.844,
+          "end": 3.471
+        },
+        {
+          "word": "\"Perhaps",
+          "start": 3.529,
+          "end": 4.122
+        },
+        {
+          "word": "you",
+          "start": 4.296,
+          "end": 4.412
+        },
+        {
+          "word": "should",
+          "start": 4.458,
+          "end": 4.667
+        },
+        {
+          "word": "try",
+          "start": 4.702,
+          "end": 5.039
+        },
+        {
+          "word": "something",
+          "start": 5.155,
+          "end": 5.642
+        },
+        {
+          "word": "easier,",
+          "start": 5.851,
+          "end": 6.571
+        },
+        {
+          "word": "Katherine.\"",
+          "start": 6.687,
+          "end": 7.338
+        }
+      ]
+    },
+    {
+      "text": "She stayed after class and asked her questions out loud, one by one.",
+      "image": "page-09.webp",
+      "bg": "#E3F2FD",
+      "accent": "#1565C0",
+      "audio": "page-09.mp3",
+      "timestamps": [
+        {
+          "word": "She",
+          "start": 0.046,
+          "end": 0.395
+        },
+        {
+          "word": "stayed",
+          "start": 0.569,
+          "end": 1.149
+        },
+        {
+          "word": "after",
+          "start": 1.324,
+          "end": 1.695
+        },
+        {
+          "word": "class",
+          "start": 1.776,
+          "end": 2.38
+        },
+        {
+          "word": "and",
+          "start": 2.438,
+          "end": 2.589
+        },
+        {
+          "word": "asked",
+          "start": 2.659,
+          "end": 2.891
+        },
+        {
+          "word": "her",
+          "start": 2.926,
+          "end": 3.007
+        },
+        {
+          "word": "questions",
+          "start": 3.077,
+          "end": 3.529
+        },
+        {
+          "word": "out",
+          "start": 3.587,
+          "end": 3.75
+        },
+        {
+          "word": "loud,",
+          "start": 3.82,
+          "end": 4.191
+        },
+        {
+          "word": "one",
+          "start": 4.261,
+          "end": 4.481
+        },
+        {
+          "word": "by",
+          "start": 4.528,
+          "end": 4.702
+        },
+        {
+          "word": "one.",
+          "start": 4.795,
+          "end": 5.201
+        }
+      ]
+    },
+    {
+      "text": "Every hard problem she solved made her stand a little taller.",
+      "image": "page-10.webp",
+      "bg": "#FFFDE7",
+      "accent": "#F57F17",
+      "audio": "page-10.mp3",
+      "timestamps": [
+        {
+          "word": "Every",
+          "start": 0.035,
+          "end": 0.348
+        },
+        {
+          "word": "hard",
+          "start": 0.464,
+          "end": 0.859
+        },
+        {
+          "word": "problem",
+          "start": 0.975,
+          "end": 1.614
+        },
+        {
+          "word": "she",
+          "start": 1.695,
+          "end": 1.846
+        },
+        {
+          "word": "solved",
+          "start": 1.927,
+          "end": 2.392
+        },
+        {
+          "word": "made",
+          "start": 2.45,
+          "end": 2.635
+        },
+        {
+          "word": "her",
+          "start": 2.67,
+          "end": 2.763
+        },
+        {
+          "word": "stand",
+          "start": 2.821,
+          "end": 3.17
+        },
+        {
+          "word": "a",
+          "start": 3.228,
+          "end": 3.262
+        },
+        {
+          "word": "little",
+          "start": 3.309,
+          "end": 3.541
+        },
+        {
+          "word": "taller.",
+          "start": 3.576,
+          "end": 4.052
+        }
+      ]
+    },
+    {
+      "text": "Katherine kept going, page after page, day after day, never stopping.",
+      "image": "page-11.webp",
+      "bg": "#FCE4EC",
+      "accent": "#AD1457",
+      "audio": "page-11.mp3",
+      "timestamps": [
+        {
+          "word": "Katherine",
+          "start": 0.046,
+          "end": 0.569
+        },
+        {
+          "word": "kept",
+          "start": 0.639,
+          "end": 0.94
+        },
+        {
+          "word": "going,",
+          "start": 1.022,
+          "end": 1.509
+        },
+        {
+          "word": "page",
+          "start": 1.579,
+          "end": 2.043
+        },
+        {
+          "word": "after",
+          "start": 2.078,
+          "end": 2.345
+        },
+        {
+          "word": "page,",
+          "start": 2.426,
+          "end": 2.868
+        },
+        {
+          "word": "day",
+          "start": 2.926,
+          "end": 3.239
+        },
+        {
+          "word": "after",
+          "start": 3.297,
+          "end": 3.599
+        },
+        {
+          "word": "day,",
+          "start": 3.68,
+          "end": 4.098
+        },
+        {
+          "word": "never",
+          "start": 4.214,
+          "end": 4.586
+        },
+        {
+          "word": "stopping.",
+          "start": 4.737,
+          "end": 5.399
+        }
+      ]
+    },
+    {
+      "text": "Soon, everyone could see that her gift was too bright to ignore.",
+      "image": "page-12.webp",
+      "bg": "#E8EAF6",
+      "accent": "#283593",
+      "audio": "page-12.mp3",
+      "timestamps": [
+        {
+          "word": "Soon,",
+          "start": 0.035,
+          "end": 0.592
+        },
+        {
+          "word": "everyone",
+          "start": 0.766,
+          "end": 1.486
+        },
+        {
+          "word": "could",
+          "start": 1.544,
+          "end": 1.73
+        },
+        {
+          "word": "see",
+          "start": 1.811,
+          "end": 2.264
+        },
+        {
+          "word": "that",
+          "start": 2.38,
+          "end": 2.589
+        },
+        {
+          "word": "her",
+          "start": 2.647,
+          "end": 2.763
+        },
+        {
+          "word": "gift",
+          "start": 2.879,
+          "end": 3.297
+        },
+        {
+          "word": "was",
+          "start": 3.413,
+          "end": 3.611
+        },
+        {
+          "word": "too",
+          "start": 3.692,
+          "end": 3.878
+        },
+        {
+          "word": "bright",
+          "start": 3.947,
+          "end": 4.261
+        },
+        {
+          "word": "to",
+          "start": 4.319,
+          "end": 4.423
+        },
+        {
+          "word": "ignore.",
+          "start": 4.516,
+          "end": 5.004
+        }
+      ]
+    },
+    {
+      "text": "Katherine's numbers changed the world, and she had known they would all along.",
+      "image": "page-13.webp",
+      "bg": "#E0F2F1",
+      "accent": "#00695C",
+      "audio": "page-13.mp3",
+      "timestamps": [
+        {
+          "word": "Katherine's",
+          "start": 0.058,
+          "end": 0.557
+        },
+        {
+          "word": "numbers",
+          "start": 0.627,
+          "end": 1.022
+        },
+        {
+          "word": "changed",
+          "start": 1.138,
+          "end": 1.625
+        },
+        {
+          "word": "the",
+          "start": 1.672,
+          "end": 1.753
+        },
+        {
+          "word": "world,",
+          "start": 1.811,
+          "end": 2.276
+        },
+        {
+          "word": "and",
+          "start": 2.299,
+          "end": 2.426
+        },
+        {
+          "word": "she",
+          "start": 2.485,
+          "end": 2.601
+        },
+        {
+          "word": "had",
+          "start": 2.67,
+          "end": 2.798
+        },
+        {
+          "word": "known",
+          "start": 2.879,
+          "end": 3.309
+        },
+        {
+          "word": "they",
+          "start": 3.39,
+          "end": 3.553
+        },
+        {
+          "word": "would",
+          "start": 3.599,
+          "end": 3.796
+        },
+        {
+          "word": "all",
+          "start": 3.843,
+          "end": 4.005
+        },
+        {
+          "word": "along.",
+          "start": 4.075,
+          "end": 4.481
+        }
+      ]
+    }
+  ]
+}

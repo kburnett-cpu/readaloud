@@ -1,0 +1,1250 @@
+{
+  "schemaVersion": 1,
+  "id": "the-island-after-the-storm",
+  "title": "The Island After the Storm",
+  "author": "Hope Academy",
+  "narrator": "Kirk",
+  "cover": "cover.jpg",
+  "gradeLevel": "3rd",
+  "readingLevel": "E",
+  "lexile": "BR120L",
+  "wordCount": 222,
+  "highlightMode": "word",
+  "celebrationStyle": "confetti",
+  "display": {
+    "fontSize": 28,
+    "fontFamily": "Andika",
+    "lineHeight": 1.75,
+    "wordSpacing": "0.15em",
+    "letterSpacing": "0.03em"
+  },
+  "pages": [
+    {
+      "text": "Last night, the hurricane roared over our island like a giant, angry drum.",
+      "image": "page-01.webp",
+      "bg": "#1A237E",
+      "accent": "#90CAF9",
+      "audio": "page-01.mp3",
+      "timestamps": [
+        {
+          "word": "Last",
+          "start": 0.046,
+          "end": 0.337
+        },
+        {
+          "word": "night,",
+          "start": 0.395,
+          "end": 0.65
+        },
+        {
+          "word": "the",
+          "start": 0.673,
+          "end": 0.778
+        },
+        {
+          "word": "hurricane",
+          "start": 0.836,
+          "end": 1.474
+        },
+        {
+          "word": "roared",
+          "start": 1.625,
+          "end": 2.101
+        },
+        {
+          "word": "over",
+          "start": 2.194,
+          "end": 2.554
+        },
+        {
+          "word": "our",
+          "start": 2.67,
+          "end": 2.914
+        },
+        {
+          "word": "island",
+          "start": 3.007,
+          "end": 3.46
+        },
+        {
+          "word": "like",
+          "start": 3.529,
+          "end": 3.738
+        },
+        {
+          "word": "a",
+          "start": 3.773,
+          "end": 3.808
+        },
+        {
+          "word": "giant,",
+          "start": 3.924,
+          "end": 4.481
+        },
+        {
+          "word": "angry",
+          "start": 4.528,
+          "end": 5.039
+        },
+        {
+          "word": "drum.",
+          "start": 5.108,
+          "end": 5.631
+        }
+      ]
+    },
+    {
+      "text": "This morning, I opened our door and saw our street covered in broken branches and mud.",
+      "image": "page-02.webp",
+      "bg": "#EFEBE9",
+      "accent": "#795548",
+      "audio": "page-02.mp3",
+      "timestamps": [
+        {
+          "word": "This",
+          "start": 0.035,
+          "end": 0.221
+        },
+        {
+          "word": "morning,",
+          "start": 0.313,
+          "end": 0.743
+        },
+        {
+          "word": "I",
+          "start": 0.801,
+          "end": 0.859
+        },
+        {
+          "word": "opened",
+          "start": 0.975,
+          "end": 1.277
+        },
+        {
+          "word": "our",
+          "start": 1.312,
+          "end": 1.416
+        },
+        {
+          "word": "door",
+          "start": 1.486,
+          "end": 1.8
+        },
+        {
+          "word": "and",
+          "start": 1.869,
+          "end": 1.962
+        },
+        {
+          "word": "saw",
+          "start": 2.032,
+          "end": 2.345
+        },
+        {
+          "word": "our",
+          "start": 2.496,
+          "end": 2.659
+        },
+        {
+          "word": "street",
+          "start": 2.752,
+          "end": 3.17
+        },
+        {
+          "word": "covered",
+          "start": 3.297,
+          "end": 3.657
+        },
+        {
+          "word": "in",
+          "start": 3.692,
+          "end": 3.762
+        },
+        {
+          "word": "broken",
+          "start": 3.831,
+          "end": 4.214
+        },
+        {
+          "word": "branches",
+          "start": 4.296,
+          "end": 5.016
+        },
+        {
+          "word": "and",
+          "start": 5.074,
+          "end": 5.19
+        },
+        {
+          "word": "mud.",
+          "start": 5.306,
+          "end": 5.782
+        }
+      ]
+    },
+    {
+      "text": "Our beautiful mango tree, the one Papá climbed every summer, had fallen across the yard.",
+      "image": "page-03.webp",
+      "bg": "#E8F5E9",
+      "accent": "#388E3C",
+      "audio": "page-03.mp3",
+      "timestamps": [
+        {
+          "word": "Our",
+          "start": 0.035,
+          "end": 0.209
+        },
+        {
+          "word": "beautiful",
+          "start": 0.36,
+          "end": 0.906
+        },
+        {
+          "word": "mango",
+          "start": 1.022,
+          "end": 1.579
+        },
+        {
+          "word": "tree,",
+          "start": 1.695,
+          "end": 2.241
+        },
+        {
+          "word": "the",
+          "start": 2.287,
+          "end": 2.392
+        },
+        {
+          "word": "one",
+          "start": 2.461,
+          "end": 2.624
+        },
+        {
+          "word": "Papá",
+          "start": 2.682,
+          "end": 2.984
+        },
+        {
+          "word": "climbed",
+          "start": 3.053,
+          "end": 3.448
+        },
+        {
+          "word": "every",
+          "start": 3.483,
+          "end": 3.692
+        },
+        {
+          "word": "summer,",
+          "start": 3.762,
+          "end": 4.11
+        },
+        {
+          "word": "had",
+          "start": 4.133,
+          "end": 4.249
+        },
+        {
+          "word": "fallen",
+          "start": 4.365,
+          "end": 4.783
+        },
+        {
+          "word": "across",
+          "start": 4.83,
+          "end": 5.248
+        },
+        {
+          "word": "the",
+          "start": 5.294,
+          "end": 5.375
+        },
+        {
+          "word": "yard.",
+          "start": 5.457,
+          "end": 5.921
+        }
+      ]
+    },
+    {
+      "text": "Across the road, Doña Carmen stood in front of her house with no roof above her head.",
+      "image": "page-04.webp",
+      "bg": "#FFF3E0",
+      "accent": "#E65100",
+      "audio": "page-04.mp3",
+      "timestamps": [
+        {
+          "word": "Across",
+          "start": 0.058,
+          "end": 0.395
+        },
+        {
+          "word": "the",
+          "start": 0.441,
+          "end": 0.511
+        },
+        {
+          "word": "road,",
+          "start": 0.592,
+          "end": 1.022
+        },
+        {
+          "word": "Doña",
+          "start": 1.068,
+          "end": 1.382
+        },
+        {
+          "word": "Carmen",
+          "start": 1.44,
+          "end": 1.892
+        },
+        {
+          "word": "stood",
+          "start": 1.974,
+          "end": 2.241
+        },
+        {
+          "word": "in",
+          "start": 2.287,
+          "end": 2.357
+        },
+        {
+          "word": "front",
+          "start": 2.438,
+          "end": 2.635
+        },
+        {
+          "word": "of",
+          "start": 2.67,
+          "end": 2.728
+        },
+        {
+          "word": "her",
+          "start": 2.786,
+          "end": 2.891
+        },
+        {
+          "word": "house",
+          "start": 2.961,
+          "end": 3.332
+        },
+        {
+          "word": "with",
+          "start": 3.379,
+          "end": 3.553
+        },
+        {
+          "word": "no",
+          "start": 3.646,
+          "end": 3.843
+        },
+        {
+          "word": "roof",
+          "start": 3.936,
+          "end": 4.261
+        },
+        {
+          "word": "above",
+          "start": 4.342,
+          "end": 4.621
+        },
+        {
+          "word": "her",
+          "start": 4.656,
+          "end": 4.76
+        },
+        {
+          "word": "head.",
+          "start": 4.83,
+          "end": 5.132
+        }
+      ]
+    },
+    {
+      "text": "Mamá squeezed my hand and said, \"We are safe, and that is the most important thing.\"",
+      "image": "page-05.webp",
+      "bg": "#FCE4EC",
+      "accent": "#C62828",
+      "audio": "page-05.mp3",
+      "timestamps": [
+        {
+          "word": "Mamá",
+          "start": 0.046,
+          "end": 0.337
+        },
+        {
+          "word": "squeezed",
+          "start": 0.418,
+          "end": 1.091
+        },
+        {
+          "word": "my",
+          "start": 1.161,
+          "end": 1.289
+        },
+        {
+          "word": "hand",
+          "start": 1.37,
+          "end": 1.695
+        },
+        {
+          "word": "and",
+          "start": 1.753,
+          "end": 1.858
+        },
+        {
+          "word": "said,",
+          "start": 1.916,
+          "end": 2.183
+        },
+        {
+          "word": "\"We",
+          "start": 2.218,
+          "end": 2.392
+        },
+        {
+          "word": "are",
+          "start": 2.438,
+          "end": 2.577
+        },
+        {
+          "word": "safe,",
+          "start": 2.635,
+          "end": 3.019
+        },
+        {
+          "word": "and",
+          "start": 3.042,
+          "end": 3.17
+        },
+        {
+          "word": "that",
+          "start": 3.228,
+          "end": 3.379
+        },
+        {
+          "word": "is",
+          "start": 3.425,
+          "end": 3.506
+        },
+        {
+          "word": "the",
+          "start": 3.564,
+          "end": 3.634
+        },
+        {
+          "word": "most",
+          "start": 3.704,
+          "end": 3.936
+        },
+        {
+          "word": "important",
+          "start": 3.994,
+          "end": 4.563
+        },
+        {
+          "word": "thing.\"",
+          "start": 4.632,
+          "end": 5.016
+        }
+      ]
+    },
+    {
+      "text": "All through our neighborhood, families stepped outside and looked at each other with tired, hopeful eyes.",
+      "image": "page-06.webp",
+      "bg": "#F3E5F5",
+      "accent": "#7B1FA2",
+      "audio": "page-06.mp3",
+      "timestamps": [
+        {
+          "word": "All",
+          "start": 0.023,
+          "end": 0.221
+        },
+        {
+          "word": "through",
+          "start": 0.313,
+          "end": 0.708
+        },
+        {
+          "word": "our",
+          "start": 0.836,
+          "end": 1.08
+        },
+        {
+          "word": "neighborhood,",
+          "start": 1.173,
+          "end": 1.916
+        },
+        {
+          "word": "families",
+          "start": 2.032,
+          "end": 2.589
+        },
+        {
+          "word": "stepped",
+          "start": 2.659,
+          "end": 3.065
+        },
+        {
+          "word": "outside",
+          "start": 3.111,
+          "end": 3.75
+        },
+        {
+          "word": "and",
+          "start": 3.796,
+          "end": 3.901
+        },
+        {
+          "word": "looked",
+          "start": 4.017,
+          "end": 4.331
+        },
+        {
+          "word": "at",
+          "start": 4.377,
+          "end": 4.447
+        },
+        {
+          "word": "each",
+          "start": 4.493,
+          "end": 4.667
+        },
+        {
+          "word": "other",
+          "start": 4.737,
+          "end": 4.969
+        },
+        {
+          "word": "with",
+          "start": 5.039,
+          "end": 5.213
+        },
+        {
+          "word": "tired,",
+          "start": 5.294,
+          "end": 5.968
+        },
+        {
+          "word": "hopeful",
+          "start": 6.026,
+          "end": 6.525
+        },
+        {
+          "word": "eyes.",
+          "start": 6.618,
+          "end": 7.187
+        }
+      ]
+    },
+    {
+      "text": "Papá and our neighbor Tío René picked up their machetes and began to clear the fallen tree together.",
+      "image": "page-07.webp",
+      "bg": "#E8F5E9",
+      "accent": "#2E7D32",
+      "audio": "page-07.mp3",
+      "timestamps": [
+        {
+          "word": "Papá",
+          "start": 0.058,
+          "end": 0.58
+        },
+        {
+          "word": "and",
+          "start": 0.697,
+          "end": 0.871
+        },
+        {
+          "word": "our",
+          "start": 0.964,
+          "end": 1.173
+        },
+        {
+          "word": "neighbor",
+          "start": 1.242,
+          "end": 1.602
+        },
+        {
+          "word": "Tío",
+          "start": 1.718,
+          "end": 2.078
+        },
+        {
+          "word": "René",
+          "start": 2.194,
+          "end": 2.682
+        },
+        {
+          "word": "picked",
+          "start": 2.833,
+          "end": 3.146
+        },
+        {
+          "word": "up",
+          "start": 3.193,
+          "end": 3.309
+        },
+        {
+          "word": "their",
+          "start": 3.379,
+          "end": 3.553
+        },
+        {
+          "word": "machetes",
+          "start": 3.611,
+          "end": 4.249
+        },
+        {
+          "word": "and",
+          "start": 4.307,
+          "end": 4.423
+        },
+        {
+          "word": "began",
+          "start": 4.481,
+          "end": 4.946
+        },
+        {
+          "word": "to",
+          "start": 5.027,
+          "end": 5.132
+        },
+        {
+          "word": "clear",
+          "start": 5.248,
+          "end": 5.712
+        },
+        {
+          "word": "the",
+          "start": 5.863,
+          "end": 5.968
+        },
+        {
+          "word": "fallen",
+          "start": 6.037,
+          "end": 6.409
+        },
+        {
+          "word": "tree",
+          "start": 6.455,
+          "end": 6.792
+        },
+        {
+          "word": "together.",
+          "start": 6.861,
+          "end": 7.396
+        }
+      ]
+    },
+    {
+      "text": "Mamá filled a big pot with rice and beans and carried it to the street for everyone to share.",
+      "image": "page-08.webp",
+      "bg": "#FFF9C4",
+      "accent": "#F9A825",
+      "audio": "page-08.mp3",
+      "timestamps": [
+        {
+          "word": "Mamá",
+          "start": 0.058,
+          "end": 0.464
+        },
+        {
+          "word": "filled",
+          "start": 0.615,
+          "end": 1.057
+        },
+        {
+          "word": "a",
+          "start": 1.103,
+          "end": 1.138
+        },
+        {
+          "word": "big",
+          "start": 1.254,
+          "end": 1.521
+        },
+        {
+          "word": "pot",
+          "start": 1.637,
+          "end": 2.009
+        },
+        {
+          "word": "with",
+          "start": 2.078,
+          "end": 2.276
+        },
+        {
+          "word": "rice",
+          "start": 2.357,
+          "end": 2.752
+        },
+        {
+          "word": "and",
+          "start": 2.798,
+          "end": 2.914
+        },
+        {
+          "word": "beans",
+          "start": 3.03,
+          "end": 3.564
+        },
+        {
+          "word": "and",
+          "start": 3.611,
+          "end": 3.727
+        },
+        {
+          "word": "carried",
+          "start": 3.808,
+          "end": 4.214
+        },
+        {
+          "word": "it",
+          "start": 4.249,
+          "end": 4.331
+        },
+        {
+          "word": "to",
+          "start": 4.377,
+          "end": 4.447
+        },
+        {
+          "word": "the",
+          "start": 4.528,
+          "end": 4.598
+        },
+        {
+          "word": "street",
+          "start": 4.656,
+          "end": 4.992
+        },
+        {
+          "word": "for",
+          "start": 5.062,
+          "end": 5.19
+        },
+        {
+          "word": "everyone",
+          "start": 5.259,
+          "end": 5.7
+        },
+        {
+          "word": "to",
+          "start": 5.735,
+          "end": 5.805
+        },
+        {
+          "word": "share.",
+          "start": 5.875,
+          "end": 6.211
+        }
+      ]
+    },
+    {
+      "text": "The children on our block passed cups of cold water to the grown-ups working hard in the hot sun.",
+      "image": "page-09.webp",
+      "bg": "#E3F2FD",
+      "accent": "#1565C0",
+      "audio": "page-09.mp3",
+      "timestamps": [
+        {
+          "word": "The",
+          "start": 0.058,
+          "end": 0.163
+        },
+        {
+          "word": "children",
+          "start": 0.221,
+          "end": 0.627
+        },
+        {
+          "word": "on",
+          "start": 0.685,
+          "end": 0.789
+        },
+        {
+          "word": "our",
+          "start": 0.836,
+          "end": 0.964
+        },
+        {
+          "word": "block",
+          "start": 1.022,
+          "end": 1.405
+        },
+        {
+          "word": "passed",
+          "start": 1.556,
+          "end": 2.067
+        },
+        {
+          "word": "cups",
+          "start": 2.183,
+          "end": 2.543
+        },
+        {
+          "word": "of",
+          "start": 2.589,
+          "end": 2.659
+        },
+        {
+          "word": "cold",
+          "start": 2.752,
+          "end": 3.053
+        },
+        {
+          "word": "water",
+          "start": 3.135,
+          "end": 3.541
+        },
+        {
+          "word": "to",
+          "start": 3.657,
+          "end": 3.785
+        },
+        {
+          "word": "the",
+          "start": 3.866,
+          "end": 3.936
+        },
+        {
+          "word": "grown-ups",
+          "start": 4.017,
+          "end": 4.644
+        },
+        {
+          "word": "working",
+          "start": 4.725,
+          "end": 5.143
+        },
+        {
+          "word": "hard",
+          "start": 5.259,
+          "end": 5.793
+        },
+        {
+          "word": "in",
+          "start": 5.909,
+          "end": 6.049
+        },
+        {
+          "word": "the",
+          "start": 6.107,
+          "end": 6.177
+        },
+        {
+          "word": "hot",
+          "start": 6.246,
+          "end": 6.478
+        },
+        {
+          "word": "sun.",
+          "start": 6.594,
+          "end": 7.024
+        }
+      ]
+    },
+    {
+      "text": "By afternoon, a long line of neighbors climbed up onto Doña Carmen's roof with hammers and new wood.",
+      "image": "page-10.webp",
+      "bg": "#FBE9E7",
+      "accent": "#BF360C",
+      "audio": "page-10.mp3",
+      "timestamps": [
+        {
+          "word": "By",
+          "start": 0.046,
+          "end": 0.232
+        },
+        {
+          "word": "afternoon,",
+          "start": 0.302,
+          "end": 1.173
+        },
+        {
+          "word": "a",
+          "start": 1.254,
+          "end": 1.335
+        },
+        {
+          "word": "long",
+          "start": 1.451,
+          "end": 1.869
+        },
+        {
+          "word": "line",
+          "start": 1.985,
+          "end": 2.368
+        },
+        {
+          "word": "of",
+          "start": 2.403,
+          "end": 2.473
+        },
+        {
+          "word": "neighbors",
+          "start": 2.589,
+          "end": 3.181
+        },
+        {
+          "word": "climbed",
+          "start": 3.332,
+          "end": 3.901
+        },
+        {
+          "word": "up",
+          "start": 3.982,
+          "end": 4.133
+        },
+        {
+          "word": "onto",
+          "start": 4.214,
+          "end": 4.772
+        },
+        {
+          "word": "Doña",
+          "start": 4.946,
+          "end": 5.422
+        },
+        {
+          "word": "Carmen's",
+          "start": 5.503,
+          "end": 6.014
+        },
+        {
+          "word": "roof",
+          "start": 6.084,
+          "end": 6.444
+        },
+        {
+          "word": "with",
+          "start": 6.618,
+          "end": 6.827
+        },
+        {
+          "word": "hammers",
+          "start": 6.908,
+          "end": 7.593
+        },
+        {
+          "word": "and",
+          "start": 7.686,
+          "end": 7.872
+        },
+        {
+          "word": "new",
+          "start": 7.988,
+          "end": 8.231
+        },
+        {
+          "word": "wood.",
+          "start": 8.313,
+          "end": 8.766
+        }
+      ]
+    },
+    {
+      "text": "I watched strong hands lifting, building, and fixing, and I felt something warm growing inside my chest.",
+      "image": "page-11.webp",
+      "bg": "#F9FBE7",
+      "accent": "#558B2F",
+      "audio": "page-11.mp3",
+      "timestamps": [
+        {
+          "word": "I",
+          "start": 0.058,
+          "end": 0.081
+        },
+        {
+          "word": "watched",
+          "start": 0.174,
+          "end": 0.511
+        },
+        {
+          "word": "strong",
+          "start": 0.592,
+          "end": 1.196
+        },
+        {
+          "word": "hands",
+          "start": 1.312,
+          "end": 1.834
+        },
+        {
+          "word": "lifting,",
+          "start": 2.009,
+          "end": 2.752
+        },
+        {
+          "word": "building,",
+          "start": 2.868,
+          "end": 3.553
+        },
+        {
+          "word": "and",
+          "start": 3.576,
+          "end": 3.738
+        },
+        {
+          "word": "fixing,",
+          "start": 3.855,
+          "end": 4.458
+        },
+        {
+          "word": "and",
+          "start": 4.493,
+          "end": 4.609
+        },
+        {
+          "word": "I",
+          "start": 4.667,
+          "end": 4.69
+        },
+        {
+          "word": "felt",
+          "start": 4.76,
+          "end": 4.957
+        },
+        {
+          "word": "something",
+          "start": 5.016,
+          "end": 5.375
+        },
+        {
+          "word": "warm",
+          "start": 5.55,
+          "end": 6.095
+        },
+        {
+          "word": "growing",
+          "start": 6.269,
+          "end": 6.676
+        },
+        {
+          "word": "inside",
+          "start": 6.734,
+          "end": 7.129
+        },
+        {
+          "word": "my",
+          "start": 7.175,
+          "end": 7.279
+        },
+        {
+          "word": "chest.",
+          "start": 7.361,
+          "end": 7.872
+        }
+      ]
+    },
+    {
+      "text": "Three days later, Doña Carmen had a new roof, and every street on our block was clean and clear.",
+      "image": "page-12.webp",
+      "bg": "#E0F7FA",
+      "accent": "#00838F",
+      "audio": "page-12.mp3",
+      "timestamps": [
+        {
+          "word": "Three",
+          "start": 0.058,
+          "end": 0.267
+        },
+        {
+          "word": "days",
+          "start": 0.313,
+          "end": 0.511
+        },
+        {
+          "word": "later,",
+          "start": 0.592,
+          "end": 0.987
+        },
+        {
+          "word": "Doña",
+          "start": 1.033,
+          "end": 1.358
+        },
+        {
+          "word": "Carmen",
+          "start": 1.416,
+          "end": 1.869
+        },
+        {
+          "word": "had",
+          "start": 1.962,
+          "end": 2.345
+        },
+        {
+          "word": "a",
+          "start": 2.461,
+          "end": 2.67
+        },
+        {
+          "word": "new",
+          "start": 2.879,
+          "end": 3.158
+        },
+        {
+          "word": "roof,",
+          "start": 3.274,
+          "end": 3.796
+        },
+        {
+          "word": "and",
+          "start": 3.831,
+          "end": 3.971
+        },
+        {
+          "word": "every",
+          "start": 4.087,
+          "end": 4.458
+        },
+        {
+          "word": "street",
+          "start": 4.574,
+          "end": 5.027
+        },
+        {
+          "word": "on",
+          "start": 5.12,
+          "end": 5.283
+        },
+        {
+          "word": "our",
+          "start": 5.341,
+          "end": 5.468
+        },
+        {
+          "word": "block",
+          "start": 5.538,
+          "end": 5.921
+        },
+        {
+          "word": "was",
+          "start": 5.991,
+          "end": 6.142
+        },
+        {
+          "word": "clean",
+          "start": 6.258,
+          "end": 6.78
+        },
+        {
+          "word": "and",
+          "start": 6.896,
+          "end": 7.082
+        },
+        {
+          "word": "clear.",
+          "start": 7.198,
+          "end": 7.732
+        }
+      ]
+    },
+    {
+      "text": "Standing under the blue sky, I knew that no storm could ever blow away the love of our community.",
+      "image": "page-13.webp",
+      "bg": "#E8EAF6",
+      "accent": "#283593",
+      "audio": "page-13.mp3",
+      "timestamps": [
+        {
+          "word": "Standing",
+          "start": 0.035,
+          "end": 0.685
+        },
+        {
+          "word": "under",
+          "start": 0.859,
+          "end": 1.184
+        },
+        {
+          "word": "the",
+          "start": 1.265,
+          "end": 1.347
+        },
+        {
+          "word": "blue",
+          "start": 1.463,
+          "end": 1.811
+        },
+        {
+          "word": "sky,",
+          "start": 1.858,
+          "end": 2.508
+        },
+        {
+          "word": "I",
+          "start": 2.659,
+          "end": 2.728
+        },
+        {
+          "word": "knew",
+          "start": 2.844,
+          "end": 3.1
+        },
+        {
+          "word": "that",
+          "start": 3.181,
+          "end": 3.355
+        },
+        {
+          "word": "no",
+          "start": 3.448,
+          "end": 3.692
+        },
+        {
+          "word": "storm",
+          "start": 3.808,
+          "end": 4.272
+        },
+        {
+          "word": "could",
+          "start": 4.342,
+          "end": 4.528
+        },
+        {
+          "word": "ever",
+          "start": 4.644,
+          "end": 4.992
+        },
+        {
+          "word": "blow",
+          "start": 5.108,
+          "end": 5.433
+        },
+        {
+          "word": "away",
+          "start": 5.526,
+          "end": 5.968
+        },
+        {
+          "word": "the",
+          "start": 6.118,
+          "end": 6.269
+        },
+        {
+          "word": "love",
+          "start": 6.385,
+          "end": 6.873
+        },
+        {
+          "word": "of",
+          "start": 6.943,
+          "end": 7.082
+        },
+        {
+          "word": "our",
+          "start": 7.152,
+          "end": 7.291
+        },
+        {
+          "word": "community.",
+          "start": 7.361,
+          "end": 8.034
+        }
+      ]
+    }
+  ]
+}

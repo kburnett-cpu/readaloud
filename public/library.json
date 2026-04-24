@@ -452,6 +452,104 @@
         "goliath"
       ],
       "narrator": "Kirk"
+    },
+    {
+      "id": "ruth-and-naomi",
+      "title": "Ruth and Naomi",
+      "author": "Hope Academy",
+      "cover": "stories/ruth-and-naomi/cover.jpg",
+      "pages": 14,
+      "featured": false,
+      "gradeLevel": "1st",
+      "readingLevel": "C",
+      "lexile": "11L",
+      "tags": [
+        "bible",
+        "ruth",
+        "naomi",
+        "loyalty",
+        "faith",
+        "family"
+      ],
+      "narrator": "Kirk"
+    },
+    {
+      "id": "the-island-after-the-storm",
+      "title": "The Island After the Storm",
+      "author": "Hope Academy",
+      "cover": "stories/the-island-after-the-storm/cover.jpg",
+      "pages": 13,
+      "featured": false,
+      "gradeLevel": "3rd",
+      "readingLevel": "E",
+      "lexile": "102L",
+      "tags": [
+        "hurricane",
+        "community",
+        "resilience",
+        "caribbean",
+        "nature",
+        "family"
+      ],
+      "narrator": "Kirk"
+    },
+    {
+      "id": "the-boy-who-found-the-wallet",
+      "title": "The Boy Who Found the Wallet",
+      "author": "Hope Academy",
+      "cover": "stories/the-boy-who-found-the-wallet/cover.jpg",
+      "pages": 13,
+      "featured": false,
+      "gradeLevel": "3rd",
+      "readingLevel": "E",
+      "lexile": "122L",
+      "tags": [
+        "integrity",
+        "character",
+        "empathy",
+        "choices",
+        "kindness"
+      ],
+      "narrator": "Kirk"
+    },
+    {
+      "id": "katherines-numbers",
+      "title": "Katherine's Numbers",
+      "author": "Hope Academy",
+      "cover": "stories/katherines-numbers/cover.jpg",
+      "pages": 13,
+      "featured": false,
+      "gradeLevel": "1st",
+      "readingLevel": "C",
+      "lexile": "14L",
+      "tags": [
+        "science",
+        "math",
+        "biography",
+        "nasa",
+        "perseverance",
+        "girls-in-stem"
+      ],
+      "narrator": "Kirk"
+    },
+    {
+      "id": "the-last-old-tree",
+      "title": "The Last Old Tree",
+      "author": "Hope Academy",
+      "cover": "stories/the-last-old-tree/cover.jpg",
+      "pages": 13,
+      "featured": false,
+      "gradeLevel": "2nd",
+      "readingLevel": "D",
+      "lexile": "73L",
+      "tags": [
+        "environment",
+        "community",
+        "advocacy",
+        "history",
+        "nature"
+      ],
+      "narrator": "Kirk"
     }
   ]
 }

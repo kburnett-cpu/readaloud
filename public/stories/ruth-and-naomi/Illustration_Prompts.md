@@ -1,0 +1,77 @@
+# Illustration Prompt Guide: Ruth and Naomi
+
+## Master Style
+
+MASTER STYLE: Vibrant, warm children's book illustration in soft digital painting style. Clean outlines with rich saturated colors. Main characters: Naomi, a warm brown-skinned Dominican woman in her 60s with silver-streaked black hair pulled back in a loose bun, wearing a floral housedress in faded rose and gold; Ruth, a warm brown-skinned Dominican woman in her late 20s with thick black hair in two braids, wearing a bright teal blouse and a long coral skirt; Orpah, a warm brown-skinned Dominican woman in her late 20s with curly black hair worn loose, wearing a yellow and white sundress. Biblical Bethlehem scenes rendered with Caribbean warmth — sandy paths, golden wheat fields, terracotta buildings draped in bougainvillea. Dominican Republic scenes feature colorful painted wooden homes in turquoise, yellow, and pink, surrounded by palm trees, tropical flowers, and red hibiscus. Lighting is warm golden-hour sunlight. Faces are expressive, kind, and emotionally rich. 16:9 landscape format.
+
+## Page Prompts
+
+### Page 1 — `page-01.webp`
+> Naomi lived far from home with her husband and two sons.
+
+A cozy Caribbean-style village scene at golden hour. Naomi, a warm brown-skinned Dominican woman in her 60s with silver-streaked black hair in a loose bun and a faded rose-and-gold floral housedress, stands in the doorway of a colorful turquoise painted wooden home surrounded by palm trees and red hibiscus. Beside her stands her husband, a warm brown-skinned older man with gray at his temples and a wide smile, and two young boys playing in the dusty yard. The mood is warm, nostalgic, and gentle — a family far from home but full of life. Children's book illustration, 16:9 landscape.
+
+### Page 2 — `page-02.webp`
+> Her sons grew up and married two women named Ruth and Orpah.
+
+A joyful outdoor scene in a sunny Caribbean yard bursting with tropical flowers. Naomi, in her rose-and-gold floral housedress with silver-streaked hair in a bun, beams with joy as she stands between two young brides. Ruth, in her bright teal blouse and coral skirt with thick black hair in two braids, laughs warmly on Naomi's left. Orpah, in a yellow-and-white sundress with loose curly black hair, smiles shyly on Naomi's right. Two handsome young men — Naomi's sons — stand proudly beside their new wives under strings of colorful paper lanterns. The mood is celebratory, vibrant, and full of love. Children's book illustration, 16:9 landscape.
+
+### Page 3 — `page-03.webp`
+> Then something very sad happened — all three husbands died.
+
+A quiet, heartbreaking interior scene inside the colorful turquoise Caribbean home, now dimly lit with shadows. Three empty chairs sit at a simple wooden table set with untouched plates. Naomi, in her rose-and-gold floral housedress, sits hunched at the table with her face in her hands, her silver-streaked hair loose and disheveled. Ruth in her teal blouse and coral skirt and Orpah in her yellow sundress sit nearby, their heads bowed in grief. A single candle flickers on the table. The mood is heavy, tender, and sorrowful without being frightening. Children's book illustration, 16:9 landscape.
+
+### Page 4 — `page-04.webp`
+> Naomi held Ruth and Orpah close and wept with them.
+
+A deeply emotional scene on the front porch of the colorful turquoise Caribbean home at dusk with soft amber light. Naomi, in her rose-and-gold floral housedress with silver-streaked hair, sits on the porch steps with her arms wrapped tightly around Ruth and Orpah, pulling them both close. All three women are crying together, their faces pressed close, tears on their brown cheeks. Tropical vines and hibiscus flowers frame the porch. The mood is one of shared grief and profound love — sorrowful but deeply tender. Children's book illustration, 16:9 landscape.
+
+### Page 5 — `page-05.webp`
+> "Go back to your mothers," Naomi said softly, "and find a new life."
+
+A dusty Caribbean road at sunrise lined with swaying palm trees and colorful painted homes. Naomi, in her rose-and-gold floral housedress with silver-streaked hair in a bun, stands facing Ruth and Orpah with a gentle, pained expression, her hands resting softly on their shoulders. Her eyes are red from crying but her face shows quiet, selfless love. Ruth, in her teal blouse and coral skirt with black braids, looks up at Naomi with wide tearful eyes. Orpah, in her yellow sundress, holds Naomi's sleeve with a trembling hand. The mood is bittersweet and tender, full of difficult love. Children's book illustration, 16:9 landscape.
+
+### Page 6 — `page-06.webp`
+> Orpah kissed Naomi goodbye and walked back down the road.
+
+A long, dusty road winding through a tropical Caribbean landscape at soft morning light. Orpah, in her yellow-and-white sundress with loose curly black hair, walks slowly away down the road, looking back over her shoulder with tears streaming down her face and one hand raised in a small, heartbroken goodbye wave. In the near distance behind her, Naomi in her rose-and-gold floral housedress watches with a sorrowful but understanding expression. The road is lined with palm trees and wildflowers. The mood is bittersweet, lonely, and achingly gentle. Children's book illustration, 16:9 landscape.
+
+### Page 7 — `page-07.webp`
+> But Ruth held Naomi's hand and would not let go.
+
+A close, intimate scene on a sandy path bordered by tall tropical grasses and colorful wildflowers. Ruth, in her bright teal blouse and coral skirt with thick black braids, grips Naomi's weathered hand tightly with both of hers, refusing to let go. Naomi, in her rose-and-gold floral housedress with silver-streaked hair, looks down at Ruth with wide, glistening eyes full of surprise and deep emotion. Ruth's jaw is set with quiet determination, her dark eyes steady and resolute. The mood is fierce, tender, and profoundly moving. Children's book illustration, 16:9 landscape.
+
+### Page 8 — `page-08.webp`
+> "Where you go, I will go," Ruth said, "and your people will be my people."
+
+A golden-lit outdoor scene on a wide open path surrounded by warm Caribbean light and swaying grasses. Ruth, in her bright teal blouse and coral skirt with thick black braids, faces Naomi with her chin lifted and her hands still holding Naomi's. Her expression is radiant with conviction and love. Naomi, in her rose-and-gold floral housedress, has tears rolling down her cheeks and a look of wonder on her face. Golden light falls across both women like a warm embrace. The mood is solemn, beautiful, and full of unbreakable devotion. Children's book illustration, 16:9 landscape.
+
+### Page 9 — `page-09.webp`
+> Together, the two women walked all the way to Bethlehem.
+
+A sweeping landscape scene of two women walking together along a long dusty road that winds toward a distant golden city with terracotta rooftops and rolling wheat hills. Naomi, in her rose-and-gold floral housedress with silver-streaked hair, walks slowly with a travel bundle on her back, her posture tired but resolute. Ruth, in her teal blouse and coral skirt with black braids, walks close beside her, one arm gently linked through Naomi's for support. The sky above is a warm peach and lavender of late afternoon. The mood is hopeful, determined, and quietly brave. Children's book illustration, 16:9 landscape.
+
+### Page 10 — `page-10.webp`
+> Ruth went out to the fields every day and gathered leftover grain to eat.
+
+A bright, sunlit wheat field under a wide blue sky with golden stalks swaying in a warm breeze. Ruth, in her teal blouse and coral skirt with thick black braids tied back with a cloth, is bent low gathering fallen stalks of golden grain from the ground with careful, hardworking hands. Her brow glistens with sweat and her expression is focused and strong. Other workers move in the background as the sun blazes overhead. A small woven basket beside her is already filling with grain. The mood is industrious, dignified, and quietly heroic. Children's book illustration, 16:9 landscape.
+
+### Page 11 — `page-11.webp`
+> A kind man named Boaz saw Ruth working hard in the hot sun.
+
+A golden wheat field glowing in warm afternoon sun. Boaz, a broad-shouldered warm brown-skinned man in his 40s with a short dark beard, a cream-colored linen tunic, and a wide-brimmed hat, stands at the edge of the field watching Ruth with a look of quiet admiration. Ruth, in her teal blouse and coral skirt with black braids, works tirelessly in the field ahead of him, unaware she is being watched. Boaz's expression is kind, thoughtful, and deeply respectful. Other field workers pause in the background. The mood is warm, reverent, and full of quiet recognition. Children's book illustration, 16:9 landscape.
+
+### Page 12 — `page-12.webp`
+> "She never stops," he said quietly, "she is loyal and she is strong."
+
+A close-up scene at the edge of the golden wheat field in warm late-afternoon light. Boaz, the broad-shouldered warm brown-skinned man in his cream linen tunic and wide-brimmed hat, speaks quietly to a trusted worker beside him — a stocky older man with a sun-worn face — gesturing toward Ruth in the field. Boaz's face is soft with sincere admiration, his words spoken like a private treasure. The field glows gold behind them. The mood is hushed, respectful, and full of wonder at Ruth's quiet strength. Children's book illustration, 16:9 landscape.
+
+### Page 13 — `page-13.webp`
+> Boaz gave Ruth extra grain and made sure she was safe.
+
+A warm, gentle scene at the edge of the golden wheat field as the sun begins to lower. Boaz, the broad-shouldered warm brown-skinned man in his cream linen tunic, stands before Ruth and gestures warmly toward a large pile of extra grain beside him, his expression open and generous. Ruth, in her teal blouse and coral skirt with black braids, looks up at him with a surprised and grateful expression, her hands pressed gently to her heart. Several other field workers in the background smile knowingly. The mood is generous, kind, and filled with unexpected grace. Children's book illustration, 16:9 landscape.
+
+### Page 14 — `page-14.webp`
+> Ruth ran home to Naomi, her arms full and her heart full too.
+
+A joyful, glowing scene at the doorway of a small terracotta home in a warm Bethlehem-style village at sunset. Ruth, in her teal blouse and coral skirt with black braids flying loose from exertion, rushes through the doorway with both arms overflowing with bundled golden grain, a radiant smile lighting up her face. Naomi, in her rose-and-gold floral housedress with silver-streaked hair, stands just inside, her hands raised to her cheeks in joyful disbelief, her eyes shining with tears of relief and happiness. Warm amber and rose light spills through the door. The mood is jubilant, tender, and overflowing with love and gratitude. Children's book illustration, 16:9 landscape.
