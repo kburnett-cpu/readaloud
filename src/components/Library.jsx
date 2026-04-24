@@ -31,9 +31,12 @@ const LABELS = {
 
 // Grade filter options — label maps to gradeLevel values in library.json
 const GRADE_FILTERS = [
-  { key: "all",    label: { en: "All",     es: "Todos" } },
-  { key: "PreK",   label: { en: "PreK",    es: "Prek"  } },
-  { key: "Grade2", label: { en: "Grade 2", es: "Grado 2" } },
+  { key: "all",  label: { en: "All",     es: "Todos"   } },
+  { key: "PreK", label: { en: "PreK",    es: "Prek"    } },
+  { key: "K",    label: { en: "Kinder",  es: "Kinder"  } },
+  { key: "1st",  label: { en: "Grade 1", es: "Grado 1" } },
+  { key: "2nd",  label: { en: "Grade 2", es: "Grado 2" } },
+  { key: "3rd",  label: { en: "Grade 3", es: "Grado 3" } },
 ];
 
 export default function Library({ onSelectStory, completedStories = [], readingProgress = {}, lang, onToggleLang }) {
@@ -212,10 +215,7 @@ function BookCard({ story, thisWeekLabel, isCompleted, onSelect }) {
       {/* Title */}
       <div style={styles.cardTitle}>{story.title}</div>
 
-      {/* Reading level badge */}
-      {story.readingLevel && (
-        <div style={styles.levelBadge}>{story.readingLevel}</div>
-      )}
+
     </div>
   );
 }

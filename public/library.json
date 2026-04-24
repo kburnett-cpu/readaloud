@@ -9,8 +9,11 @@
       "featured": true,
       "gradeLevel": "PreK",
       "readingLevel": "Pre-A",
-      "lexile": "BR100L",
-      "tags": ["animals", "friendship"],
+      "lexile": "BR170L",
+      "tags": [
+        "animals",
+        "friendship"
+      ],
       "narrator": "Kirk"
     },
     {
@@ -22,8 +25,11 @@
       "featured": false,
       "gradeLevel": "PreK",
       "readingLevel": "Pre-A",
-      "lexile": "BR50L",
-      "tags": ["numbers", "counting"],
+      "lexile": "BR175L",
+      "tags": [
+        "numbers",
+        "counting"
+      ],
       "narrator": "Kirk"
     },
     {
@@ -33,10 +39,13 @@
       "cover": "stories/colors-all-around/cover.jpg",
       "pages": 12,
       "featured": false,
-      "gradeLevel": "PreK",
-      "readingLevel": "Pre-A",
-      "lexile": "BR50L",
-      "tags": ["colors", "observation"],
+      "gradeLevel": "K",
+      "readingLevel": "A",
+      "lexile": "BR110L",
+      "tags": [
+        "colors",
+        "observation"
+      ],
       "narrator": "Kirk"
     },
     {
@@ -48,8 +57,11 @@
       "featured": false,
       "gradeLevel": "PreK",
       "readingLevel": "Pre-A",
-      "lexile": "BR80L",
-      "tags": ["family", "love"],
+      "lexile": "BR190L",
+      "tags": [
+        "family",
+        "love"
+      ],
       "narrator": "Kirk"
     },
     {
@@ -60,9 +72,13 @@
       "pages": 15,
       "featured": false,
       "gradeLevel": "PreK",
-      "readingLevel": "A",
-      "lexile": "BR120L",
-      "tags": ["teamwork", "animals", "food"],
+      "readingLevel": "Pre-A",
+      "lexile": "BR165L",
+      "tags": [
+        "teamwork",
+        "animals",
+        "food"
+      ],
       "narrator": "Kirk"
     },
     {
@@ -74,8 +90,11 @@
       "featured": false,
       "gradeLevel": "PreK",
       "readingLevel": "Pre-A",
-      "lexile": "BR90L",
-      "tags": ["school", "routine"],
+      "lexile": "BR175L",
+      "tags": [
+        "school",
+        "routine"
+      ],
       "narrator": "Kirk"
     },
     {
@@ -87,8 +106,12 @@
       "featured": false,
       "gradeLevel": "PreK",
       "readingLevel": "Pre-A",
-      "lexile": "BR80L",
-      "tags": ["beach", "nature", "senses"],
+      "lexile": "BR170L",
+      "tags": [
+        "beach",
+        "nature",
+        "senses"
+      ],
       "narrator": "Kirk"
     },
     {
@@ -98,10 +121,13 @@
       "cover": "stories/the-three-little-pigs/cover.jpg",
       "pages": 14,
       "featured": false,
-      "gradeLevel": "PreK",
+      "gradeLevel": "K",
       "readingLevel": "A",
-      "lexile": "BR110L",
-      "tags": ["animals", "problem-solving"],
+      "lexile": "BR100L",
+      "tags": [
+        "animals",
+        "problem-solving"
+      ],
       "narrator": "Kirk"
     },
     {
@@ -113,8 +139,11 @@
       "featured": false,
       "gradeLevel": "PreK",
       "readingLevel": "Pre-A",
-      "lexile": "BR60L",
-      "tags": ["bedtime", "nature"],
+      "lexile": "BR200L",
+      "tags": [
+        "bedtime",
+        "nature"
+      ],
       "narrator": "Kirk"
     },
     {
@@ -126,8 +155,11 @@
       "featured": false,
       "gradeLevel": "PreK",
       "readingLevel": "Pre-A",
-      "lexile": "BR70L",
-      "tags": ["confidence", "action-verbs"],
+      "lexile": "BR185L",
+      "tags": [
+        "confidence",
+        "action-verbs"
+      ],
       "narrator": "Kirk"
     },
     {
@@ -137,10 +169,15 @@
       "cover": "stories/tito-the-baby-turtle/cover.jpg",
       "pages": 12,
       "featured": false,
-      "gradeLevel": "PreK",
-      "readingLevel": "Pre-A",
-      "lexile": "BR90L",
-      "tags": ["animals", "nature", "courage", "beach"],
+      "gradeLevel": "1st",
+      "readingLevel": "B",
+      "lexile": "BR60L",
+      "tags": [
+        "animals",
+        "nature",
+        "courage",
+        "beach"
+      ],
       "narrator": "Kirk"
     },
     {
@@ -150,10 +187,14 @@
       "cover": "stories/the-mango-tree/cover.jpg",
       "pages": 12,
       "featured": false,
-      "gradeLevel": "PreK",
-      "readingLevel": "Pre-A",
-      "lexile": "BR90L",
-      "tags": ["family", "food", "nature"],
+      "gradeLevel": "1st",
+      "readingLevel": "B",
+      "lexile": "BR65L",
+      "tags": [
+        "family",
+        "food",
+        "nature"
+      ],
       "narrator": "Kirk"
     },
     {
@@ -163,10 +204,14 @@
       "cover": "stories/the-big-storm/cover.jpg",
       "pages": 14,
       "featured": false,
-      "gradeLevel": "PreK",
-      "readingLevel": "A",
-      "lexile": "BR120L",
-      "tags": ["weather", "family", "nature"],
+      "gradeLevel": "1st",
+      "readingLevel": "C",
+      "lexile": "20L",
+      "tags": [
+        "weather",
+        "family",
+        "nature"
+      ],
       "narrator": "Kirk"
     },
     {
@@ -176,10 +221,14 @@
       "cover": "stories/abuelas-kitchen/cover.jpg",
       "pages": 13,
       "featured": false,
-      "gradeLevel": "PreK",
-      "readingLevel": "A",
-      "lexile": "BR120L",
-      "tags": ["family", "food", "culture"],
+      "gradeLevel": "1st",
+      "readingLevel": "C",
+      "lexile": "20L",
+      "tags": [
+        "family",
+        "food",
+        "culture"
+      ],
       "narrator": "Kirk"
     },
     {
@@ -189,10 +238,16 @@
       "cover": "stories/jesus-feeds-5000/cover.jpg",
       "pages": 11,
       "featured": true,
-      "gradeLevel": "Grade2",
-      "readingLevel": "D",
-      "lexile": "510L",
-      "tags": ["bible", "jesus", "miracles", "faith", "sharing"],
+      "gradeLevel": "K",
+      "readingLevel": "A",
+      "lexile": "BR100L",
+      "tags": [
+        "bible",
+        "jesus",
+        "miracles",
+        "faith",
+        "sharing"
+      ],
       "narrator": "Kirk"
     },
     {
@@ -202,10 +257,16 @@
       "cover": "stories/jesus-heals-blind-man/cover.jpg",
       "pages": 11,
       "featured": false,
-      "gradeLevel": "Grade2",
-      "readingLevel": "D",
-      "lexile": "510L",
-      "tags": ["bible", "jesus", "miracles", "healing", "faith"],
+      "gradeLevel": "K",
+      "readingLevel": "A",
+      "lexile": "BR120L",
+      "tags": [
+        "bible",
+        "jesus",
+        "miracles",
+        "healing",
+        "faith"
+      ],
       "narrator": "Kirk"
     },
     {
@@ -215,10 +276,16 @@
       "cover": "stories/the-lost-sheep/cover.jpg",
       "pages": 11,
       "featured": false,
-      "gradeLevel": "Grade2",
-      "readingLevel": "D",
-      "lexile": "510L",
-      "tags": ["bible", "jesus", "parable", "love", "faith"],
+      "gradeLevel": "K",
+      "readingLevel": "A",
+      "lexile": "BR105L",
+      "tags": [
+        "bible",
+        "jesus",
+        "parable",
+        "love",
+        "faith"
+      ],
       "narrator": "Kirk"
     },
     {
@@ -228,10 +295,16 @@
       "cover": "stories/lazarus-rises/cover.jpg",
       "pages": 11,
       "featured": false,
-      "gradeLevel": "Grade2",
-      "readingLevel": "D",
-      "lexile": "510L",
-      "tags": ["bible", "jesus", "miracles", "power", "faith"],
+      "gradeLevel": "K",
+      "readingLevel": "A",
+      "lexile": "BR105L",
+      "tags": [
+        "bible",
+        "jesus",
+        "miracles",
+        "power",
+        "faith"
+      ],
       "narrator": "Kirk"
     },
     {
@@ -241,10 +314,16 @@
       "cover": "stories/jesus-walks-water/cover.jpg",
       "pages": 11,
       "featured": false,
-      "gradeLevel": "Grade2",
-      "readingLevel": "D",
-      "lexile": "510L",
-      "tags": ["bible", "jesus", "miracles", "courage", "faith"],
+      "gradeLevel": "K",
+      "readingLevel": "A",
+      "lexile": "BR100L",
+      "tags": [
+        "bible",
+        "jesus",
+        "miracles",
+        "courage",
+        "faith"
+      ],
       "narrator": "Kirk"
     },
     {
@@ -254,10 +333,15 @@
       "cover": "stories/jesus-feeds-five-thousand/cover.jpg",
       "pages": 14,
       "featured": false,
-      "gradeLevel": "PreK",
-      "readingLevel": "A",
-      "lexile": "BR120L",
-      "tags": ["bible", "jesus", "miracles", "faith"],
+      "gradeLevel": "1st",
+      "readingLevel": "C",
+      "lexile": "20L",
+      "tags": [
+        "bible",
+        "jesus",
+        "miracles",
+        "faith"
+      ],
       "narrator": "Kirk"
     },
     {
@@ -267,10 +351,87 @@
       "cover": "stories/jesus-heals-the-lame-man/cover.jpg",
       "pages": 13,
       "featured": false,
-      "gradeLevel": "PreK",
-      "readingLevel": "A",
-      "lexile": "BR120L",
-      "tags": ["bible", "jesus", "miracles", "friendship"],
+      "gradeLevel": "2nd",
+      "readingLevel": "D",
+      "lexile": "70L",
+      "tags": [
+        "bible",
+        "jesus",
+        "miracles",
+        "friendship"
+      ],
+      "narrator": "Kirk"
+    },
+    {
+      "id": "the-new-kid",
+      "title": "The New Kid",
+      "author": "Hope Academy",
+      "cover": "stories/the-new-kid/cover.jpg",
+      "pages": 12,
+      "featured": false,
+      "gradeLevel": "1st",
+      "readingLevel": "C",
+      "lexile": "20L",
+      "tags": [
+        "friendship",
+        "school",
+        "kindness",
+        "courage"
+      ],
+      "narrator": "Kirk"
+    },
+    {
+      "id": "a-butterfly-begins",
+      "title": "A Butterfly Begins",
+      "author": "Hope Academy",
+      "cover": "stories/a-butterfly-begins/cover.jpg",
+      "pages": 12,
+      "featured": false,
+      "gradeLevel": "1st",
+      "readingLevel": "C",
+      "lexile": "15L",
+      "tags": [
+        "nature",
+        "science",
+        "patience",
+        "butterfly"
+      ],
+      "narrator": "Kirk"
+    },
+    {
+      "id": "grandmas-garden",
+      "title": "Grandma's Garden",
+      "author": "Hope Academy",
+      "cover": "stories/grandmas-garden/cover.jpg",
+      "pages": 12,
+      "featured": false,
+      "gradeLevel": "2nd",
+      "readingLevel": "D",
+      "lexile": "90L",
+      "tags": [
+        "family",
+        "garden",
+        "nature",
+        "grandma"
+      ],
+      "narrator": "Kirk"
+    },
+    {
+      "id": "the-broken-kite",
+      "title": "The Broken Kite",
+      "author": "Hope Academy",
+      "cover": "stories/the-broken-kite/cover.jpg",
+      "pages": 13,
+      "featured": false,
+      "gradeLevel": "1st",
+      "readingLevel": "C",
+      "lexile": "20L",
+      "tags": [
+        "friendship",
+        "teamwork",
+        "problem-solving",
+        "kite"
+      ],
       "narrator": "Kirk"
     }
   ]

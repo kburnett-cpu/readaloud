@@ -599,7 +599,7 @@ def main():
     )
     parser.add_argument("--title",          help="Book title (required for new books)")
     parser.add_argument("--id",             help="Book ID slug (auto-derived from title if omitted)")
-    parser.add_argument("--grade-level",    default="PreK", choices=["PreK", "K", "1st", "2nd"],
+    parser.add_argument("--grade-level",    default="PreK", choices=["PreK", "K", "1st", "2nd", "3rd"],
                         help="Grade level (default: PreK)")
     parser.add_argument("--reading-level",  default="A", choices=["Pre-A", "A", "B", "C"],
                         help="Reading level (default: A)")
