@@ -1,0 +1,87 @@
+# Illustration Prompt Guide: A child falls and hurts himself walking home fr...
+
+## Master Style
+
+MASTER STYLE: Vibrant, warm children's book illustration in soft digital painting style. Clean outlines with rich saturated colors. Main character Lucas is a cheerful 7-year-old Dominican boy with warm brown skin, short curly black hair, wearing a light blue school uniform shirt, navy shorts, white knee socks, and black shoes, carrying a red backpack. Supporting characters include Maria, a Dominican girl with long black braids and a yellow school dress; Pedro, a Dominican boy with short hair wearing a green shirt and khaki shorts, holding a soccer ball; and Sofia, a kind Dominican girl with curly brown hair in a ponytail wearing a pink school dress. Setting is a sunny Dominican neighborhood with colorful painted homes in turquoise, yellow, and orange, tropical palm trees, flowering bougainvillea bushes, red dirt roads, and lush green tropical foliage. Warm golden afternoon sunlight fills every scene. 16:9 landscape format.
+
+## Page Prompts
+
+### Page 1 — `page-01.webp`
+> Lucas walked home from school on a sunny afternoon.
+
+Lucas, a cheerful 7-year-old Dominican boy with warm brown skin, short curly black hair, wearing a light blue school uniform shirt, navy shorts, white knee socks, and black shoes, walks happily down a sunny red dirt road in a colorful Dominican neighborhood. Bright turquoise, yellow, and orange painted homes line the road behind him, with palm trees and pink bougainvillea flowers framing the scene. Warm golden afternoon sunlight bathes everything in a cheerful glow. Lucas's expression is bright and happy, with a big smile on his face. Children's book illustration, 16:9 landscape.
+
+### Page 2 — `page-02.webp`
+> His backpack bounced as he skipped down the dusty road.
+
+Lucas bounces joyfully down the dusty red road, his red backpack bobbing up and down on his back as he skips with both feet leaving the ground. His curly black hair bounces with each step, and his face shows pure delight with wide eyes and a grin. Colorful Dominican homes and tall swaying palm trees fill the background under a brilliant blue Caribbean sky with fluffy white clouds. Tropical flowers in bright pink and red dot the roadside. Children's book illustration, 16:9 landscape.
+
+### Page 3 — `page-03.webp`
+> Suddenly, Lucas tripped on a big rock and fell hard.
+
+Lucas's foot catches on a large gray rock jutting from the red dirt road, and his body lurches forward mid-stumble with arms flung wide open. His red backpack swings sideways and his eyes go wide with shock and surprise, his mouth open in an O shape. The sunny Dominican street stretches behind him, with colorful homes and tropical plants in the background. Dust kicks up slightly around his feet as he loses his balance. Children's book illustration, 16:9 landscape.
+
+### Page 4 — `page-04.webp`
+> His knee hurt and his books went flying everywhere.
+
+Lucas lies sprawled on the red dirt road, his scraped knee visible with a small red mark, while his notebooks and colorful papers scatter all around him on the ground. His red backpack has fallen to one side, books splayed open in the dust. His expression shows pain and surprise, eyebrows scrunched and mouth turned downward. Colorful Dominican homes and tropical greenery fill the sunny background behind the fallen boy. Children's book illustration, 16:9 landscape.
+
+### Page 5 — `page-05.webp`
+> Lucas sat on the ground and felt tears on his cheeks.
+
+Lucas sits alone on the dusty red road surrounded by his scattered books and papers, his scraped knee pulled close to his chest. Shiny tears roll down his warm brown cheeks, and his expression is sad and vulnerable with drooping eyes and a trembling lip. Warm golden afternoon sunlight casts a soft glow around him, making the moment feel tender and emotional. Colorful tropical plants and painted homes sit quietly in the background. Children's book illustration, 16:9 landscape.
+
+### Page 6 — `page-06.webp`
+> He called out, but the other children were walking fast.
+
+Lucas sits on the ground looking up and reaching out one hand toward the road ahead, his mouth open as if calling for help. In the background, blurred silhouettes of other uniformed schoolchildren walk quickly away down the red dirt road, none of them turning around. His expression is pleading and lonely, with tears still on his cheeks. The warm Dominican afternoon light illuminates the empty road ahead of him, lined with palm trees and bright flowers. Children's book illustration, 16:9 landscape.
+
+### Page 7 — `page-07.webp`
+> Maria rushed past him because she wanted to get home quickly.
+
+Maria, a Dominican girl with long black braids wearing a bright yellow school dress and carrying a purple backpack, rushes past Lucas on the dusty red road with hurried, fast-moving steps. Her gaze is fixed straight ahead, cheeks slightly flushed from speed, clearly in a hurry with no notice of Lucas sitting on the ground nearby. Lucas watches her pass with a sad, desperate expression, hand still outstretched. Colorful homes and tropical trees blur slightly in the warm sunny background. Children's book illustration, 16:9 landscape.
+
+### Page 8 — `page-08.webp`
+> Pedro ran by too, holding his soccer ball close to his chest.
+
+Pedro, a Dominican boy with short black hair wearing a green shirt and khaki shorts, runs past Lucas along the red dirt road while hugging a black-and-white soccer ball tightly against his chest. His legs pump fast and his eyes are focused ahead, completely absorbed in getting home. Lucas watches from the ground with slumped shoulders and a heartbroken expression, his scattered books still lying around him. Warm golden sunlight and tropical foliage fill the cheerful but ironic background. Children's book illustration, 16:9 landscape.
+
+### Page 9 — `page-09.webp`
+> Lucas looked at his scraped knee and took a shaky breath.
+
+Close-up view of Lucas sitting alone on the dusty road, staring down at his scraped knee with a look of quiet sadness and determination. He takes a deep breath, his small chest rising, cheeks still damp with tears but his expression showing a flicker of courage. His scattered books and papers surround him, and the red backpack sits beside him. Warm afternoon light filters through nearby palm fronds, casting gentle dappled shadows. Children's book illustration, 16:9 landscape.
+
+### Page 10 — `page-10.webp`
+> Then soft footsteps stopped right next to him on the road.
+
+Lucas looks up from the ground with a hopeful, surprised expression as a pair of small brown feet in white shoes stop right beside him on the red dirt road. The feet and hem of a pink school dress are visible at the edge of the frame, hinting at Sofia's arrival. Warm golden sunlight creates a gentle glow around the moment, and tropical flowers and colorful houses fill the background. Lucas's eyes are wide and glistening, expression shifting from sadness to cautious hope. Children's book illustration, 16:9 landscape.
+
+### Page 11 — `page-11.webp`
+> A kind girl named Sofia bent down and looked at his knee.
+
+Sofia, a kind Dominican girl with curly brown hair in a ponytail wearing a pink school dress, bends down close to Lucas on the dusty road, her face full of gentle concern and warmth. She looks carefully at his scraped knee, eyebrows slightly furrowed in caring attention, one hand hovering gently near his leg. Lucas looks up at her with wide, grateful, tear-filled eyes and a trembling smile forming. Warm afternoon sunlight surrounds them both, and colorful tropical plants fill the background. Children's book illustration, 16:9 landscape.
+
+### Page 12 — `page-12.webp`
+> She pulled a clean cloth from her bag and pressed it gently.
+
+Sofia carefully presses a clean white cloth from her bag gently against Lucas's scraped knee, her expression focused and tender. Lucas winces slightly but his eyes show relief and gratitude, tears drying on his warm brown cheeks. Sofia's curly brown ponytail falls forward as she leans in with care, her pink dress bright in the warm sunlight. The red dirt road and colorful Dominican homes create a vibrant, warm backdrop for this kind moment. Children's book illustration, 16:9 landscape.
+
+### Page 13 — `page-13.webp`
+> Sofia helped Lucas pick up all his books and papers too.
+
+Sofia and Lucas are both crouched on the dusty red road, working together to pick up scattered notebooks and colorful papers. Sofia carefully stacks books while Lucas reaches for a loose paper, both children smiling and sharing the task with cheerful teamwork energy. Sofia's pink dress and Lucas's blue uniform shirt make a colorful pair in the warm afternoon light. Tropical plants and bright painted homes fill the sunny background with joyful color. Children's book illustration, 16:9 landscape.
+
+### Page 14 — `page-14.webp`
+> She held his hand and walked slowly beside him all the way home.
+
+Sofia holds Lucas's hand gently as they walk slowly side by side down the sunny red dirt road, Lucas's red backpack now on his back and his steps careful but steady. Both children smile warmly at each other, their connected hands the center of the image. Colorful Dominican homes in turquoise, yellow, and orange line the road ahead, with palm trees and bougainvillea glowing in the golden late-afternoon light. The scene radiates warmth, friendship, and safety. Children's book illustration, 16:9 landscape.
+
+### Page 15 — `page-15.webp`
+> Lucas smiled and told Sofia she was his very best friend.
+
+Lucas stands at the entrance of a colorful Dominican home with a bright yellow painted wall and tropical garden, turning to face Sofia with the biggest, most joyful smile on his face. He holds her hands in both of his, eyes crinkled with happiness, clearly telling her she is his very best friend. Sofia beams back at him, cheeks round with a delighted smile, her curly brown ponytail catching the warm golden light. The scene glows with happiness, friendship, and Caribbean warmth. Children's book illustration, 16:9 landscape.
+
+### Page 16 — `page-16.webp`
+> Helping someone who is hurt is the kindest thing you can do.
+
+A warm, uplifting final spread showing Sofia and Lucas walking hand-in-hand down a beautiful sunlit Dominican road, surrounded by other smiling children, colorful tropical homes, swaying palm trees, and blooming bougainvillea in pink and red. The golden afternoon sun shines brightly overhead in a vivid blue sky, casting a radiant glow over the entire cheerful scene. Lucas and Sofia are at the center, both smiling broadly, embodying kindness and friendship. The image feels celebratory, hopeful, and full of love. Children's book illustration, 16:9 landscape.

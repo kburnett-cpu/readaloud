@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "a-child-falls-and-hurts-himself-walking-home-fr",
+  "title": "A child falls and hurts himself walking home fr...",
+  "author": "Hope Academy",
+  "narrator": "Kirk",
+  "cover": "cover.jpg",
+  "gradeLevel": "3rd",
+  "readingLevel": "D",
+  "lexile": "400L",
+  "wordCount": 175,
+  "highlightMode": "word",
+  "celebrationStyle": "confetti",
+  "display": {
+    "fontSize": 28,
+    "fontFamily": "Andika",
+    "lineHeight": 1.75,
+    "wordSpacing": "0.15em",
+    "letterSpacing": "0.03em"
+  },
+  "pages": [
+    {
+      "text": "Lucas walked home from school on a sunny afternoon.",
+      "image": "page-01.webp",
+      "bg": "#FFF9C4",
+      "accent": "#F9A825",
+      "audio": "page-01.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "His backpack bounced as he skipped down the dusty road.",
+      "image": "page-02.webp",
+      "bg": "#FFF3E0",
+      "accent": "#FB8C00",
+      "audio": "page-02.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Suddenly, Lucas tripped on a big rock and fell hard.",
+      "image": "page-03.webp",
+      "bg": "#FCE4EC",
+      "accent": "#E53935",
+      "audio": "page-03.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "His knee hurt and his books went flying everywhere.",
+      "image": "page-04.webp",
+      "bg": "#FFEBEE",
+      "accent": "#C62828",
+      "audio": "page-04.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Lucas sat on the ground and felt tears on his cheeks.",
+      "image": "page-05.webp",
+      "bg": "#F3E5F5",
+      "accent": "#8E24AA",
+      "audio": "page-05.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "He called out, but the other children were walking fast.",
+      "image": "page-06.webp",
+      "bg": "#E8EAF6",
+      "accent": "#3949AB",
+      "audio": "page-06.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Maria rushed past him because she wanted to get home quickly.",
+      "image": "page-07.webp",
+      "bg": "#E3F2FD",
+      "accent": "#1E88E5",
+      "audio": "page-07.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Pedro ran by too, holding his soccer ball close to his chest.",
+      "image": "page-08.webp",
+      "bg": "#E0F7FA",
+      "accent": "#00ACC1",
+      "audio": "page-08.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Lucas looked at his scraped knee and took a shaky breath.",
+      "image": "page-09.webp",
+      "bg": "#FFF8E1",
+      "accent": "#FFB300",
+      "audio": "page-09.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Then soft footsteps stopped right next to him on the road.",
+      "image": "page-10.webp",
+      "bg": "#E8F5E9",
+      "accent": "#43A047",
+      "audio": "page-10.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "A kind girl named Sofia bent down and looked at his knee.",
+      "image": "page-11.webp",
+      "bg": "#F1F8E9",
+      "accent": "#558B2F",
+      "audio": "page-11.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "She pulled a clean cloth from her bag and pressed it gently.",
+      "image": "page-12.webp",
+      "bg": "#E0F2F1",
+      "accent": "#00897B",
+      "audio": "page-12.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Sofia helped Lucas pick up all his books and papers too.",
+      "image": "page-13.webp",
+      "bg": "#E8F5E9",
+      "accent": "#2E7D32",
+      "audio": "page-13.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "She held his hand and walked slowly beside him all the way home.",
+      "image": "page-14.webp",
+      "bg": "#FFF3E0",
+      "accent": "#E65100",
+      "audio": "page-14.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Lucas smiled and told Sofia she was his very best friend.",
+      "image": "page-15.webp",
+      "bg": "#FFF9C4",
+      "accent": "#F57F17",
+      "audio": "page-15.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Helping someone who is hurt is the kindest thing you can do.",
+      "image": "page-16.webp",
+      "bg": "#FCE4EC",
+      "accent": "#AD1457",
+      "audio": "page-16.mp3",
+      "timestamps": []
+    }
+  ]
+}

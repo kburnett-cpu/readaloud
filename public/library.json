@@ -550,6 +550,22 @@
         "nature"
       ],
       "narrator": "Kirk"
+    },
+    {
+      "id": "a-child-falls-and-hurts-himself-walking-home-fr",
+      "title": "A child falls and hurts himself walking home fr...",
+      "author": "Hope Academy",
+      "cover": "stories/a-child-falls-and-hurts-himself-walking-home-fr/cover.jpg",
+      "pages": 16,
+      "featured": false,
+      "gradeLevel": "3rd",
+      "readingLevel": "D",
+      "lexile": "400L",
+      "tags": [
+        "teacher-created",
+        "story"
+      ],
+      "narrator": "Kirk"
     }
   ]
 }
