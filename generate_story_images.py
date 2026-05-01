@@ -26,7 +26,21 @@ import time
 from io import BytesIO
 from pathlib import Path
 
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "AIzaSyBWtMtsIec47gsIHLA7QbDheCsnLBlHWzc")
+# Load from environment or .env.local
+def _load_env_file(path: str = ".env.local") -> None:
+    """Load environment variables from .env.local if it exists."""
+    env_path = Path(__file__).parent / path
+    if env_path.exists():
+        for line in env_path.read_text().splitlines():
+            line = line.strip()
+            if line and not line.startswith("#"):
+                if "=" in line:
+                    key, value = line.split("=", 1)
+                    os.environ.setdefault(key.strip(), value.strip())
+
+_load_env_file()
+
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
 STORIES_DIR = Path(__file__).parent / "public" / "stories"
 ASPECT_RATIO = "16:9"
 RESOLUTION = "1K"

@@ -32,8 +32,23 @@ import time
 import requests
 
 # ─── CONFIGURATION ───────────────────────────────────────────────
-ELEVENLABS_API_KEY = os.environ.get("ELEVENLABS_API_KEY", "sk_76a6ff0abab7acaa229121a3652cbb1ce550ea439b0efb0d")
-VOICE_ID = os.environ.get("ELEVENLABS_VOICE_ID", "J6Bc5DFk5HsxIQlL1hmC")
+# Load from environment or .env.local
+def _load_env_file(path: str = ".env.local") -> None:
+    """Load environment variables from .env.local if it exists."""
+    from pathlib import Path
+    env_path = Path(__file__).parent.parent / path
+    if env_path.exists():
+        for line in env_path.read_text().splitlines():
+            line = line.strip()
+            if line and not line.startswith("#"):
+                if "=" in line:
+                    key, value = line.split("=", 1)
+                    os.environ.setdefault(key.strip(), value.strip())
+
+_load_env_file()
+
+ELEVENLABS_API_KEY = os.environ.get("ELEVENLABS_API_KEY", "")
+VOICE_ID = os.environ.get("ELEVENLABS_VOICE_ID", "")
 
 # Voice settings - tuned for children's story narration
 VOICE_SETTINGS = {
@@ -212,10 +227,14 @@ if __name__ == "__main__":
         print(f"Error: File not found: {story_path}")
         sys.exit(1)
 
-    if ELEVENLABS_API_KEY == "sk_76a6ff0abab7acaa229121a3652cbb1ce550ea439b0efb0d":
-        print("WARNING: Using embedded API key (should use environment variable)")
+    if not ELEVENLABS_API_KEY:
+        print("ERROR: ELEVENLABS_API_KEY not set")
+        print("  Set it in .env.local or as an environment variable")
+        sys.exit(1)
 
-    if VOICE_ID == "J6Bc5DFk5HsxIQlL1hmC":
-        print("WARNING: Using default voice ID (should use environment variable)")
+    if not VOICE_ID:
+        print("ERROR: ELEVENLABS_VOICE_ID not set")
+        print("  Set it in .env.local or as an environment variable")
+        sys.exit(1)
 
     process_story(story_path)

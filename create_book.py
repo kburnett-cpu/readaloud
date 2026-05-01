@@ -43,16 +43,43 @@ import time
 from io import BytesIO
 from pathlib import Path
 
-# ─── API KEYS (env vars preferred; fall back to project defaults) ─────────────
+# ─── API KEYS ─────────────────────────────────────────────────────────────
+# Load from .env.local or environment variables
+# Never hardcode secrets in source code
 
-ANTHROPIC_API_KEY  = os.environ.get("ANTHROPIC_API_KEY",
-    "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")
-ELEVENLABS_API_KEY = os.environ.get("ELEVENLABS_API_KEY",
-    "sk_76a6ff0abab7acaa229121a3652cbb1ce550ea439b0efb0d")
-ELEVENLABS_VOICE_ID = os.environ.get("ELEVENLABS_VOICE_ID",
-    "J6Bc5DFk5HsxIQlL1hmC")
-GEMINI_API_KEY     = os.environ.get("GEMINI_API_KEY",
-    "AIzaSyBWtMtsIec47gsIHLA7QbDheCsnLBlHWzc")
+def _load_env_file(path: str = ".env.local") -> None:
+    """Load environment variables from .env.local if it exists."""
+    env_path = Path(__file__).parent / path
+    if env_path.exists():
+        for line in env_path.read_text().splitlines():
+            line = line.strip()
+            if line and not line.startswith("#"):
+                if "=" in line:
+                    key, value = line.split("=", 1)
+                    os.environ.setdefault(key.strip(), value.strip())
+
+_load_env_file()
+
+ANTHROPIC_API_KEY  = os.environ.get("ANTHROPIC_API_KEY", "")
+ELEVENLABS_API_KEY = os.environ.get("ELEVENLABS_API_KEY", "")
+ELEVENLABS_VOICE_ID = os.environ.get("ELEVENLABS_VOICE_ID", "")
+GEMINI_API_KEY     = os.environ.get("GEMINI_API_KEY", "")
+
+# Validate that API keys are set
+_missing = []
+if not ANTHROPIC_API_KEY:
+    _missing.append("ANTHROPIC_API_KEY")
+if not ELEVENLABS_API_KEY:
+    _missing.append("ELEVENLABS_API_KEY")
+if not ELEVENLABS_VOICE_ID:
+    _missing.append("ELEVENLABS_VOICE_ID")
+if not GEMINI_API_KEY:
+    _missing.append("GEMINI_API_KEY")
+
+if _missing:
+    print(f"Error: Missing required API keys: {', '.join(_missing)}", file=sys.stderr)
+    print(f"Set them in .env.local or as environment variables", file=sys.stderr)
+    sys.exit(1)
 
 ELEVENLABS_MODEL   = "eleven_multilingual_v2"
 ELEVENLABS_VOICE_SETTINGS = {
@@ -63,7 +90,9 @@ ELEVENLABS_VOICE_SETTINGS = {
 }
 
 CLAUDE_MODEL       = "claude-sonnet-4-6"
-GEMINI_MODEL       = "gemini-3-pro-image-preview"
+GEMINI_MODEL_HIGH  = "gemini-3-pro-image-preview"   # Imagen 3 Pro  ~$0.04/image
+GEMINI_MODEL_FAST  = "gemini-2.0-flash-preview-image-generation"  # Flash  ~$0.02/image
+GEMINI_MODEL       = GEMINI_MODEL_HIGH  # default; overridden by --image-quality fast
 GEMINI_RESOLUTION  = "1K"
 GEMINI_ASPECT      = "16:9"
 
@@ -87,36 +116,40 @@ def word_count(pages: list[dict]) -> int:
 
 
 def font_size_for_level(reading_level: str) -> int:
-    return 32 if reading_level in ("Pre-A",) else 28
+    if reading_level in ("Pre-A",): return 32
+    if reading_level in ("F",): return 22
+    return 28
 
 
 def lexile_for_level(reading_level: str, wc: int) -> str:
     # Rough mapping — Claude will refine this
-    table = {"Pre-A": "BR90L", "A": "BR120L", "B": "BR150L", "C": "200L"}
+    table = {"Pre-A": "BR90L", "A": "BR120L", "B": "BR150L", "C": "200L", "D": "400L", "E": "550L", "F": "750L"}
     return table.get(reading_level, "BR120L")
 
 
 # ─── STEP 1: STORY GENERATION ─────────────────────────────────────────────────
 
 STORY_SYSTEM = """You are an expert children's book author writing for Hope Academy in the Dominican Republic.
-You write simple, warm, joyful English storybooks for preschool and early-elementary students who are learning English.
+You write warm, joyful English storybooks for students learning English across all grade levels.
 Characters are Dominican unless the theme specifies otherwise (e.g., Biblical stories use ancient Middle Eastern settings).
-Every page has exactly ONE short sentence. Keep vocabulary simple and concrete."""
+For reading levels Pre-A through E: Each page has exactly ONE short sentence. Keep vocabulary simple and concrete.
+For reading level F (5th grade): Each page has 2-4 sentences forming a complete paragraph. Use richer vocabulary and more complex sentence structures appropriate for 10-11 year olds."""
 
 STORY_USER = """Write a {num_pages}-page children's storybook with these parameters:
 
 Title: {title}
 Grade level: {grade_level}
-Reading level: {reading_level} (Pre-A = 6-10 words/page; A = 8-13 words/page; B = 10-15 words/page)
+Reading level: {reading_level} (Pre-A = 6-10 words/page; A = 8-13 words/page; B = 10-15 words/page; C-E = 12-20 words/page; F = 35-50 words/page)
 Theme / story idea: {theme}
 Tags: {tags}
 
 Rules:
-- Each page has exactly one sentence, appropriate length for the reading level
-- Sentences should flow naturally as a complete story with a beginning, middle, and end
-- Use warm, vivid, concrete language that preschool children understand
+- Pre-A through E: Each page has exactly one sentence, appropriate length for the reading level
+- F (5th grade): Each page has 2-4 sentences forming a complete paragraph with richer vocabulary and complex sentence structures
+- Content should flow naturally as a complete story with a beginning, middle, and end
+- For F level: Use more sophisticated vocabulary, longer sentences, and multi-character interactions/dialogue
 - Dominican/Caribbean setting and characters (warm brown skin, dark hair, colorful homes) unless the theme says otherwise
-- Vary sentence structure slightly across pages so it doesn't feel repetitive
+- Vary sentence structure across pages so it doesn't feel repetitive
 - For each page also choose a warm child-friendly background color (bg) and a complementary accent color
 
 Return ONLY a valid JSON object with this exact structure — no markdown fences, no commentary:
@@ -124,7 +157,6 @@ Return ONLY a valid JSON object with this exact structure — no markdown fences
   "title": "{title}",
   "gradeLevel": "{grade_level}",
   "readingLevel": "{reading_level}",
-  "lexile": "BR120L",
   "tags": {tags_json},
   "pages": [
     {{"text": "Sentence for page 1.", "bg": "#E8F5E9", "accent": "#43A047"}},
@@ -329,10 +361,14 @@ def step_prompts(book_id: str, story: dict, theme: str, skip_existing: bool) -> 
 REAL_IMAGE_MIN_BYTES = 20_000  # anything smaller is a placeholder, not a real illustration
 
 
-def generate_one_image(client, prompt: str, output_path: Path, retries: int = 3) -> bool:
+def generate_one_image(client, prompt: str, output_path: Path,
+                       retries: int = 3, fast: bool = False) -> bool:
     import signal
     from google.genai import types
     from PIL import Image as PILImage
+
+    model   = GEMINI_MODEL_FAST if fast else GEMINI_MODEL_HIGH
+    quality = 72 if fast else 85
 
     def _timeout_handler(signum, frame):
         raise TimeoutError("Gemini API call timed out")
@@ -342,16 +378,23 @@ def generate_one_image(client, prompt: str, output_path: Path, retries: int = 3)
             signal.signal(signal.SIGALRM, _timeout_handler)
             signal.alarm(90)  # 90-second hard timeout per attempt
             try:
-                response = client.models.generate_content(
-                    model=GEMINI_MODEL,
-                    contents=prompt,
-                    config=types.GenerateContentConfig(
+                # Fast (Flash) model doesn't support image_config size/aspect params
+                if fast:
+                    config = types.GenerateContentConfig(
+                        response_modalities=["TEXT", "IMAGE"],
+                    )
+                else:
+                    config = types.GenerateContentConfig(
                         response_modalities=["TEXT", "IMAGE"],
                         image_config=types.ImageConfig(
                             image_size=GEMINI_RESOLUTION,
                             aspect_ratio=GEMINI_ASPECT,
                         ),
-                    ),
+                    )
+                response = client.models.generate_content(
+                    model=model,
+                    contents=prompt,
+                    config=config,
                 )
             finally:
                 signal.alarm(0)
@@ -364,8 +407,19 @@ def generate_one_image(client, prompt: str, output_path: Path, retries: int = 3)
                     img = PILImage.open(BytesIO(image_data))
                     if img.mode != "RGB":
                         img = img.convert("RGB")
+                    # Flash model outputs square images — crop to 16:9
+                    if fast:
+                        w, h = img.size
+                        target_h = int(w * 9 / 16)
+                        if target_h < h:
+                            top = (h - target_h) // 2
+                            img = img.crop((0, top, w, top + target_h))
+                        elif target_h > h:
+                            target_w = int(h * 16 / 9)
+                            left = (w - target_w) // 2
+                            img = img.crop((left, 0, left + target_w, h))
                     output_path.parent.mkdir(parents=True, exist_ok=True)
-                    img.save(str(output_path), "WEBP", quality=85)
+                    img.save(str(output_path), "WEBP", quality=quality)
                     return True
             print(f"    Warning: no image in response (attempt {attempt+1})")
         except Exception as e:
@@ -377,7 +431,8 @@ def generate_one_image(client, prompt: str, output_path: Path, retries: int = 3)
     return False
 
 
-def step_images(book_id: str, story: dict, prompts: dict, skip_existing: bool) -> None:
+def step_images(book_id: str, story: dict, prompts: dict,
+                skip_existing: bool, fast: bool = False) -> None:
     """Generate WebP images via Gemini and create cover.jpg."""
     from google import genai
     from PIL import Image as PILImage
@@ -387,8 +442,9 @@ def step_images(book_id: str, story: dict, prompts: dict, skip_existing: bool) -
     master = prompts["master_style"]
     page_prompts = prompts["page_prompts"]
     n = len(story["pages"])
+    model_name = GEMINI_MODEL_FAST if fast else GEMINI_MODEL_HIGH
 
-    print(f"  [images] Generating {n} images via Gemini...")
+    print(f"  [images] Generating {n} images via Gemini ({model_name})...")
     ok = fail = 0
 
     for i in range(n):
@@ -402,7 +458,7 @@ def step_images(book_id: str, story: dict, prompts: dict, skip_existing: bool) -
 
         full_prompt = f"{master}\n\n{page_prompts[i]}"
         print(f"    page {i+1:02d}/{n}...", end=" ", flush=True)
-        success = generate_one_image(client, full_prompt, out)
+        success = generate_one_image(client, full_prompt, out, fast=fast)
         if success:
             print("done")
             ok += 1
@@ -599,7 +655,7 @@ def main():
     )
     parser.add_argument("--title",          help="Book title (required for new books)")
     parser.add_argument("--id",             help="Book ID slug (auto-derived from title if omitted)")
-    parser.add_argument("--grade-level",    default="PreK", choices=["PreK", "K", "1st", "2nd", "3rd"],
+    parser.add_argument("--grade-level",    default="PreK", choices=["PreK", "K", "1st", "2nd", "3rd", "5th"],
                         help="Grade level (default: PreK)")
     parser.add_argument("--reading-level",  default="A", choices=["Pre-A", "A", "B", "C", "D", "E", "F"],
                         help="Reading level (default: A)")
@@ -614,6 +670,8 @@ def main():
                         help=f"Comma-separated steps to run (default: all). Options: {', '.join(ALL_STEPS)}")
     parser.add_argument("--skip-existing",  action="store_true",
                         help="Skip steps/files that already exist (safe to re-run)")
+    parser.add_argument("--image-quality", default="high", choices=["high", "fast"],
+                        help="'high' = Imagen 3 Pro ~$0.04/img (default); 'fast' = Flash ~$0.02/img, quality=72")
 
     args = parser.parse_args()
 
@@ -678,7 +736,8 @@ def main():
         if prompts is None:
             sys.exit("Error: no prompts found. Run with --steps prompts first (or include 'prompts' in --steps).")
         step_images(book_id=book_id, story=story, prompts=prompts,
-                    skip_existing=args.skip_existing)
+                    skip_existing=args.skip_existing,
+                    fast=(args.image_quality == "fast"))
 
     # ── Step 4: Page Audio
     if "audio" in steps:
