@@ -566,6 +566,133 @@
         "story"
       ],
       "narrator": "Kirk"
+    },
+    {
+      "id": "joseph-and-the-coat-of-many-colors",
+      "title": "Joseph and the Coat of Many Colors",
+      "author": "Hope Academy",
+      "cover": "stories/joseph-and-the-coat-of-many-colors/cover.jpg",
+      "pages": 14,
+      "featured": false,
+      "gradeLevel": "3rd",
+      "readingLevel": "E",
+      "lexile": "BR120L",
+      "tags": [
+        "bible",
+        "joseph",
+        "forgiveness",
+        "faith",
+        "perseverance"
+      ],
+      "narrator": "Kirk"
+    },
+    {
+      "id": "the-day-the-river-changed",
+      "title": "The Day the River Changed",
+      "author": "Hope Academy",
+      "cover": "stories/the-day-the-river-changed/cover.jpg",
+      "pages": 13,
+      "featured": false,
+      "gradeLevel": "3rd",
+      "readingLevel": "E",
+      "lexile": "BR120L",
+      "tags": [
+        "environment",
+        "community",
+        "science",
+        "nature",
+        "advocacy"
+      ],
+      "narrator": "Kirk"
+    },
+    {
+      "id": "the-lighthouse-mystery",
+      "title": "The Lighthouse Mystery",
+      "author": "Hope Academy",
+      "cover": "stories/the-lighthouse-mystery/cover.jpg",
+      "pages": 20,
+      "featured": false,
+      "gradeLevel": "3rd",
+      "readingLevel": "E",
+      "lexile": "BR120L",
+      "tags": [
+        "mystery",
+        "adventure",
+        "family",
+        "history",
+        "problem-solving"
+      ],
+      "narrator": "Kirk"
+    },
+    {
+      "id": "maes-big-dream",
+      "title": "Mae's Big Dream",
+      "author": "Hope Academy",
+      "cover": "stories/maes-big-dream/cover.jpg",
+      "pages": 13,
+      "featured": false,
+      "gradeLevel": "3rd",
+      "readingLevel": "E",
+      "lexile": "BR120L",
+      "tags": [
+        "science",
+        "space",
+        "dreams",
+        "perseverance",
+        "biography",
+        "nasa"
+      ],
+      "narrator": "Kirk"
+    },
+    {
+      "id": "the-kindness-chain",
+      "title": "The Kindness Chain",
+      "author": "Hope Academy",
+      "cover": "stories/the-kindness-chain/cover.jpg",
+      "pages": 13,
+      "featured": false,
+      "gradeLevel": "3rd",
+      "readingLevel": "E",
+      "lexile": "BR120L",
+      "tags": [
+        "kindness",
+        "community",
+        "character",
+        "friendship",
+        "faith"
+      ],
+      "narrator": "Kirk"
+    },
+    {
+      "id": "spelling-unit-22",
+      "title": "Spelling Unit 22: I Before E",
+      "author": "Hope Academy",
+      "cover": "stories/spelling-unit-22/cover.jpg",
+      "pages": 1,
+      "featured": false,
+      "gradeLevel": "4th",
+      "readingLevel": "F",
+      "lexile": "600L",
+      "tags": [
+        "spelling",
+        "vocabulary",
+        "unit-22",
+        "fourth-grade"
+      ],
+      "narrator": "Kirk"
+    },
+    {
+      "id": "the-mapmakers-secret",
+      "title": "The Mapmaker's Secret",
+      "author": "Hope Academy",
+      "cover": "stories/the-mapmakers-secret/cover.jpg",
+      "pages": 16,
+      "featured": false,
+      "gradeLevel": "5th",
+      "readingLevel": "F",
+      "lexile": "BR120L",
+      "tags": [],
+      "narrator": "Kirk"
     }
   ]
 }

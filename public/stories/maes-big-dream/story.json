@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": "maes-big-dream",
+  "title": "Mae's Big Dream",
+  "author": "Hope Academy",
+  "narrator": "Kirk",
+  "cover": "cover.jpg",
+  "gradeLevel": "3rd",
+  "readingLevel": "E",
+  "lexile": "BR120L",
+  "wordCount": 258,
+  "highlightMode": "word",
+  "celebrationStyle": "confetti",
+  "display": {
+    "fontSize": 28,
+    "fontFamily": "Andika",
+    "lineHeight": 1.75,
+    "wordSpacing": "0.15em",
+    "letterSpacing": "0.03em"
+  },
+  "pages": [
+    {
+      "text": "When Mae was four years old, she looked up at the night sky and fell in love with the stars.",
+      "image": "page-01.webp",
+      "bg": "#1A1A3E",
+      "accent": "#FFD700",
+      "audio": "page-01.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Every night, she pressed her nose to the window of her colorful yellow house and counted every glowing dot above.",
+      "image": "page-02.webp",
+      "bg": "#FFF8E1",
+      "accent": "#F9A825",
+      "audio": "page-02.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Mae told her mamá, her abuela, and anyone who would listen that one day she would fly up to those stars.",
+      "image": "page-03.webp",
+      "bg": "#FFF3E0",
+      "accent": "#EF6C00",
+      "audio": "page-03.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "But at school, some classmates laughed when Mae said she wanted to be an astronaut.",
+      "image": "page-04.webp",
+      "bg": "#FCE4EC",
+      "accent": "#C62828",
+      "audio": "page-04.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Her guidance counselor shook her head slowly and said, \"Maybe you should think of a different dream, Mae.\"",
+      "image": "page-05.webp",
+      "bg": "#F3E5F5",
+      "accent": "#6A1B9A",
+      "audio": "page-05.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "A quiet, mean little voice inside Mae began to whisper that maybe they were all right.",
+      "image": "page-06.webp",
+      "bg": "#E8EAF6",
+      "accent": "#283593",
+      "audio": "page-06.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "But then Mae thought of the stars, and she opened her books and studied harder than anyone else in her class.",
+      "image": "page-07.webp",
+      "bg": "#E3F2FD",
+      "accent": "#1565C0",
+      "audio": "page-07.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "She walked to the library every afternoon and taught herself calculus from thick books she could barely carry home.",
+      "image": "page-08.webp",
+      "bg": "#E0F7FA",
+      "accent": "#00695C",
+      "audio": "page-08.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Mae wrote careful letters to scientists at NASA, telling them about her love for space and her big, unbreakable dream.",
+      "image": "page-09.webp",
+      "bg": "#E8F5E9",
+      "accent": "#2E7D32",
+      "audio": "page-09.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "One bright morning, a letter arrived with the NASA seal on the front, and Mae's hands shook as she opened it.",
+      "image": "page-10.webp",
+      "bg": "#FFFDE7",
+      "accent": "#F57F17",
+      "audio": "page-10.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "The scientists had written back — they said her questions were brilliant and told her to keep reaching for the stars.",
+      "image": "page-11.webp",
+      "bg": "#FFF8E1",
+      "accent": "#FF8F00",
+      "audio": "page-11.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Mae kept studying, kept dreaming, and kept looking up, because she knew the sky was not the limit — it was just the beginning.",
+      "image": "page-12.webp",
+      "bg": "#E8EAF6",
+      "accent": "#3949AB",
+      "audio": "page-12.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "One day, a girl just like Mae will look up at the night sky and know that she can go there too.",
+      "image": "page-13.webp",
+      "bg": "#1A1A3E",
+      "accent": "#FFD700",
+      "audio": "page-13.mp3",
+      "timestamps": []
+    }
+  ]
+}

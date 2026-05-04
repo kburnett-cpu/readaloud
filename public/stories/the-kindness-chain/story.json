@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": "the-kindness-chain",
+  "title": "The Kindness Chain",
+  "author": "Hope Academy",
+  "narrator": "Kirk",
+  "cover": "cover.jpg",
+  "gradeLevel": "3rd",
+  "readingLevel": "E",
+  "lexile": "BR120L",
+  "wordCount": 194,
+  "highlightMode": "word",
+  "celebrationStyle": "confetti",
+  "display": {
+    "fontSize": 28,
+    "fontFamily": "Andika",
+    "lineHeight": 1.75,
+    "wordSpacing": "0.15em",
+    "letterSpacing": "0.03em"
+  },
+  "pages": [
+    {
+      "text": "Elías was a quiet boy with a big, warm heart.",
+      "image": "page-01.webp",
+      "bg": "#FFF8E1",
+      "accent": "#F9A825",
+      "audio": "page-01.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Every day he walked past an old man sitting outside his school.",
+      "image": "page-02.webp",
+      "bg": "#FFF3E0",
+      "accent": "#FB8C00",
+      "audio": "page-02.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "The old man's clothes were worn, and his eyes looked very tired.",
+      "image": "page-03.webp",
+      "bg": "#FBE9E7",
+      "accent": "#E64A19",
+      "audio": "page-03.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "One morning, Elías looked down at his lunch and made a quiet choice.",
+      "image": "page-04.webp",
+      "bg": "#F3E5F5",
+      "accent": "#8E24AA",
+      "audio": "page-04.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "He set his brown bag softly beside the old man and walked away without a word.",
+      "image": "page-05.webp",
+      "bg": "#EDE7F6",
+      "accent": "#5E35B1",
+      "audio": "page-05.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "The old man opened the bag and found rice, beans, and a sweet mango.",
+      "image": "page-06.webp",
+      "bg": "#E8F5E9",
+      "accent": "#43A047",
+      "audio": "page-06.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Tears filled his eyes because someone had cared for him that day.",
+      "image": "page-07.webp",
+      "bg": "#E0F7FA",
+      "accent": "#00838F",
+      "audio": "page-07.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Feeling full of hope, the old man helped a woman whose heavy bags had fallen in the street.",
+      "image": "page-08.webp",
+      "bg": "#E1F5FE",
+      "accent": "#0288D1",
+      "audio": "page-08.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "That woman smiled so brightly that she gave her last coin to a little girl selling flowers.",
+      "image": "page-09.webp",
+      "bg": "#FFF9C4",
+      "accent": "#F9A825",
+      "audio": "page-09.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "The little girl ran home and surprised her sick mamá with a beautiful yellow bloom.",
+      "image": "page-10.webp",
+      "bg": "#FCE4EC",
+      "accent": "#D81B60",
+      "audio": "page-10.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Her mamá felt so loved that she cooked a big pot of soup and shared it with all her neighbors.",
+      "image": "page-11.webp",
+      "bg": "#FFF3E0",
+      "accent": "#EF6C00",
+      "audio": "page-11.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "One of those neighbors was Elías's abuela, who hugged him tight that evening and said, 'God is good.'",
+      "image": "page-12.webp",
+      "bg": "#F1F8E9",
+      "accent": "#558B2F",
+      "audio": "page-12.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Elías smiled, never knowing his one small act of kindness had wrapped love all around his town.",
+      "image": "page-13.webp",
+      "bg": "#FFF8E1",
+      "accent": "#F9A825",
+      "audio": "page-13.mp3",
+      "timestamps": []
+    }
+  ]
+}

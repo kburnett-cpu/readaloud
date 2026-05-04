@@ -1,0 +1,184 @@
+{
+  "alphabetSounds": {
+    "introOrder": ["s","a","t","p","i","n","c","k","e","h","r","m","d","g","o","u","l","f","b","j","w","z","v","y","x","q"],
+    "letters": [
+      { "letter": "A", "phoneme": "/a/", "audio": "/learn/phonemes/a.mp3", "isVowel": true,  "exampleWord": "apple"    },
+      { "letter": "B", "phoneme": "/b/", "audio": "/learn/phonemes/b.mp3", "isVowel": false, "exampleWord": "ball"     },
+      { "letter": "C", "phoneme": "/k/", "audio": "/learn/phonemes/c.mp3", "isVowel": false, "exampleWord": "cat"      },
+      { "letter": "D", "phoneme": "/d/", "audio": "/learn/phonemes/d.mp3", "isVowel": false, "exampleWord": "dog"      },
+      { "letter": "E", "phoneme": "/e/", "audio": "/learn/phonemes/e.mp3", "isVowel": true,  "exampleWord": "egg"      },
+      { "letter": "F", "phoneme": "/f/", "audio": "/learn/phonemes/f.mp3", "isVowel": false, "exampleWord": "fish"     },
+      { "letter": "G", "phoneme": "/g/", "audio": "/learn/phonemes/g.mp3", "isVowel": false, "exampleWord": "go"       },
+      { "letter": "H", "phoneme": "/h/", "audio": "/learn/phonemes/h.mp3", "isVowel": false, "exampleWord": "hat"      },
+      { "letter": "I", "phoneme": "/i/", "audio": "/learn/phonemes/i.mp3", "isVowel": true,  "exampleWord": "itch"     },
+      { "letter": "J", "phoneme": "/j/", "audio": "/learn/phonemes/j.mp3", "isVowel": false, "exampleWord": "jump"     },
+      { "letter": "K", "phoneme": "/k/", "audio": "/learn/phonemes/k.mp3", "isVowel": false, "exampleWord": "kite"     },
+      { "letter": "L", "phoneme": "/l/", "audio": "/learn/phonemes/l.mp3", "isVowel": false, "exampleWord": "lion"     },
+      { "letter": "M", "phoneme": "/m/", "audio": "/learn/phonemes/m.mp3", "isVowel": false, "exampleWord": "map"      },
+      { "letter": "N", "phoneme": "/n/", "audio": "/learn/phonemes/n.mp3", "isVowel": false, "exampleWord": "net"      },
+      { "letter": "O", "phoneme": "/o/", "audio": "/learn/phonemes/o.mp3", "isVowel": true,  "exampleWord": "octopus"  },
+      { "letter": "P", "phoneme": "/p/", "audio": "/learn/phonemes/p.mp3", "isVowel": false, "exampleWord": "pen"      },
+      { "letter": "Q", "phoneme": "/kw/","audio": "/learn/phonemes/q.mp3", "isVowel": false, "exampleWord": "queen"    },
+      { "letter": "R", "phoneme": "/r/", "audio": "/learn/phonemes/r.mp3", "isVowel": false, "exampleWord": "run"      },
+      { "letter": "S", "phoneme": "/s/", "audio": "/learn/phonemes/s.mp3", "isVowel": false, "exampleWord": "sun"      },
+      { "letter": "T", "phoneme": "/t/", "audio": "/learn/phonemes/t.mp3", "isVowel": false, "exampleWord": "top"      },
+      { "letter": "U", "phoneme": "/u/", "audio": "/learn/phonemes/u.mp3", "isVowel": true,  "exampleWord": "umbrella" },
+      { "letter": "V", "phoneme": "/v/", "audio": "/learn/phonemes/v.mp3", "isVowel": false, "exampleWord": "van"      },
+      { "letter": "W", "phoneme": "/w/", "audio": "/learn/phonemes/w.mp3", "isVowel": false, "exampleWord": "wet"      },
+      { "letter": "X", "phoneme": "/ks/","audio": "/learn/phonemes/x.mp3", "isVowel": false, "exampleWord": "box"      },
+      { "letter": "Y", "phoneme": "/y/", "audio": "/learn/phonemes/y.mp3", "isVowel": false, "exampleWord": "yes"      },
+      { "letter": "Z", "phoneme": "/z/", "audio": "/learn/phonemes/z.mp3", "isVowel": false, "exampleWord": "zip"      }
+    ]
+  },
+
+  "syllableClap": {
+    "words": [
+      { "id": "cat",       "text": "cat",       "syllables": 1, "syllableBreak": "cat",         "audio": "/learn/syllable/cat.mp3",       "emoji": "🐱" },
+      { "id": "dog",       "text": "dog",        "syllables": 1, "syllableBreak": "dog",         "audio": "/learn/syllable/dog.mp3",       "emoji": "🐶" },
+      { "id": "butterfly", "text": "butterfly",  "syllables": 3, "syllableBreak": "but·ter·fly", "audio": "/learn/syllable/butterfly.mp3", "emoji": "🦋" },
+      { "id": "house",     "text": "house",      "syllables": 1, "syllableBreak": "house",       "audio": "/learn/syllable/house.mp3",     "emoji": "🏠" },
+      { "id": "sun",       "text": "sun",        "syllables": 1, "syllableBreak": "sun",         "audio": "/learn/syllable/sun.mp3",       "emoji": "☀️" },
+      { "id": "mango",     "text": "mango",      "syllables": 2, "syllableBreak": "man·go",      "audio": "/learn/syllable/mango.mp3",     "emoji": "🥭" },
+      { "id": "beach",     "text": "beach",      "syllables": 1, "syllableBreak": "beach",       "audio": "/learn/syllable/beach.mp3",     "emoji": "🏖️" },
+      { "id": "turtle",    "text": "turtle",     "syllables": 2, "syllableBreak": "tur·tle",     "audio": "/learn/syllable/turtle.mp3",    "emoji": "🐢" },
+      { "id": "school",    "text": "school",     "syllables": 1, "syllableBreak": "school",      "audio": "/learn/syllable/school.mp3",    "emoji": "🏫" },
+      { "id": "family",    "text": "family",     "syllables": 3, "syllableBreak": "fam·i·ly",    "audio": "/learn/syllable/family.mp3",    "emoji": "👨‍👩‍👧‍👦" },
+      { "id": "flower",    "text": "flower",     "syllables": 2, "syllableBreak": "flow·er",     "audio": "/learn/syllable/flower.mp3",    "emoji": "🌸" },
+      { "id": "book",      "text": "book",       "syllables": 1, "syllableBreak": "book",        "audio": "/learn/syllable/book.mp3",      "emoji": "📖" }
+    ]
+  },
+
+  "rhymeMatch": {
+    "rounds": [
+      {
+        "id": "round-1",
+        "cards": [
+          { "word": "cat",   "emoji": "🐱" },
+          { "word": "hat",   "emoji": "🎩" },
+          { "word": "dog",   "emoji": "🐶" }
+        ],
+        "rhymePair": [0, 1]
+      },
+      {
+        "id": "round-2",
+        "cards": [
+          { "word": "sun",  "emoji": "☀️" },
+          { "word": "fish", "emoji": "🐟" },
+          { "word": "fun",  "emoji": "🎉" }
+        ],
+        "rhymePair": [0, 2]
+      },
+      {
+        "id": "round-3",
+        "cards": [
+          { "word": "tree", "emoji": "🌳" },
+          { "word": "bee",  "emoji": "🐝" },
+          { "word": "ball", "emoji": "⚽" }
+        ],
+        "rhymePair": [0, 1]
+      },
+      {
+        "id": "round-4",
+        "cards": [
+          { "word": "ring", "emoji": "💍" },
+          { "word": "star", "emoji": "⭐" },
+          { "word": "king", "emoji": "👑" }
+        ],
+        "rhymePair": [0, 2]
+      },
+      {
+        "id": "round-5",
+        "cards": [
+          { "word": "cake", "emoji": "🎂" },
+          { "word": "lake", "emoji": "🏞️" },
+          { "word": "bird", "emoji": "🐦" }
+        ],
+        "rhymePair": [0, 1]
+      },
+      {
+        "id": "round-6",
+        "cards": [
+          { "word": "night", "emoji": "🌙" },
+          { "word": "rain",  "emoji": "🌧️" },
+          { "word": "light", "emoji": "💡" }
+        ],
+        "rhymePair": [0, 2]
+      }
+    ]
+  },
+
+  "heartWords": {
+    "words": [
+      {
+        "id": "the",
+        "word": "the",
+        "letters": [
+          { "char": "t", "isHeart": true },
+          { "char": "h", "isHeart": true },
+          { "char": "e", "isHeart": true }
+        ],
+        "audio": "/learn/heartwords/the.mp3",
+        "hint": "This whole word is tricky — learn it by heart!"
+      },
+      {
+        "id": "said",
+        "word": "said",
+        "letters": [
+          { "char": "s", "isHeart": false, "phonemeAudio": "/learn/phonemes/s.mp3" },
+          { "char": "a", "isHeart": true  },
+          { "char": "i", "isHeart": true  },
+          { "char": "d", "isHeart": false, "phonemeAudio": "/learn/phonemes/d.mp3" }
+        ],
+        "audio": "/learn/heartwords/said.mp3",
+        "hint": "The 'ai' makes an /e/ sound here — tricky!"
+      },
+      {
+        "id": "was",
+        "word": "was",
+        "letters": [
+          { "char": "w", "isHeart": false, "phonemeAudio": "/learn/phonemes/w.mp3" },
+          { "char": "a", "isHeart": true  },
+          { "char": "s", "isHeart": true  }
+        ],
+        "audio": "/learn/heartwords/was.mp3",
+        "hint": "The 'as' part doesn't follow the rules!"
+      },
+      {
+        "id": "have",
+        "word": "have",
+        "letters": [
+          { "char": "h", "isHeart": false, "phonemeAudio": "/learn/phonemes/h.mp3" },
+          { "char": "a", "isHeart": false, "phonemeAudio": "/learn/phonemes/a.mp3" },
+          { "char": "v", "isHeart": false, "phonemeAudio": "/learn/phonemes/v.mp3" },
+          { "char": "e", "isHeart": true  }
+        ],
+        "audio": "/learn/heartwords/have.mp3",
+        "hint": "The silent 'e' at the end is the tricky part!"
+      },
+      {
+        "id": "give",
+        "word": "give",
+        "letters": [
+          { "char": "g", "isHeart": false, "phonemeAudio": "/learn/phonemes/g.mp3" },
+          { "char": "i", "isHeart": true  },
+          { "char": "v", "isHeart": false, "phonemeAudio": "/learn/phonemes/v.mp3" },
+          { "char": "e", "isHeart": true  }
+        ],
+        "audio": "/learn/heartwords/give.mp3",
+        "hint": "The 'i' stays short and 'e' is silent — both tricky!"
+      },
+      {
+        "id": "come",
+        "word": "come",
+        "letters": [
+          { "char": "c", "isHeart": false, "phonemeAudio": "/learn/phonemes/c.mp3" },
+          { "char": "o", "isHeart": true  },
+          { "char": "m", "isHeart": false, "phonemeAudio": "/learn/phonemes/m.mp3" },
+          { "char": "e", "isHeart": true  }
+        ],
+        "audio": "/learn/heartwords/come.mp3",
+        "hint": "The 'o' doesn't say its name here — it's tricky!"
+      }
+    ]
+  }
+}

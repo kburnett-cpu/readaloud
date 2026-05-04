@@ -1,0 +1,56 @@
+{
+  "_readme": "Edit this file weekly to add content for each classroom. Each classroom has 'weeks' (newest first). Each week has 'items' which can be type 'story' (must reference an existing storyId from library.json) or type 'spelling' (a list of words with audio file paths). Word audio files: run generate_word_audio.py to create per-word MP3s, then point 'audio' at the resulting path under /stories/.../words/<word>.mp3.",
+  "classrooms": [
+    {
+      "id": "ms-smith-2nd",
+      "name": "Ms. Smith's 2nd Grade",
+      "color": "#2E86C1",
+      "weeks": [
+        {
+          "id": "2026-04-27",
+          "label": "Week of April 27",
+          "items": [
+            {
+              "type": "story",
+              "storyId": "the-big-dog",
+              "title": "The Big Dog"
+            },
+            {
+              "type": "spelling",
+              "title": "Spelling Words",
+              "words": [
+                { "text": "boy",   "audio": "/stories/jesus-feeds-5000/words/boy.mp3" },
+                { "text": "bread", "audio": "/stories/jesus-feeds-5000/words/bread.mp3" },
+                { "text": "came",  "audio": "/stories/jesus-feeds-5000/words/came.mp3" },
+                { "text": "day",   "audio": "/stories/jesus-feeds-5000/words/day.mp3" },
+                { "text": "eat",   "audio": "/stories/jesus-feeds-5000/words/eat.mp3" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mr-jones-3rd",
+      "name": "Mr. Jones's 3rd Grade",
+      "color": "#27AE60",
+      "weeks": [
+        {
+          "id": "2026-04-27",
+          "label": "Week of April 27",
+          "items": [
+            {
+              "type": "spelling",
+              "title": "Vocabulary Words",
+              "words": [
+                { "text": "enough",   "audio": "/stories/jesus-feeds-5000/words/enough.mp3" },
+                { "text": "everyone", "audio": "/stories/jesus-feeds-5000/words/everyone.mp3" },
+                { "text": "broke",    "audio": "/stories/jesus-feeds-5000/words/broke.mp3" }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

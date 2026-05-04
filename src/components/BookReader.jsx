@@ -1,4 +1,5 @@
 import { useState, useEffect, useRef, useCallback, useMemo } from "react";
+import useBreakpoint from "../hooks/useBreakpoint.js";
 import useAudioSync from "../hooks/useAudioSync.js";
 import useWordAudio from "../hooks/useWordAudio.js";
 import WordHighlighter from "./WordHighlighter.jsx";
@@ -85,6 +86,23 @@ export default function BookReader({
   guidedRef.current        = guided;
 
   const t = LABELS[lang] || LABELS.en;
+
+  const bp = useBreakpoint();
+
+  const bpStyles = {
+    bookWrapper: {
+      maxWidth: bp === "desktop" ? 800 : bp === "tablet" ? 620 : 440,
+    },
+    bookArea: {
+      padding: bp === "desktop" ? "0 40px 24px" : bp === "tablet" ? "0 24px 20px" : "0 16px 16px",
+    },
+    textArea: {
+      maxHeight: bp === "desktop" ? 380 : bp === "tablet" ? 320 : 280,
+    },
+    topBar: {
+      padding: bp === "desktop" ? "14px 32px" : bp === "tablet" ? "12px 20px" : "10px 14px",
+    },
+  };
 
   // Derived before hooks so useMemo can use them
   const page       = story?.pages[pageIndex];
@@ -387,10 +405,45 @@ export default function BookReader({
 
     if (page.audio && audioRef.current) {
       // ── MP3 path ────────────────────────────────────────────────────────
+      // Wait for the element to have enough data before calling play(). The
+      // old code used a fixed 400ms timer and a silent .catch, which dropped
+      // playback whenever the MP3 wasn't buffered yet (slow network, larger
+      // files, cold cache). Now: if readyState says we can play, play; else
+      // wait for `canplay`. A 2s safety net plays anyway in case the event
+      // never fires. AbortError (interrupted play) gets one retry.
       const audio = audioRef.current;
-      audio.playbackRate  = rate;
-      audio.currentTime   = 0;
-      audio.play().catch(() => {}); // browser may block autoplay on first load
+      audio.playbackRate = rate;
+      audio.currentTime  = 0;
+
+      let started = false;
+      const tryPlay = (isRetry = false) => {
+        if (started || audioRef.current !== audio) return;
+        started = true;
+        audio.play().catch((err) => {
+          if (!isRetry && err?.name === "AbortError" && audioRef.current === audio) {
+            started = false;
+            setTimeout(() => tryPlay(true), 250);
+          } else if (err?.name !== "AbortError" && err?.name !== "NotAllowedError") {
+            console.warn("[ReadAloud] audio.play() failed:", err);
+          }
+        });
+      };
+
+      if (audio.readyState >= 2) {
+        // HAVE_CURRENT_DATA — safe to start
+        tryPlay();
+      } else {
+        const onCanPlay = () => {
+          audio.removeEventListener("canplay", onCanPlay);
+          clearTimeout(safetyTimer);
+          tryPlay();
+        };
+        const safetyTimer = setTimeout(() => {
+          audio.removeEventListener("canplay", onCanPlay);
+          tryPlay();
+        }, 2000);
+        audio.addEventListener("canplay", onCanPlay);
+      }
 
     } else {
       // ── SpeechSynthesis fallback (no audio file yet) ─────────────────────
@@ -490,7 +543,7 @@ export default function BookReader({
       ) : (
         <>
           {/* ── Top bar ──────────────────────────────────────────────────────── */}
-          <div style={styles.topBar}>
+          <div style={{ ...styles.topBar, ...bpStyles.topBar }}>
             <button data-control="true" style={styles.backPill} onClick={onBack} aria-label="Back to library">←</button>
             <div style={styles.titlePill}>{story.title}</div>
             <div style={styles.topBarRight}>
@@ -512,7 +565,7 @@ export default function BookReader({
           <ProgressBar total={totalPages} current={pageIndex} accent={page.accent} />
 
           {/* ── Book area ────────────────────────────────────────────────────── */}
-          <div style={styles.bookArea}>
+          <div style={{ ...styles.bookArea, ...bpStyles.bookArea }}>
             {/* Hint chevrons — pointer-events: none, visual only */}
             {pageIndex > 0 && (
               <svg style={{ ...styles.chevron, left: 4 }} viewBox="0 0 24 24" fill="none">
@@ -526,7 +579,7 @@ export default function BookReader({
             )}
 
             {/* Book + floating controls wrapped together so they animate as a unit */}
-            <div style={{ ...styles.bookWrapper, ...wrapperAnim }}>
+            <div style={{ ...styles.bookWrapper, ...wrapperAnim, ...bpStyles.bookWrapper }}>
 
               {/* Book card */}
               <div style={styles.bookCard}>
@@ -540,7 +593,7 @@ export default function BookReader({
 
                 <div style={styles.divider} />
 
-                <div style={styles.textArea}>
+                <div style={{ ...styles.textArea, ...bpStyles.textArea }}>
                   <div
                     style={{
                       fontFamily:    `'${display.fontFamily}', system-ui, sans-serif`,
@@ -757,7 +810,7 @@ const styles = {
   illustration:            { width: "100%", height: "100%", objectFit: "cover", display: "block" },
   illustrationPlaceholder: { width: "100%", height: "100%", display: "flex", alignItems: "center", justifyContent: "center", fontSize: 64 },
   divider:          { height: 1, margin: "0 24px", background: "linear-gradient(to right, transparent, rgba(0,0,0,0.06), transparent)" },
-  textArea:         { padding: "20px 24px 14px" },
+  textArea:         { padding: "20px 24px 14px", maxHeight: 280, overflowY: "auto", WebkitOverflowScrolling: "touch" },
   pageNum:          { textAlign: "center", fontSize: 12, fontWeight: 700, color: "#BDC3C7", letterSpacing: 1, paddingBottom: 16 },
   edgeRight:        { position: "absolute", right: 0, top: 4, bottom: 4, width: 3, background: "linear-gradient(to left, #D5D5D0, #E8E8E3)", borderRadius: "0 2px 2px 0", pointerEvents: "none" },
   edgeBottom:       { position: "absolute", bottom: 0, left: 8, right: 4, height: 3, background: "linear-gradient(to top, #D5D5D0, #E8E8E3)", borderRadius: "0 0 2px 2px", pointerEvents: "none" },

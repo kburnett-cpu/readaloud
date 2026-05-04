@@ -2,6 +2,8 @@ import { useState, useEffect } from "react";
 import Library from "./components/Library.jsx";
 import BookReader from "./components/BookReader.jsx";
 import Celebration from "./components/Celebration.jsx";
+import Classroom from "./components/Classroom.jsx";
+import LearnView from "./components/LearnView.jsx";
 
 const COMPLETED_KEY = "readaloud_completed";
 const LANG_KEY      = "readaloud_lang";
@@ -33,8 +35,11 @@ export default function App() {
   const [readingProgress, setReadingProgress] = useState(() =>
     readLS(PROGRESS_KEY, {})
   );
-  const [view, setView] = useState("library"); // "library" | "reader" | "celebration"
+  const [view, setView] = useState("library"); // "library" | "reader" | "celebration" | "classroom" | "activity"
   const [selectedStoryId, setSelectedStoryId] = useState(null);
+  const [activityId, setActivityId] = useState(null);
+  // Tracks where the current book was opened from, so back/finish return there
+  const [bookSource, setBookSource] = useState("library"); // "library" | "classroom"
   // Holds { storyId, title, accentColor, celebrationStyle } while on celebration screen
   const [celebrationData, setCelebrationData] = useState(null);
 
@@ -45,7 +50,19 @@ export default function App() {
 
   function handleSelectStory(storyId) {
     setSelectedStoryId(storyId);
+    setBookSource("library");
     setView("reader");
+  }
+
+  function handleSelectStoryFromClassroom(storyId) {
+    setSelectedStoryId(storyId);
+    setBookSource("classroom");
+    setView("reader");
+  }
+
+  function handleOpenActivity(id) {
+    setActivityId(id);
+    setView("activity");
   }
 
   function handlePageChange(storyId, pageIndex) {
@@ -95,7 +112,7 @@ export default function App() {
         }}
         onMoreBooks={() => {
           setCelebrationData(null);
-          setView("library");
+          setView(bookSource === "classroom" ? "classroom" : "library");
         }}
       />
     );
@@ -110,6 +127,26 @@ export default function App() {
         onToggleLang={handleToggleLang}
         onBookComplete={handleBookComplete}
         onPageChange={handlePageChange}
+        onBack={() => setView(bookSource === "classroom" ? "classroom" : "library")}
+      />
+    );
+  }
+
+  if (view === "classroom") {
+    return (
+      <Classroom
+        lang={lang}
+        onBack={() => setView("library")}
+        onSelectStory={handleSelectStoryFromClassroom}
+      />
+    );
+  }
+
+  if (view === "activity" && activityId) {
+    return (
+      <LearnView
+        activityId={activityId}
+        lang={lang}
         onBack={() => setView("library")}
       />
     );
@@ -122,6 +159,8 @@ export default function App() {
       readingProgress={readingProgress}
       lang={lang}
       onToggleLang={handleToggleLang}
+      onOpenClassroom={() => setView("classroom")}
+      onOpenActivity={handleOpenActivity}
     />
   );
 }

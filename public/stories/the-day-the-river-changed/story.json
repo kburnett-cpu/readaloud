@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": "the-day-the-river-changed",
+  "title": "The Day the River Changed",
+  "author": "Hope Academy",
+  "narrator": "Kirk",
+  "cover": "cover.jpg",
+  "gradeLevel": "3rd",
+  "readingLevel": "E",
+  "lexile": "BR120L",
+  "wordCount": 190,
+  "highlightMode": "word",
+  "celebrationStyle": "confetti",
+  "display": {
+    "fontSize": 28,
+    "fontFamily": "Andika",
+    "lineHeight": 1.75,
+    "wordSpacing": "0.15em",
+    "letterSpacing": "0.03em"
+  },
+  "pages": [
+    {
+      "text": "Valentina loved the wide brown river that curved behind her colorful town.",
+      "image": "page-01.webp",
+      "bg": "#E0F7FA",
+      "accent": "#00838F",
+      "audio": "page-01.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Every morning, she watched silver fish dart through the clear, cool water.",
+      "image": "page-02.webp",
+      "bg": "#E8F5E9",
+      "accent": "#2E7D32",
+      "audio": "page-02.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "One day, the water looked dark and smelled strange, and no fish came.",
+      "image": "page-03.webp",
+      "bg": "#FFF8E1",
+      "accent": "#F57F17",
+      "audio": "page-03.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Valentina knelt at the bank and scooped some water into a clean glass jar.",
+      "image": "page-04.webp",
+      "bg": "#E8EAF6",
+      "accent": "#3949AB",
+      "audio": "page-04.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "She walked along the river asking neighbors, \"When did the water change?\"",
+      "image": "page-05.webp",
+      "bg": "#FCE4EC",
+      "accent": "#C62828",
+      "audio": "page-05.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Old Don Ramón said, \"It started three weeks ago, after the new factory opened upstream.\"",
+      "image": "page-06.webp",
+      "bg": "#FFF3E0",
+      "accent": "#E65100",
+      "audio": "page-06.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Valentina carried her water sample to the school library and opened every book she could find.",
+      "image": "page-07.webp",
+      "bg": "#F3E5F5",
+      "accent": "#6A1B9A",
+      "audio": "page-07.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "She read that dark, oily water means something harmful has been dumped inside it.",
+      "image": "page-08.webp",
+      "bg": "#E8F5E9",
+      "accent": "#1B5E20",
+      "audio": "page-08.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Valentina showed her jar and her notes to her teacher, Señora Cruz, who listened carefully.",
+      "image": "page-09.webp",
+      "bg": "#E0F2F1",
+      "accent": "#00695C",
+      "audio": "page-09.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Together, the whole class made bright posters that said, \"Save Our River, Save Our Fish!\"",
+      "image": "page-10.webp",
+      "bg": "#FFFDE7",
+      "accent": "#F9A825",
+      "audio": "page-10.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Every student wrote a letter to the mayor asking him to stop the factory from dumping waste.",
+      "image": "page-11.webp",
+      "bg": "#EDE7F6",
+      "accent": "#4527A0",
+      "audio": "page-11.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "At the town meeting, Valentina stood up tall and read her letter in a clear, strong voice.",
+      "image": "page-12.webp",
+      "bg": "#FCE4EC",
+      "accent": "#AD1457",
+      "audio": "page-12.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "The mayor promised to inspect the factory, and soon the river ran clean and the fish came back.",
+      "image": "page-13.webp",
+      "bg": "#E0F7FA",
+      "accent": "#006064",
+      "audio": "page-13.mp3",
+      "timestamps": []
+    }
+  ]
+}

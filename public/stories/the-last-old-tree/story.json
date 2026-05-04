@@ -1,0 +1,924 @@
+{
+  "schemaVersion": 1,
+  "id": "the-last-old-tree",
+  "title": "The Last Old Tree",
+  "author": "Hope Academy",
+  "narrator": "Kirk",
+  "cover": "cover.jpg",
+  "gradeLevel": "3rd",
+  "readingLevel": "E",
+  "lexile": "BR120L",
+  "wordCount": 184,
+  "highlightMode": "word",
+  "celebrationStyle": "confetti",
+  "display": {
+    "fontSize": 28,
+    "fontFamily": "Andika",
+    "lineHeight": 1.75,
+    "wordSpacing": "0.15em",
+    "letterSpacing": "0.03em"
+  },
+  "pages": [
+    {
+      "text": "On Calle Verde, one giant old tree stood above every rooftop in the neighborhood.",
+      "image": "page-01.webp",
+      "bg": "#E8F5E9",
+      "accent": "#2E7D32",
+      "audio": "page-01.mp3",
+      "timestamps": [
+        {
+          "word": "On",
+          "start": 0.035,
+          "end": 0.174
+        },
+        {
+          "word": "Calle",
+          "start": 0.267,
+          "end": 0.685
+        },
+        {
+          "word": "Verde,",
+          "start": 0.755,
+          "end": 1.358
+        },
+        {
+          "word": "one",
+          "start": 1.416,
+          "end": 1.741
+        },
+        {
+          "word": "giant",
+          "start": 1.823,
+          "end": 2.264
+        },
+        {
+          "word": "old",
+          "start": 2.322,
+          "end": 2.531
+        },
+        {
+          "word": "tree",
+          "start": 2.589,
+          "end": 3.03
+        },
+        {
+          "word": "stood",
+          "start": 3.146,
+          "end": 3.46
+        },
+        {
+          "word": "above",
+          "start": 3.495,
+          "end": 3.796
+        },
+        {
+          "word": "every",
+          "start": 3.913,
+          "end": 4.342
+        },
+        {
+          "word": "rooftop",
+          "start": 4.423,
+          "end": 5.016
+        },
+        {
+          "word": "in",
+          "start": 5.132,
+          "end": 5.259
+        },
+        {
+          "word": "the",
+          "start": 5.306,
+          "end": 5.375
+        },
+        {
+          "word": "neighborhood.",
+          "start": 5.433,
+          "end": 6.026
+        }
+      ]
+    },
+    {
+      "text": "Children climbed its thick branches after school every single day.",
+      "image": "page-02.webp",
+      "bg": "#FFF9C4",
+      "accent": "#F9A825",
+      "audio": "page-02.mp3",
+      "timestamps": [
+        {
+          "word": "Children",
+          "start": 0.046,
+          "end": 0.534
+        },
+        {
+          "word": "climbed",
+          "start": 0.662,
+          "end": 1.265
+        },
+        {
+          "word": "its",
+          "start": 1.312,
+          "end": 1.44
+        },
+        {
+          "word": "thick",
+          "start": 1.498,
+          "end": 1.707
+        },
+        {
+          "word": "branches",
+          "start": 1.765,
+          "end": 2.252
+        },
+        {
+          "word": "after",
+          "start": 2.31,
+          "end": 2.554
+        },
+        {
+          "word": "school",
+          "start": 2.612,
+          "end": 2.961
+        },
+        {
+          "word": "every",
+          "start": 3.077,
+          "end": 3.355
+        },
+        {
+          "word": "single",
+          "start": 3.413,
+          "end": 3.704
+        },
+        {
+          "word": "day.",
+          "start": 3.738,
+          "end": 3.924
+        }
+      ]
+    },
+    {
+      "text": "Abuelas and abuelos rested in its cool, wide shade every afternoon.",
+      "image": "page-03.webp",
+      "bg": "#FFF3E0",
+      "accent": "#EF6C00",
+      "audio": "page-03.mp3",
+      "timestamps": [
+        {
+          "word": "Abuelas",
+          "start": 0.035,
+          "end": 0.789
+        },
+        {
+          "word": "and",
+          "start": 0.906,
+          "end": 1.08
+        },
+        {
+          "word": "abuelos",
+          "start": 1.149,
+          "end": 1.846
+        },
+        {
+          "word": "rested",
+          "start": 2.055,
+          "end": 2.624
+        },
+        {
+          "word": "in",
+          "start": 2.74,
+          "end": 2.914
+        },
+        {
+          "word": "its",
+          "start": 2.972,
+          "end": 3.146
+        },
+        {
+          "word": "cool,",
+          "start": 3.262,
+          "end": 3.901
+        },
+        {
+          "word": "wide",
+          "start": 4.017,
+          "end": 4.528
+        },
+        {
+          "word": "shade",
+          "start": 4.586,
+          "end": 5.248
+        },
+        {
+          "word": "every",
+          "start": 5.317,
+          "end": 5.642
+        },
+        {
+          "word": "afternoon.",
+          "start": 5.7,
+          "end": 6.327
+        }
+      ]
+    },
+    {
+      "text": "Every spring, bright yellow birds built soft nests high up in its leaves.",
+      "image": "page-04.webp",
+      "bg": "#E3F2FD",
+      "accent": "#1565C0",
+      "audio": "page-04.mp3",
+      "timestamps": [
+        {
+          "word": "Every",
+          "start": 0.035,
+          "end": 0.43
+        },
+        {
+          "word": "spring,",
+          "start": 0.546,
+          "end": 1.173
+        },
+        {
+          "word": "bright",
+          "start": 1.265,
+          "end": 1.637
+        },
+        {
+          "word": "yellow",
+          "start": 1.718,
+          "end": 2.032
+        },
+        {
+          "word": "birds",
+          "start": 2.101,
+          "end": 2.554
+        },
+        {
+          "word": "built",
+          "start": 2.635,
+          "end": 2.937
+        },
+        {
+          "word": "soft",
+          "start": 3.053,
+          "end": 3.46
+        },
+        {
+          "word": "nests",
+          "start": 3.541,
+          "end": 3.947
+        },
+        {
+          "word": "high",
+          "start": 4.122,
+          "end": 4.481
+        },
+        {
+          "word": "up",
+          "start": 4.551,
+          "end": 4.725
+        },
+        {
+          "word": "in",
+          "start": 4.841,
+          "end": 4.969
+        },
+        {
+          "word": "its",
+          "start": 5.027,
+          "end": 5.19
+        },
+        {
+          "word": "leaves.",
+          "start": 5.271,
+          "end": 5.77
+        }
+      ]
+    },
+    {
+      "text": "One Monday morning, a big orange sign appeared nailed to the trunk.",
+      "image": "page-05.webp",
+      "bg": "#FCE4EC",
+      "accent": "#C62828",
+      "audio": "page-05.mp3",
+      "timestamps": [
+        {
+          "word": "One",
+          "start": 0.023,
+          "end": 0.197
+        },
+        {
+          "word": "Monday",
+          "start": 0.267,
+          "end": 0.604
+        },
+        {
+          "word": "morning,",
+          "start": 0.685,
+          "end": 1.219
+        },
+        {
+          "word": "a",
+          "start": 1.289,
+          "end": 1.37
+        },
+        {
+          "word": "big",
+          "start": 1.544,
+          "end": 1.927
+        },
+        {
+          "word": "orange",
+          "start": 2.078,
+          "end": 2.601
+        },
+        {
+          "word": "sign",
+          "start": 2.647,
+          "end": 3.146
+        },
+        {
+          "word": "appeared",
+          "start": 3.262,
+          "end": 3.947
+        },
+        {
+          "word": "nailed",
+          "start": 4.122,
+          "end": 4.551
+        },
+        {
+          "word": "to",
+          "start": 4.598,
+          "end": 4.679
+        },
+        {
+          "word": "the",
+          "start": 4.76,
+          "end": 4.841
+        },
+        {
+          "word": "trunk.",
+          "start": 4.899,
+          "end": 5.271
+        }
+      ]
+    },
+    {
+      "text": "The sign said the old tree would be cut down to make a parking lot.",
+      "image": "page-06.webp",
+      "bg": "#F3E5F5",
+      "accent": "#6A1B9A",
+      "audio": "page-06.mp3",
+      "timestamps": [
+        {
+          "word": "The",
+          "start": 0.058,
+          "end": 0.151
+        },
+        {
+          "word": "sign",
+          "start": 0.221,
+          "end": 0.604
+        },
+        {
+          "word": "said",
+          "start": 0.685,
+          "end": 0.94
+        },
+        {
+          "word": "the",
+          "start": 0.998,
+          "end": 1.091
+        },
+        {
+          "word": "old",
+          "start": 1.207,
+          "end": 1.533
+        },
+        {
+          "word": "tree",
+          "start": 1.591,
+          "end": 2.032
+        },
+        {
+          "word": "would",
+          "start": 2.148,
+          "end": 2.368
+        },
+        {
+          "word": "be",
+          "start": 2.415,
+          "end": 2.519
+        },
+        {
+          "word": "cut",
+          "start": 2.589,
+          "end": 2.844
+        },
+        {
+          "word": "down",
+          "start": 2.926,
+          "end": 3.332
+        },
+        {
+          "word": "to",
+          "start": 3.448,
+          "end": 3.564
+        },
+        {
+          "word": "make",
+          "start": 3.634,
+          "end": 3.82
+        },
+        {
+          "word": "a",
+          "start": 3.855,
+          "end": 3.878
+        },
+        {
+          "word": "parking",
+          "start": 3.936,
+          "end": 4.354
+        },
+        {
+          "word": "lot.",
+          "start": 4.423,
+          "end": 4.702
+        }
+      ]
+    },
+    {
+      "text": "Valentina, Miguel, and their classmates read the sign and felt their hearts drop.",
+      "image": "page-07.webp",
+      "bg": "#FFF9C4",
+      "accent": "#F57F17",
+      "audio": "page-07.mp3",
+      "timestamps": [
+        {
+          "word": "Valentina,",
+          "start": 0.046,
+          "end": 1.022
+        },
+        {
+          "word": "Miguel,",
+          "start": 1.138,
+          "end": 1.823
+        },
+        {
+          "word": "and",
+          "start": 1.846,
+          "end": 1.985
+        },
+        {
+          "word": "their",
+          "start": 2.032,
+          "end": 2.183
+        },
+        {
+          "word": "classmates",
+          "start": 2.241,
+          "end": 2.995
+        },
+        {
+          "word": "read",
+          "start": 3.111,
+          "end": 3.355
+        },
+        {
+          "word": "the",
+          "start": 3.425,
+          "end": 3.506
+        },
+        {
+          "word": "sign",
+          "start": 3.564,
+          "end": 3.959
+        },
+        {
+          "word": "and",
+          "start": 4.017,
+          "end": 4.122
+        },
+        {
+          "word": "felt",
+          "start": 4.191,
+          "end": 4.447
+        },
+        {
+          "word": "their",
+          "start": 4.505,
+          "end": 4.702
+        },
+        {
+          "word": "hearts",
+          "start": 4.795,
+          "end": 5.201
+        },
+        {
+          "word": "drop.",
+          "start": 5.317,
+          "end": 5.759
+        }
+      ]
+    },
+    {
+      "text": "Their teacher, Señora Rosa, helped them search old books to learn about the tree.",
+      "image": "page-08.webp",
+      "bg": "#E8F5E9",
+      "accent": "#388E3C",
+      "audio": "page-08.mp3",
+      "timestamps": [
+        {
+          "word": "Their",
+          "start": 0.035,
+          "end": 0.279
+        },
+        {
+          "word": "teacher,",
+          "start": 0.337,
+          "end": 0.813
+        },
+        {
+          "word": "Señora",
+          "start": 0.871,
+          "end": 1.312
+        },
+        {
+          "word": "Rosa,",
+          "start": 1.382,
+          "end": 1.904
+        },
+        {
+          "word": "helped",
+          "start": 1.95,
+          "end": 2.241
+        },
+        {
+          "word": "them",
+          "start": 2.276,
+          "end": 2.438
+        },
+        {
+          "word": "search",
+          "start": 2.531,
+          "end": 2.868
+        },
+        {
+          "word": "old",
+          "start": 2.984,
+          "end": 3.262
+        },
+        {
+          "word": "books",
+          "start": 3.332,
+          "end": 3.68
+        },
+        {
+          "word": "to",
+          "start": 3.738,
+          "end": 3.831
+        },
+        {
+          "word": "learn",
+          "start": 3.913,
+          "end": 4.145
+        },
+        {
+          "word": "about",
+          "start": 4.191,
+          "end": 4.458
+        },
+        {
+          "word": "the",
+          "start": 4.516,
+          "end": 4.598
+        },
+        {
+          "word": "tree.",
+          "start": 4.656,
+          "end": 4.992
+        }
+      ]
+    },
+    {
+      "text": "They discovered the tree was planted eighty years ago by families who once lived right there.",
+      "image": "page-09.webp",
+      "bg": "#E3F2FD",
+      "accent": "#0277BD",
+      "audio": "page-09.mp3",
+      "timestamps": [
+        {
+          "word": "They",
+          "start": 0.046,
+          "end": 0.186
+        },
+        {
+          "word": "discovered",
+          "start": 0.244,
+          "end": 0.72
+        },
+        {
+          "word": "the",
+          "start": 0.766,
+          "end": 0.848
+        },
+        {
+          "word": "tree",
+          "start": 0.929,
+          "end": 1.405
+        },
+        {
+          "word": "was",
+          "start": 1.463,
+          "end": 1.625
+        },
+        {
+          "word": "planted",
+          "start": 1.741,
+          "end": 2.38
+        },
+        {
+          "word": "eighty",
+          "start": 2.554,
+          "end": 2.868
+        },
+        {
+          "word": "years",
+          "start": 2.949,
+          "end": 3.262
+        },
+        {
+          "word": "ago",
+          "start": 3.32,
+          "end": 3.646
+        },
+        {
+          "word": "by",
+          "start": 3.82,
+          "end": 3.994
+        },
+        {
+          "word": "families",
+          "start": 4.11,
+          "end": 4.69
+        },
+        {
+          "word": "who",
+          "start": 4.737,
+          "end": 4.876
+        },
+        {
+          "word": "once",
+          "start": 4.957,
+          "end": 5.201
+        },
+        {
+          "word": "lived",
+          "start": 5.271,
+          "end": 5.642
+        },
+        {
+          "word": "right",
+          "start": 5.793,
+          "end": 6.049
+        },
+        {
+          "word": "there.",
+          "start": 6.118,
+          "end": 6.571
+        }
+      ]
+    },
+    {
+      "text": "Miguel said, \"This tree holds our whole neighborhood's history inside its roots.\"",
+      "image": "page-10.webp",
+      "bg": "#FFF3E0",
+      "accent": "#E65100",
+      "audio": "page-10.mp3",
+      "timestamps": [
+        {
+          "word": "Miguel",
+          "start": 0.058,
+          "end": 0.36
+        },
+        {
+          "word": "said,",
+          "start": 0.441,
+          "end": 0.743
+        },
+        {
+          "word": "\"This",
+          "start": 0.766,
+          "end": 1.033
+        },
+        {
+          "word": "tree",
+          "start": 1.126,
+          "end": 1.614
+        },
+        {
+          "word": "holds",
+          "start": 1.707,
+          "end": 2.113
+        },
+        {
+          "word": "our",
+          "start": 2.171,
+          "end": 2.334
+        },
+        {
+          "word": "whole",
+          "start": 2.392,
+          "end": 2.728
+        },
+        {
+          "word": "neighborhood's",
+          "start": 2.786,
+          "end": 3.39
+        },
+        {
+          "word": "history",
+          "start": 3.448,
+          "end": 3.901
+        },
+        {
+          "word": "inside",
+          "start": 3.982,
+          "end": 4.481
+        },
+        {
+          "word": "its",
+          "start": 4.516,
+          "end": 4.667
+        },
+        {
+          "word": "roots.\"",
+          "start": 4.748,
+          "end": 5.236
+        }
+      ]
+    },
+    {
+      "text": "Valentina wrote a strong letter asking the mayor to please save the old tree.",
+      "image": "page-11.webp",
+      "bg": "#F3E5F5",
+      "accent": "#7B1FA2",
+      "audio": "page-11.mp3",
+      "timestamps": [
+        {
+          "word": "Valentina",
+          "start": 0.058,
+          "end": 0.522
+        },
+        {
+          "word": "wrote",
+          "start": 0.58,
+          "end": 0.813
+        },
+        {
+          "word": "a",
+          "start": 0.836,
+          "end": 0.871
+        },
+        {
+          "word": "strong",
+          "start": 0.987,
+          "end": 1.509
+        },
+        {
+          "word": "letter",
+          "start": 1.625,
+          "end": 1.962
+        },
+        {
+          "word": "asking",
+          "start": 2.078,
+          "end": 2.601
+        },
+        {
+          "word": "the",
+          "start": 2.67,
+          "end": 2.74
+        },
+        {
+          "word": "mayor",
+          "start": 2.786,
+          "end": 3.088
+        },
+        {
+          "word": "to",
+          "start": 3.158,
+          "end": 3.251
+        },
+        {
+          "word": "please",
+          "start": 3.367,
+          "end": 3.843
+        },
+        {
+          "word": "save",
+          "start": 3.913,
+          "end": 4.377
+        },
+        {
+          "word": "the",
+          "start": 4.423,
+          "end": 4.528
+        },
+        {
+          "word": "old",
+          "start": 4.609,
+          "end": 4.876
+        },
+        {
+          "word": "tree.",
+          "start": 4.946,
+          "end": 5.375
+        }
+      ]
+    },
+    {
+      "text": "The children walked door to door and collected more than two hundred signatures.",
+      "image": "page-12.webp",
+      "bg": "#FFF9C4",
+      "accent": "#F9A825",
+      "audio": "page-12.mp3",
+      "timestamps": [
+        {
+          "word": "The",
+          "start": 0.046,
+          "end": 0.151
+        },
+        {
+          "word": "children",
+          "start": 0.221,
+          "end": 0.662
+        },
+        {
+          "word": "walked",
+          "start": 0.778,
+          "end": 1.265
+        },
+        {
+          "word": "door",
+          "start": 1.44,
+          "end": 1.718
+        },
+        {
+          "word": "to",
+          "start": 1.776,
+          "end": 1.834
+        },
+        {
+          "word": "door",
+          "start": 1.904,
+          "end": 2.218
+        },
+        {
+          "word": "and",
+          "start": 2.299,
+          "end": 2.415
+        },
+        {
+          "word": "collected",
+          "start": 2.485,
+          "end": 2.937
+        },
+        {
+          "word": "more",
+          "start": 3.007,
+          "end": 3.17
+        },
+        {
+          "word": "than",
+          "start": 3.204,
+          "end": 3.355
+        },
+        {
+          "word": "two",
+          "start": 3.425,
+          "end": 3.785
+        },
+        {
+          "word": "hundred",
+          "start": 3.959,
+          "end": 4.4
+        },
+        {
+          "word": "signatures.",
+          "start": 4.516,
+          "end": 5.271
+        }
+      ]
+    },
+    {
+      "text": "At the town meeting, Valentina stood up tall and spoke clearly for the tree that could not speak for itself, and the mayor smiled and said yes.",
+      "image": "page-13.webp",
+      "bg": "#E8F5E9",
+      "accent": "#1B5E20",
+      "audio": "page-13.mp3",
+      "timestamps": []
+    }
+  ]
+}

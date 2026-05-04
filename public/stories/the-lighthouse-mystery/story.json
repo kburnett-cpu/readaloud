@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 1,
+  "id": "the-lighthouse-mystery",
+  "title": "The Lighthouse Mystery",
+  "author": "Hope Academy",
+  "narrator": "Kirk",
+  "cover": "cover.jpg",
+  "gradeLevel": "3rd",
+  "readingLevel": "E",
+  "lexile": "BR120L",
+  "wordCount": 373,
+  "highlightMode": "word",
+  "celebrationStyle": "confetti",
+  "display": {
+    "fontSize": 28,
+    "fontFamily": "Andika",
+    "lineHeight": 1.75,
+    "wordSpacing": "0.15em",
+    "letterSpacing": "0.03em"
+  },
+  "pages": [
+    {
+      "text": "Marisol and her brother Diego sailed to their grandfather's small island for the whole summer.",
+      "image": "page-01.webp",
+      "bg": "#E3F2FD",
+      "accent": "#1E88E5",
+      "audio": "page-01.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Abuelo's house was bright yellow with a red tin roof, sitting right beside the turquoise sea.",
+      "image": "page-02.webp",
+      "bg": "#FFF8E1",
+      "accent": "#F9A825",
+      "audio": "page-02.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "On their very first walk, Marisol spotted a tall, dark lighthouse at the top of the rocky hill.",
+      "image": "page-03.webp",
+      "bg": "#F3E5F5",
+      "accent": "#8E24AA",
+      "audio": "page-03.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Abuelo's eyes grew quiet when they asked about it, and he said only, \"That old place is forgotten.\"",
+      "image": "page-04.webp",
+      "bg": "#E8EAF6",
+      "accent": "#3949AB",
+      "audio": "page-04.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "But Marisol and Diego were not the kind of children who could leave a mystery alone.",
+      "image": "page-05.webp",
+      "bg": "#FCE4EC",
+      "accent": "#E53935",
+      "audio": "page-05.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "The next morning they pushed open the heavy lighthouse door and found dusty stairs spiraling up into the dark.",
+      "image": "page-06.webp",
+      "bg": "#E0F7FA",
+      "accent": "#00ACC1",
+      "audio": "page-06.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "At the very top, tucked beneath a broken lantern, Diego found an old logbook with water-stained pages.",
+      "image": "page-07.webp",
+      "bg": "#FFF3E0",
+      "accent": "#FB8C00",
+      "audio": "page-07.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "The pages were filled with strange symbols and numbers that neither of them could read right away.",
+      "image": "page-08.webp",
+      "bg": "#E8F5E9",
+      "accent": "#43A047",
+      "audio": "page-08.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Marisol said, \"It is a code — we can break it together, one page at a time.\"",
+      "image": "page-09.webp",
+      "bg": "#F9FBE7",
+      "accent": "#9E9D24",
+      "audio": "page-09.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Day after day they worked at Abuelo's kitchen table, matching symbols to letters until words appeared.",
+      "image": "page-10.webp",
+      "bg": "#EDE7F6",
+      "accent": "#5E35B1",
+      "audio": "page-10.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "The logbook told of a ship called La Esperanza that sank in a fierce storm fifty years ago.",
+      "image": "page-11.webp",
+      "bg": "#E1F5FE",
+      "accent": "#039BE5",
+      "audio": "page-11.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Then one entry made Marisol's heart stop — it said the keeper who let the light go dark was named Rafael Matos.",
+      "image": "page-12.webp",
+      "bg": "#FCE4EC",
+      "accent": "#D81B60",
+      "audio": "page-12.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Rafael Matos was Abuelo's name, and when they showed him the page, tears ran slowly down his brown cheeks.",
+      "image": "page-13.webp",
+      "bg": "#FFF8E1",
+      "accent": "#F57F17",
+      "audio": "page-13.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "He sat down, folded his hands, and said, \"I was only a boy, I was scared, and I have carried this secret alone for so long.\"",
+      "image": "page-14.webp",
+      "bg": "#E8EAF6",
+      "accent": "#3949AB",
+      "audio": "page-14.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "He told them everything — the storm, the broken lamp, the guilt that had lived in his chest like a stone.",
+      "image": "page-15.webp",
+      "bg": "#E0F7FA",
+      "accent": "#00838F",
+      "audio": "page-15.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Marisol took Abuelo's hand and said, \"You have carried this long enough — now we carry it with you.\"",
+      "image": "page-16.webp",
+      "bg": "#E8F5E9",
+      "accent": "#2E7D32",
+      "audio": "page-16.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Together the three of them walked to the lighthouse and left flowers at the door for the sailors of La Esperanza.",
+      "image": "page-17.webp",
+      "bg": "#F3E5F5",
+      "accent": "#7B1FA2",
+      "audio": "page-17.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Abuelo stood straighter after that, and his laugh, warm as the Caribbean sun, came back little by little.",
+      "image": "page-18.webp",
+      "bg": "#FFF9C4",
+      "accent": "#F9A825",
+      "audio": "page-18.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Marisol wrote the whole true story in a new notebook so the past would never be forgotten again.",
+      "image": "page-19.webp",
+      "bg": "#E1F5FE",
+      "accent": "#0277BD",
+      "audio": "page-19.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Some secrets grow heavy in the dark, but love and truth together are always strong enough to carry them into the light.",
+      "image": "page-20.webp",
+      "bg": "#FFF3E0",
+      "accent": "#E65100",
+      "audio": "page-20.mp3",
+      "timestamps": []
+    }
+  ]
+}

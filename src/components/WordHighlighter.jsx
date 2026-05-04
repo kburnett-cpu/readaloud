@@ -4,10 +4,10 @@ import { useState } from "react";
 // to the active state (no height/spacing shift when highlight switches on).
 const defaultStyle = {
   display: "inline",
-  padding: "3px 2px",
+  padding: "3px 6px",
   background: "transparent",
   color: "#2C3E50",
-  fontWeight: 400,
+  fontWeight: 700,
   borderBottom: "3px solid transparent",
   borderRadius: "2px",
   transition: "all 0.18s ease",

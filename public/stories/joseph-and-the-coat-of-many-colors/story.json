@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": "joseph-and-the-coat-of-many-colors",
+  "title": "Joseph and the Coat of Many Colors",
+  "author": "Hope Academy",
+  "narrator": "Kirk",
+  "cover": "cover.jpg",
+  "gradeLevel": "3rd",
+  "readingLevel": "E",
+  "lexile": "BR120L",
+  "wordCount": 182,
+  "highlightMode": "word",
+  "celebrationStyle": "confetti",
+  "display": {
+    "fontSize": 28,
+    "fontFamily": "Andika",
+    "lineHeight": 1.75,
+    "wordSpacing": "0.15em",
+    "letterSpacing": "0.03em"
+  },
+  "pages": [
+    {
+      "text": "Jacob loved his son Joseph more than all his other sons.",
+      "image": "page-01.webp",
+      "bg": "#FFF8E1",
+      "accent": "#F9A825",
+      "audio": "page-01.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "He made Joseph a beautiful coat with many bright colors.",
+      "image": "page-02.webp",
+      "bg": "#FFF3E0",
+      "accent": "#FB8C00",
+      "audio": "page-02.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Joseph's ten older brothers saw the coat and burned with jealousy.",
+      "image": "page-03.webp",
+      "bg": "#FCE4EC",
+      "accent": "#E53935",
+      "audio": "page-03.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "One day, the brothers grabbed Joseph and threw him into a deep pit.",
+      "image": "page-04.webp",
+      "bg": "#EDE7F6",
+      "accent": "#6A1B9A",
+      "audio": "page-04.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Then they sold Joseph to traders who took him far away to Egypt.",
+      "image": "page-05.webp",
+      "bg": "#E3F2FD",
+      "accent": "#1565C0",
+      "audio": "page-05.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "In Egypt, Joseph worked hard, but his master's wife told lies about him.",
+      "image": "page-06.webp",
+      "bg": "#FFF9C4",
+      "accent": "#F57F17",
+      "audio": "page-06.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Joseph was thrown into prison, even though he had done nothing wrong.",
+      "image": "page-07.webp",
+      "bg": "#EFEBE9",
+      "accent": "#4E342E",
+      "audio": "page-07.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Inside the dark prison, Joseph prayed and trusted that God had not forgotten him.",
+      "image": "page-08.webp",
+      "bg": "#E8EAF6",
+      "accent": "#3949AB",
+      "audio": "page-08.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "God gave Joseph the gift of understanding dreams, and word reached Pharaoh.",
+      "image": "page-09.webp",
+      "bg": "#E8F5E9",
+      "accent": "#2E7D32",
+      "audio": "page-09.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Joseph told Pharaoh that seven good years and seven hungry years were coming.",
+      "image": "page-10.webp",
+      "bg": "#FFF8E1",
+      "accent": "#F9A825",
+      "audio": "page-10.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Pharaoh was amazed and made Joseph the most powerful man in all of Egypt.",
+      "image": "page-11.webp",
+      "bg": "#FFF3E0",
+      "accent": "#E65100",
+      "audio": "page-11.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "When famine spread across the land, Joseph's brothers came to Egypt to beg for food.",
+      "image": "page-12.webp",
+      "bg": "#FCE4EC",
+      "accent": "#C62828",
+      "audio": "page-12.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Joseph looked at his brothers and felt tears fill his eyes, but he chose to forgive.",
+      "image": "page-13.webp",
+      "bg": "#E3F2FD",
+      "accent": "#0D47A1",
+      "audio": "page-13.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "God turned Joseph's suffering into a blessing for his whole family and all the people.",
+      "image": "page-14.webp",
+      "bg": "#E8F5E9",
+      "accent": "#1B5E20",
+      "audio": "page-14.mp3",
+      "timestamps": []
+    }
+  ]
+}
