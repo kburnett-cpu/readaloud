@@ -693,6 +693,22 @@
       "lexile": "BR120L",
       "tags": [],
       "narrator": "Kirk"
+    },
+    {
+      "id": "lucas-missing-homework-mystery",
+      "title": "Luca's Missing Homework Mystery",
+      "author": "Hope Academy",
+      "cover": "stories/lucas-missing-homework-mystery/cover.jpg",
+      "pages": 16,
+      "featured": false,
+      "gradeLevel": "4th",
+      "readingLevel": "F",
+      "lexile": "750L",
+      "tags": [
+        "teacher-created",
+        "story"
+      ],
+      "narrator": "Kirk"
     }
   ]
 }

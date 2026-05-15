@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "lucas-missing-homework-mystery",
+  "title": "Luca's Missing Homework Mystery",
+  "author": "Hope Academy",
+  "narrator": "Kirk",
+  "cover": "cover.jpg",
+  "gradeLevel": "4th",
+  "readingLevel": "F",
+  "lexile": "750L",
+  "wordCount": 1020,
+  "highlightMode": "word",
+  "celebrationStyle": "confetti",
+  "display": {
+    "fontSize": 22,
+    "fontFamily": "Andika",
+    "lineHeight": 1.75,
+    "wordSpacing": "0.15em",
+    "letterSpacing": "0.03em"
+  },
+  "pages": [
+    {
+      "text": "Luca woke up early on a bright Tuesday morning in his colorful neighborhood of Santo Domingo, feeling proud because he had finished all of his homework the night before. He carefully placed his math worksheet on top of his desk, planning to put it in his folder before school — but his little sister called him for breakfast, and he dashed away, leaving the paper behind.",
+      "image": "page-01.webp",
+      "bg": "#FFF8E1",
+      "accent": "#F9A825",
+      "audio": "page-01.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "At Hope Academy, Luca met his best friends Noah, Sophia, Holly, and Yeibel near the front gate, and they all walked to class together, laughing and talking about the soccer game at recess. Luca had tucked his homework loosely into his backpack at the last moment, but he never stopped to slide it safely into his homework folder.",
+      "image": "page-02.webp",
+      "bg": "#E8F5E9",
+      "accent": "#43A047",
+      "audio": "page-02.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Their teacher, Señora Martínez, greeted the class with a warm smile and reminded everyone to take out their math homework and place it on their desks, ready for the morning check. Luca reached into his backpack and pulled out his folder — but the worksheet was not inside, only a blank piece of paper and a broken pencil.",
+      "image": "page-03.webp",
+      "bg": "#E3F2FD",
+      "accent": "#1E88E5",
+      "audio": "page-03.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Luca's heart started beating fast as he dug deeper into his backpack, searching through his books, his lunchbox pocket, and even his pencil case, but the homework was nowhere to be found. He remembered placing it in his bag at home, but he had never actually put it into his folder, and now it was probably loose somewhere — maybe even crumpled at the bottom.",
+      "image": "page-04.webp",
+      "bg": "#FBE9E7",
+      "accent": "#E64A19",
+      "audio": "page-04.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Sophia leaned over and whispered, \"Luca, are you okay? You look worried,\" and Luca shook his head slowly, whispering back that he could not find his homework anywhere. Sophia gave him an encouraging look and said, \"Maybe you left it in the classroom — check again after morning instructions,\" but Luca had a sinking feeling it was not going to be that simple.",
+      "image": "page-05.webp",
+      "bg": "#F3E5F5",
+      "accent": "#8E24AA",
+      "audio": "page-05.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Señora Martínez walked calmly from desk to desk, collecting homework from each student, and when she reached Luca, he looked up at her with wide, nervous eyes and said quietly, \"I finished it, I promise, but I can't find it right now.\" The teacher raised an eyebrow, folded her arms gently, and said, \"Luca, that is hard to believe if you do not have it to show me.\"",
+      "image": "page-06.webp",
+      "bg": "#E8EAF6",
+      "accent": "#3949AB",
+      "audio": "page-06.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Luca felt his cheeks grow warm with embarrassment as the other students glanced over at him, and he desperately wanted his teacher to believe that he really had done the work. He explained that he had finished every single problem at his desk the night before, but that he must have left it loose in his bag instead of putting it in his folder where it belonged.",
+      "image": "page-07.webp",
+      "bg": "#FFF3E0",
+      "accent": "#FB8C00",
+      "audio": "page-07.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Señora Martínez listened patiently, but she shook her head and said, \"Without the homework in front of me, I have no way of knowing if it was completed, and part of responsibility is making sure your work arrives safely to class.\" The word responsibility landed in Luca's chest like a heavy stone, because deep down he knew she was right — he should have put that paper in his folder the moment he finished it.",
+      "image": "page-08.webp",
+      "bg": "#E0F7FA",
+      "accent": "#00838F",
+      "audio": "page-08.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "When recess arrived, Noah pulled Luca aside on the breezy school courtyard surrounded by mango trees and said, \"Let's retrace your steps — where did you go this morning?\" Together, the two friends walked from the classroom door to the hallway, then to the water fountain, carefully scanning the ground for any sign of the missing worksheet.",
+      "image": "page-09.webp",
+      "bg": "#F1F8E9",
+      "accent": "#558B2F",
+      "audio": "page-09.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Meanwhile, Holly and Yeibel decided to help too, spreading out across the sunny courtyard and checking under the wooden benches, near the soccer field, and beside the flower garden that the students had planted together last spring. Yeibel suddenly spotted something white fluttering near the fence — it was caught on a bush, flapping gently in the warm Caribbean breeze.",
+      "image": "page-10.webp",
+      "bg": "#FFF8E1",
+      "accent": "#F57F17",
+      "audio": "page-10.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "\"Luca! Over here!\" Yeibel shouted, waving her arms, and when Luca ran over and picked up the crinkled paper, he immediately recognized his own neat handwriting filled with completed math problems. The worksheet must have slipped out of his backpack when he was running to meet his friends that morning — and if it had not gotten caught on that bush, it might have blown away forever.",
+      "image": "page-11.webp",
+      "bg": "#FCE4EC",
+      "accent": "#C2185B",
+      "audio": "page-11.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Luca held the paper carefully with both hands and felt a rush of relief mixed with gratitude for his amazing friends, who had shown real empathy by giving up their recess time just to help him. He looked at Noah, Sophia, Holly, and Yeibel and said sincerely, \"Thank you — I would never have found it without every single one of you.\"",
+      "image": "page-12.webp",
+      "bg": "#E8F5E9",
+      "accent": "#2E7D32",
+      "audio": "page-12.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Back in the classroom after recess, Luca walked straight to Señora Martínez's desk and placed the slightly wrinkled worksheet in front of her, explaining exactly where Yeibel had discovered it and how his friends had helped him search. The teacher looked at the completed math problems, then looked at Luca's honest face, and her expression softened into a gentle, understanding smile.",
+      "image": "page-13.webp",
+      "bg": "#E3F2FD",
+      "accent": "#1565C0",
+      "audio": "page-13.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "\"I believe you, Luca,\" Señora Martínez said warmly, \"and I can see from this paper that you worked very hard on these problems.\" Then she added kindly, \"But I want you to understand that responsibility means not just finishing your work, but also taking care of it all the way from your home to my hands — every single step of the journey matters.\"",
+      "image": "page-14.webp",
+      "bg": "#F3E5F5",
+      "accent": "#6A1B9A",
+      "audio": "page-14.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "Luca nodded seriously and promised that from that day forward, the very first thing he would do after completing any assignment was slide it directly into his homework folder — no more leaving papers loose, no more last-minute rushing. He also decided he would write a small reminder note and stick it to his desk at home, so he would never forget again.",
+      "image": "page-15.webp",
+      "bg": "#FBE9E7",
+      "accent": "#BF360C",
+      "audio": "page-15.mp3",
+      "timestamps": []
+    },
+    {
+      "text": "That afternoon, walking home together through the warm golden light of Santo Domingo, Luca laughed with his four friends about their great recess detective adventure, feeling grateful for their empathy and for the important lesson he had learned about responsibility. From that day on, everyone at Hope Academy called them the Homework Heroes — five friends who always looked out for each other, no matter what.",
+      "image": "page-16.webp",
+      "bg": "#FFF8E1",
+      "accent": "#F9A825",
+      "audio": "page-16.mp3",
+      "timestamps": []
+    }
+  ]
+}
