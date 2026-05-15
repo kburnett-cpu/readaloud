@@ -664,24 +664,6 @@
       "narrator": "Kirk"
     },
     {
-      "id": "spelling-unit-22",
-      "title": "Spelling Unit 22: I Before E",
-      "author": "Hope Academy",
-      "cover": "stories/spelling-unit-22/cover.jpg",
-      "pages": 1,
-      "featured": false,
-      "gradeLevel": "4th",
-      "readingLevel": "F",
-      "lexile": "600L",
-      "tags": [
-        "spelling",
-        "vocabulary",
-        "unit-22",
-        "fourth-grade"
-      ],
-      "narrator": "Kirk"
-    },
-    {
       "id": "the-mapmakers-secret",
       "title": "The Mapmaker's Secret",
       "author": "Hope Academy",
