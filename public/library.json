@@ -691,6 +691,22 @@
         "story"
       ],
       "narrator": "Kirk"
+    },
+    {
+      "id": "james-and-mas-best-day",
+      "title": "James and Mía's Best Day",
+      "author": "Hope Academy",
+      "cover": "stories/james-and-mas-best-day/cover.jpg",
+      "pages": 16,
+      "featured": true,
+      "gradeLevel": "3rd",
+      "readingLevel": "D",
+      "lexile": "400L",
+      "tags": [
+        "teacher-created",
+        "story"
+      ],
+      "narrator": "Kirk"
     }
   ]
 }
